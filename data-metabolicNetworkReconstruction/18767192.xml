@@ -1,0 +1,610 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18767192</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>12</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0290</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>101</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Dec</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biotechnology and bioengineering</Title>
+                <ISOAbbreviation>Biotechnol. Bioeng.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-scale model for Clostridium acetobutylicum: Part I. Metabolic network resolution and analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1036-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/bit.22010</ELocationID>
+            <Abstract>
+                <AbstractText>A genome-scale metabolic network reconstruction for Clostridium acetobutylicum (ATCC 824) was carried out using a new semi-automated reverse engineering algorithm. The network consists of 422 intracellular metabolites involved in 552 reactions and includes 80 membrane transport reactions. The metabolic network illustrates the reliance of clostridia on the urea cycle, intracellular L-glutamate solute pools, and the acetylornithine transaminase for amino acid biosynthesis from the 2-oxoglutarate precursor. The semi-automated reverse engineering algorithm identified discrepancies in reaction network databases that are major obstacles for fully automated network-building algorithms. The proposed semi-automated approach allowed for the conservation of unique clostridial metabolic pathways, such as an incomplete TCA cycle. A thermodynamic analysis was used to determine the physiological conditions under which proposed pathways (e.g., reverse partial TCA cycle and reverse arginine biosynthesis pathway) are feasible. The reconstructed metabolic network was used to create a genome-scale model that correctly characterized the butyrate kinase knock-out and the asolventogenic M5 pSOL1 megaplasmid degenerate strains. Systematic gene knock-out simulations were performed to identify a set of genes encoding clostridial enzymes essential for growth in silico.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Senger</LastName>
+                    <ForeName>Ryan S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Delaware Biotechnology Institute, University of Delaware, 15 Innovation Way Newark, Delaware 19711, USA. senger@dbi.udel.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papoutsakis</LastName>
+                    <ForeName>Eleftherios T</ForeName>
+                    <Initials>ET</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 GM078947-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947-03</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32GM078947</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biotechnol Bioeng</MedlineTA>
+            <NlmUniqueID>7502021</NlmUniqueID>
+            <ISSNLinking>0006-3592</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>3KX376GY7L</RegistryNumber>
+                <NameOfSubstance UI="D018698">Glutamic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8W8T17847W</RegistryNumber>
+                <NameOfSubstance UI="D014508">Urea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>94ZLA3W45F</RegistryNumber>
+                <NameOfSubstance UI="D001120">Arginine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E524N2IXA3</RegistryNumber>
+                <NameOfSubstance UI="D009952">Ornithine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000637">Transaminases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.11</RegistryNumber>
+                <NameOfSubstance UI="C018731">acetylornithine transaminase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.2.-</RegistryNumber>
+                <NameOfSubstance UI="D017851">Phosphotransferases (Carboxyl Group Acceptor)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.2.7</RegistryNumber>
+                <NameOfSubstance UI="C019285">butyrate kinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2005 Jan;71(1):530-7</RefSource>
+                <PMID Version="1">15640230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1993 Sep;65(3):1243-54</RefSource>
+                <PMID Version="1">8241405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Aug;185(15):4539-47</RefSource>
+                <PMID Version="1">12867463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2001 Nov 7;213(1):73-88</RefSource>
+                <PMID Version="1">11708855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1987 Dec;53(12):2854-61</RefSource>
+                <PMID Version="1">16347502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2006 Sep;152(Pt 9):2619-24</RefSource>
+                <PMID Version="1">16946257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:177</RefSource>
+                <PMID Version="1">16571130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</RefSource>
+                <PMID Version="1">10592173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2006;2:50</RefSource>
+                <PMID Version="1">17016516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2001 Feb;19(2):125-30</RefSource>
+                <PMID Version="1">11175725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:296</RefSource>
+                <PMID Version="1">16772023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D181-6</RefSource>
+                <PMID Version="1">16381841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1991 Dec;57(12):3517-21</RefSource>
+                <PMID Version="1">1785927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(9):R54</RefSource>
+                <PMID Version="1">12952533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Sep 5;277(5331):1453-62</RefSource>
+                <PMID Version="1">9278503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2006 Dec 1;126(4):440-53</RefSource>
+                <PMID Version="1">16822574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):304-5</RefSource>
+                <PMID Version="1">10592255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1989 Feb;55(2):323-9</RefSource>
+                <PMID Version="1">2719476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Dec;3(12):969-78</RefSource>
+                <PMID Version="1">16261177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Sci Monit. 2002 Jun;8(6):RA119-27</RefSource>
+                <PMID Version="1">12070452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1998 Apr 5;58(2-3):215-21</RefSource>
+                <PMID Version="1">10191392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Aug;183(16):4823-38</RefSource>
+                <PMID Version="1">11466286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1990 Dec 5;36(10):1070-82</RefSource>
+                <PMID Version="1">18595046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 1999 May 28;71(1-3):191-205</RefSource>
+                <PMID Version="1">10483106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Microbiol. 2001 Aug;91(2):364-72</RefSource>
+                <PMID Version="1">11473602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Oct 12;276(41):38320-8</RefSource>
+                <PMID Version="1">11479309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2000 Jan 5;67(1):1-11</RefSource>
+                <PMID Version="1">10581430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Jan 1;30(1):42-6</RefSource>
+                <PMID Version="1">11752249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1996 Feb;178(3):871-80</RefSource>
+                <PMID Version="1">8550525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1978 Feb;133(2):686-91</RefSource>
+                <PMID Version="1">24039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Nov;176(21):6433-8</RefSource>
+                <PMID Version="1">7961393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1984 Feb;26(2):174-87</RefSource>
+                <PMID Version="1">18551704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2005 Mar;69(1):124-54</RefSource>
+                <PMID Version="1">15755956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2001 Sep;56(5-6):634-49</RefSource>
+                <PMID Version="1">11601609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2007;8:212</RefSource>
+                <PMID Version="1">17584497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Sep 28;282(39):28791-9</RefSource>
+                <PMID Version="1">17573341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1996;266:227-58</RefSource>
+                <PMID Version="1">8743688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2001 Apr;3(2):115-23</RefSource>
+                <PMID Version="1">11289788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jan;35(Database issue):D274-9</RefSource>
+                <PMID Version="1">17135193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1975 Jun;122(3):799-809</RefSource>
+                <PMID Version="1">238949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2003 May;69(5):2831-41</RefSource>
+                <PMID Version="1">12732555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2005 Nov;13(11):550-8</RefSource>
+                <PMID Version="1">16169729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ind Microbiol Biotechnol. 2001 Nov;27(5):329-35</RefSource>
+                <PMID Version="1">11781809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2003 Apr;7(2):238-51</RefSource>
+                <PMID Version="1">12714058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D431-3</RefSource>
+                <PMID Version="1">14681450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2005 Dec 30;92(7):850-64</RefSource>
+                <PMID Version="1">16155945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2003 Dec;67(4):686-723</RefSource>
+                <PMID Version="1">14665680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Feb 1;23(3):351-7</RefSource>
+                <PMID Version="1">17150997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 May 13;100(10):5944-9</RefSource>
+                <PMID Version="1">12730377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2005;6:11</RefSource>
+                <PMID Version="1">15659246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bacteriol Rev. 1972 Dec;36(4):407-77</RefSource>
+                <PMID Version="1">4568761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1982 Dec;44(6):1318-24</RefSource>
+                <PMID Version="1">16346149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2001 Apr 21;357(9264):1225-40</RefSource>
+                <PMID Version="1">11418146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1995 Jul;118(1):101-8</RefSource>
+                <PMID Version="1">8537297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D369-72</RefSource>
+                <PMID Version="1">16381888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2003 Feb;13(2):244-53</RefSource>
+                <PMID Version="1">12566402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2004 Nov 22;20(17):3221-35</RefSource>
+                <PMID Version="1">15247105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Nov 20;390(6657):249-56</RefSource>
+                <PMID Version="1">9384377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1986 Dec;50(4):484-524</RefSource>
+                <PMID Version="1">3540574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Extremophiles. 2002 Aug;6(4):275-81</RefSource>
+                <PMID Version="1">12215812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1996 Jul 15;239(2):427-33</RefSource>
+                <PMID Version="1">8706750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1987 Dec;169(12):5597-604</RefSource>
+                <PMID Version="1">3119567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:512</RefSource>
+                <PMID Version="1">17123434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Mar;176(5):1443-50</RefSource>
+                <PMID Version="1">8113186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1994 Jul 20;1207(1):1-11</RefSource>
+                <PMID Version="1">8043597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1982 Aug;151(2):971-5</RefSource>
+                <PMID Version="1">6124533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Microbiol. 2005;5:8</RefSource>
+                <PMID Version="1">15752426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1992 Dec;58(12):3896-902</RefSource>
+                <PMID Version="1">16348821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jan;88(1):37-49</RefSource>
+                <PMID Version="1">15489308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1988 Sep 20;32(7):843-52</RefSource>
+                <PMID Version="1">18587795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2007;8:228</RefSource>
+                <PMID Version="1">17603872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Biochem Mol Biol. 2002;37(5):287-337</RefSource>
+                <PMID Version="1">12449427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Apr;184(7):1966-73</RefSource>
+                <PMID Version="1">11889105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2006 Aug 11;2(8):e101</RefSource>
+                <PMID Version="1">16895435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Jan 1;29(1):123-5</RefSource>
+                <PMID Version="1">11125067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jun 30;270(26):15598-606</RefSource>
+                <PMID Version="1">7797557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2006;2:2006.0004</RefSource>
+                <PMID Version="1">16738551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1994 Jan;60(1):39-44</RefSource>
+                <PMID Version="1">16349164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys Chem. 2004 Apr 1;109(1):73-84</RefSource>
+                <PMID Version="1">15059661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Nov 14;103(46):17480-4</RefSource>
+                <PMID Version="1">17088549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D511-6</RefSource>
+                <PMID Version="1">16381923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2006 Feb 15;90(4):1453-61</RefSource>
+                <PMID Version="1">16299075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2005 Oct 20;92(2):223-30</RefSource>
+                <PMID Version="1">15962336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1985 Jan;27(1):50-66</RefSource>
+                <PMID Version="1">18553576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1984 Jan;47(1):193-4</RefSource>
+                <PMID Version="1">6696415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2002 Apr 21;215(4):491-501</RefSource>
+                <PMID Version="1">12069492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1998 Feb;180(4):767-72</RefSource>
+                <PMID Version="1">9473028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Nov 8;277(45):42563-71</RefSource>
+                <PMID Version="1">12200425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Mar;183(6):2051-8</RefSource>
+                <PMID Version="1">11222605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1976 Sep;127(3):1315-23</RefSource>
+                <PMID Version="1">8431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1992 Mar;174(6):1848-53</RefSource>
+                <PMID Version="1">1548233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2007 Mar 1;92(5):1792-805</RefSource>
+                <PMID Version="1">17172310</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001120" MajorTopicYN="N">Arginine</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048708" MajorTopicYN="N">Cell Growth Processes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046969" MajorTopicYN="N">Clostridium acetobutylicum</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055786" MajorTopicYN="N">Gene Knockout Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018698" MajorTopicYN="N">Glutamic Acid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009952" MajorTopicYN="N">Ornithine</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017851" MajorTopicYN="N">Phosphotransferases (Carboxyl Group Acceptor)</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013816" MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000637" MajorTopicYN="N">Transaminases</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014508" MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS120875</OtherID>
+        <OtherID Source="NLM">PMC2760220</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18767192</ArticleId>
+            <ArticleId IdType="doi">10.1002/bit.22010</ArticleId>
+            <ArticleId IdType="pmc">PMC2760220</ArticleId>
+            <ArticleId IdType="mid">NIHMS120875</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

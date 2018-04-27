@@ -1,0 +1,352 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24628959</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1475-2859</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbial cell factories</Title>
+                <ISOAbbreviation>Microb. Cell Fact.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-scale metabolic network reconstruction of Saccharopolyspora spinosa for spinosad production improvement.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1475-2859-13-41</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Spinosad is a macrolide antibiotic produced by Saccharopolyspora spinosa with aerobic fermentation. However, the wild strain has a low productivity. In this article, a computational guided engineering approach was adopted in order to improve the yield of spinosad in S. spinosa.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Firstly, a genome-scale metabolic network reconstruction (GSMR) for S.spinosa based on its genome information, literature data and experimental data was established. The model was consists of 1,577 reactions, 1,726 metabolites, and 733 enzymes after manually refined. Then, amino acids supplying experiments were performed in order to test the capabilities of the model, and the results showed a high consistency. Subsequently, transhydrogenase (PntAB, EC 1.6.1.2) was chosen as the potential target for spinosad yield improvement based on the in silico metabolic network models. Furthermore, the target gene was manipulated in the parent strain in order to validate the model predictions. At last, shake flask fermentation was carried out which led to spinosad production of 75.32 mg/L, 86.5% higher than the parent strain (40.39 mg/L).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results confirmed the model had a high potential in engineering S. spinosa for spinosad production. It is the first GSMM for S.spinosa, it has significance for a better understanding of the comprehensive metabolism and guiding strain designing of Saccharopolyspora spinosa in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiaoyang</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Chuanbo</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Meiling</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Wenyu</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Engineering, School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, PR China. wenyulu@tju.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Microb Cell Fact</MedlineTA>
+            <NlmUniqueID>101139812</NlmUniqueID>
+            <ISSNLinking>1475-2859</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018942">Macrolides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>XPA88EAP6V</RegistryNumber>
+                <NameOfSubstance UI="C415329">spinosad</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2000 Nov-Dec;16(6):927-39</RefSource>
+                <PMID Version="1">11101318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2013 Jan;97(2):519-39</RefSource>
+                <PMID Version="1">23188456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Oct;183(19):5632-8</RefSource>
+                <PMID Version="1">11544225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2001 Aug;12(4):419-25</RefSource>
+                <PMID Version="1">11551473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ind Microbiol Biotechnol. 2001 Dec;27(6):399-402</RefSource>
+                <PMID Version="1">11774006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Nov;2(11):886-97</RefSource>
+                <PMID Version="1">15494745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Oct;81(20):6442-6</RefSource>
+                <PMID Version="1">6387704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Prod Rep. 1992 Oct;9(5):447-79</RefSource>
+                <PMID Version="1">1436739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1994 Aug 19;146(1):39-45</RefSource>
+                <PMID Version="1">8063103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 1995 Nov;43(6):1096-8</RefSource>
+                <PMID Version="1">8590661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 1997 Oct 15;155(2):223-9</RefSource>
+                <PMID Version="1">9351205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1963 Feb;238:666-75</RefSource>
+                <PMID Version="1">13958485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Lett. 2004 Nov;26(22):1739-44</RefSource>
+                <PMID Version="1">15604828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2005 Jun;15(6):820-9</RefSource>
+                <PMID Version="1">15930493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:296</RefSource>
+                <PMID Version="1">16772023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):727-38</RefSource>
+                <PMID Version="1">17406635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2007 May;75(1):47-53</RefSource>
+                <PMID Version="1">17216441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microbiol Biotechnol. 2007 Mar;17(3):379-92</RefSource>
+                <PMID Version="1">18050939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2008 Oct;19(5):454-60</RefSource>
+                <PMID Version="1">18760356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2009 Jan 1;102(1):209-20</RefSource>
+                <PMID Version="1">18698648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Biochem Biotechnol. 2009 Mar;152(3):440-8</RefSource>
+                <PMID Version="1">18594774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2009 Nov;11(6):367-81</RefSource>
+                <PMID Version="1">19666133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2010 Mar 10;132(9):2901-3</RefSource>
+                <PMID Version="1">20158237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                <PMID Version="1">20212490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Antibiot (Tokyo). 2010 Mar;63(3):101-11</RefSource>
+                <PMID Version="1">20150928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2010 Aug 20;149(1-2):24-32</RefSource>
+                <PMID Version="1">20600382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Cell Fact. 2010;9:84</RefSource>
+                <PMID Version="1">21059201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D38-51</RefSource>
+                <PMID Version="1">21097890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Lett. 2011 Apr;33(4):733-9</RefSource>
+                <PMID Version="1">21107647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2011 May;13(3):345-52</RefSource>
+                <PMID Version="1">21515217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 May 5;473(7345):109-12</RefSource>
+                <PMID Version="1">21544146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2011 Jun;193(12):3150-1</RefSource>
+                <PMID Version="1">21478350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2011 Aug;29(8):370-8</RefSource>
+                <PMID Version="1">21561673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2011 Dec;92(5):929-37</RefSource>
+                <PMID Version="1">21670981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2011 Dec;325(1):22-9</RefSource>
+                <PMID Version="1">22092858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2012 Aug;23(4):617-23</RefSource>
+                <PMID Version="1">22054827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Cell Fact. 2013;12:52</RefSource>
+                <PMID Version="1">23705993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2001 May;8(5):487-99</RefSource>
+                <PMID Version="1">11358695</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004338" MajorTopicYN="N">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018942" MajorTopicYN="N">Macrolides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060847" MajorTopicYN="Y">Metabolic Engineering</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016930" MajorTopicYN="N">Saccharopolyspora</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4003821</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24628959</ArticleId>
+            <ArticleId IdType="pii">1475-2859-13-41</ArticleId>
+            <ArticleId IdType="doi">10.1186/1475-2859-13-41</ArticleId>
+            <ArticleId IdType="pmc">PMC4003821</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,370 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23349810</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Industrial systems biology of Saccharomyces cerevisiae enables novel succinic acid cell factory.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e54144</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0054144</ELocationID>
+            <Abstract>
+                <AbstractText>Saccharomyces cerevisiae is the most well characterized eukaryote, the preferred microbial cell factory for the largest industrial biotechnology product (bioethanol), and a robust commerically compatible scaffold to be exploitted for diverse chemical production. Succinic acid is a highly sought after added-value chemical for which there is no native pre-disposition for production and accmulation in S. cerevisiae. The genome-scale metabolic network reconstruction of S. cerevisiae enabled in silico gene deletion predictions using an evolutionary programming method to couple biomass and succinate production. Glycine and serine, both essential amino acids required for biomass formation, are formed from both glycolytic and TCA cycle intermediates. Succinate formation results from the isocitrate lyase catalyzed conversion of isocitrate, and from the α-keto-glutarate dehydrogenase catalyzed conversion of α-keto-glutarate. Succinate is subsequently depleted by the succinate dehydrogenase complex. The metabolic engineering strategy identified included deletion of the primary succinate consuming reaction, Sdh3p, and interruption of glycolysis derived serine by deletion of 3-phosphoglycerate dehydrogenase, Ser3p/Ser33p. Pursuing these targets, a multi-gene deletion strain was constructed, and directed evolution with selection used to identify a succinate producing mutant. Physiological characterization coupled with integrated data analysis of transcriptome data in the metabolically engineered strain were used to identify 2(nd)-round metabolic engineering targets. The resulting strain represents a 30-fold improvement in succinate titer, and a 43-fold improvement in succinate yield on biomass, with only a 2.8-fold decrease in the specific growth rate compared to the reference strain. Intuitive genetic targets for either over-expression or interruption of succinate producing or consuming pathways, respectively, do not lead to increased succinate. Rather, we demonstrate how systems biology tools coupled with directed evolution and selection allows non-intuitive, rapid and substantial re-direction of carbon fluxes in S. cerevisiae, and hence show proof of concept that this is a potentially attractive cell factory for over-producing different platform chemicals.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Otero</LastName>
+                    <ForeName>José Manuel</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biological Engineering, Chalmers University of Technology, Gothenburg, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cimini</LastName>
+                    <ForeName>Donatella</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patil</LastName>
+                    <ForeName>Kiran R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poulsen</LastName>
+                    <ForeName>Simon G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsson</LastName>
+                    <ForeName>Lisbeth</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029701">Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>AB6MNQ6J6L</RegistryNumber>
+                <NameOfSubstance UI="D019802">Succinic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000637">Transaminases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.44</RegistryNumber>
+                <NameOfSubstance UI="C510187">AGX1 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.1.2.-</RegistryNumber>
+                <NameOfSubstance UI="D000446">Aldehyde-Lyases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.1.2.5</RegistryNumber>
+                <NameOfSubstance UI="C086382">GLY1 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 1997 Dec;7(12):1174-83</RefSource>
+                <PMID Version="1">9414323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2001 Feb;19(2):125-30</RefSource>
+                <PMID Version="1">11175725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 2002;350:87-96</RefSource>
+                <PMID Version="1">12073338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Yeast Res. 2008 Feb;8(1):122-31</RefSource>
+                <PMID Version="1">17727659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Biochem Eng Biotechnol. 2007;108:1-40</RefSource>
+                <PMID Version="1">17684710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 2006 Sep;23(12):857-65</RefSource>
+                <PMID Version="1">17001629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2001 Apr;55(3):263-83</RefSource>
+                <PMID Version="1">11341306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol. 2007;6(2):4</RefSource>
+                <PMID Version="1">17439666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2007 Sep;76(4):727-40</RefSource>
+                <PMID Version="1">17609945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2004 Dec;66(2):131-42</RefSource>
+                <PMID Version="1">15372215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2006;7(11):R107</RefSource>
+                <PMID Version="1">17105650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Oct;26(10):1155-60</RefSource>
+                <PMID Version="1">18846089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2001 Mar;26(3):179-86</RefSource>
+                <PMID Version="1">11246024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Appl Genet Mol Biol. 2004;3:Article3</RefSource>
+                <PMID Version="1">16646809</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2002 Apr;58(5):663-8</RefSource>
+                <PMID Version="1">11956751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 1992 Jul;8(7):501-17</RefSource>
+                <PMID Version="1">1523884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2008 Feb;26(2):100-8</RefSource>
+                <PMID Version="1">18191255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1992 Jan 2;110(1):119-22</RefSource>
+                <PMID Version="1">1544568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2008 May;74(9):2766-77</RefSource>
+                <PMID Version="1">18344340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2003 Feb;13(2):244-53</RefSource>
+                <PMID Version="1">12566402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Rev. 2006 Mar;30(2):187-214</RefSource>
+                <PMID Version="1">16472304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 1999 Oct 1;15(5):777-793</RefSource>
+                <PMID Version="1">10514248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008;9:341</RefSource>
+                <PMID Version="1">18638364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006;34(13):3771-8</RefSource>
+                <PMID Version="1">16893960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry (Mosc). 2006 Jan;71(1):39-45</RefSource>
+                <PMID Version="1">16457616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2005;6:308</RefSource>
+                <PMID Version="1">16375763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2008 Sep;10(5):246-54</RefSource>
+                <PMID Version="1">18555717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2006 Mar;8(2):102-11</RefSource>
+                <PMID Version="1">16289778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2008 Apr 1;99(5):1140-53</RefSource>
+                <PMID Version="1">17972330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Enzyme Microb Technol. 2000 Jun 1;26(9-10):706-714</RefSource>
+                <PMID Version="1">10862876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2008;2:71</RefSource>
+                <PMID Version="1">18687109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Jul;14(7):1298-309</RefSource>
+                <PMID Version="1">15197165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2009;3:17</RefSource>
+                <PMID Version="1">19200357</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000446" MajorTopicYN="N">Aldehyde-Lyases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002952" MajorTopicYN="N">Citric Acid Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019020" MajorTopicYN="N">Directed Molecular Evolution</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005285" MajorTopicYN="N">Fermentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007218" MajorTopicYN="N">Industrial Microbiology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060847" MajorTopicYN="N">Metabolic Engineering</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029701" MajorTopicYN="N">Saccharomyces cerevisiae Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019802" MajorTopicYN="N">Succinic Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049490" MajorTopicYN="N">Systems Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000637" MajorTopicYN="N">Transaminases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059467" MajorTopicYN="N">Transcriptome</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3549990</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23349810</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0054144</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-34344</ArticleId>
+            <ArticleId IdType="pmc">PMC3549990</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

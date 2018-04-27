@@ -1,0 +1,324 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21474551</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1758-0463</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2011</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Database : the journal of biological databases and curation</Title>
+                <ISOAbbreviation>Database (Oxford)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CycADS: an annotation database system to ease the development and update of BioCyc databases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>bar008</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/database/bar008</ELocationID>
+            <Abstract>
+                <AbstractText>In recent years, genomes from an increasing number of organisms have been sequenced, but their annotation remains a time-consuming process. The BioCyc databases offer a framework for the integrated analysis of metabolic networks. The Pathway tool software suite allows the automated construction of a database starting from an annotated genome, but it requires prior integration of all annotations into a specific summary file or into a GenBank file. To allow the easy creation and update of a BioCyc database starting from the multiple genome annotation resources available over time, we have developed an ad hoc data management system that we called Cyc Annotation Database System (CycADS). CycADS is centred on a specific database model and on a set of Java programs to import, filter and export relevant information. Data from GenBank and other annotation sources (including for example: KAAS, PRIAM, Blast2GO and PhylomeDB) are collected into a database to be subsequently filtered and extracted to generate a complete annotation file. This file is then used to build an enriched BioCyc database using the PathoLogic program of Pathway Tools. The CycADS pipeline for annotation management was used to build the AcypiCyc database for the pea aphid (Acyrthosiphon pisum) whose genome was recently sequenced. The AcypiCyc database webpage includes also, for comparative analyses, two other metabolic reconstruction BioCyc databases generated using CycADS: TricaCyc for Tribolium castaneum and DromeCyc for Drosophila melanogaster. Linked to its flexible design, CycADS offers a powerful software tool for the generation and regular updating of enriched BioCyc databases. The CycADS system is particularly suited for metabolic gene annotation and network reconstruction in newly sequenced genomes. Because of the uniform annotation used for metabolic network reconstruction, CycADS is particularly useful for comparative analysis of the metabolism of different organisms. Database URL: http://www.cycadsys.org.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vellozo</LastName>
+                    <ForeName>Augusto F</ForeName>
+                    <Initials>AF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UMR203 BF2I, Biologie Fonctionnelle Insectes et Interactions, INRA, INSA-Lyon, Université de Lyon, 20 av. A. Einstein, F-69621 Villeurbanne, France. augusto@cycadsys.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Véron</LastName>
+                    <ForeName>Amélie S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baa-Puyoulet</LastName>
+                    <ForeName>Patrice</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huerta-Cepas</LastName>
+                    <ForeName>Jaime</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cottret</LastName>
+                    <ForeName>Ludovic</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Febvay</LastName>
+                    <ForeName>Gérard</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calevro</LastName>
+                    <ForeName>Federica</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahbé</LastName>
+                    <ForeName>Yvan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Douglas</LastName>
+                    <ForeName>Angela E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabaldón</LastName>
+                    <ForeName>Toni</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sagot</LastName>
+                    <ForeName>Marie-France</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Charles</LastName>
+                    <ForeName>Hubert</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colella</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Database (Oxford)</MedlineTA>
+            <NlmUniqueID>101517697</NlmUniqueID>
+            <ISSNLinking>1758-0463</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005;33(19):6083-9</RefSource>
+                <PMID Version="1">16246909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2005 Sep 15;21(18):3674-6</RefSource>
+                <PMID Version="1">16081474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Mar 15;23(6):783-4</RefSource>
+                <PMID Version="1">17237053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jul;35(Web Server issue):W182-5</RefSource>
+                <PMID Version="1">17526522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Jul 1;23(13):i337-46</RefSource>
+                <PMID Version="1">17646315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D491-6</RefSource>
+                <PMID Version="1">17962297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D623-31</RefSource>
+                <PMID Version="1">17965431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Genet. 2008 Mar;24(3):133-41</RefSource>
+                <PMID Version="1">18262675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Bioinformatics. 2006 Jan;Chapter 9:Unit 9.6</RefSource>
+                <PMID Version="1">18428772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Apr 24;452(7190):949-55</RefSource>
+                <PMID Version="1">18362917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 Jan;37(Database issue):D555-9</RefSource>
+                <PMID Version="1">18948289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2010 Jan;11(1):31-46</RefSource>
+                <PMID Version="1">19997069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Jan;38(Database issue):D437-42</RefSource>
+                <PMID Version="1">19820115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2008;9(10):235</RefSource>
+                <PMID Version="1">18983710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brief Bioinform. 2010 Jan;11(1):40-79</RefSource>
+                <PMID Version="1">19955237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Integr Bioinform. 2008;5(2). doi: 10.2390/biecoll-jib-2008-93</RefSource>
+                <PMID Version="1">20134070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11:24</RefSource>
+                <PMID Version="1">20070885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2010 Feb;8(2):e1000313</RefSource>
+                <PMID Version="1">20186266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Insect Mol Biol. 2010 Mar;19 Suppl 2:13-21</RefSource>
+                <PMID Version="1">20482636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Insect Mol Biol. 2010 Mar;19 Suppl 2:249-58</RefSource>
+                <PMID Version="1">20482655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2001 Jul;2(7):493-503</RefSource>
+                <PMID Version="1">11433356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Jan 1;30(1):56-8</RefSource>
+                <PMID Version="1">11752253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2002 Jan 1;30(1):59-61</RefSource>
+                <PMID Version="1">11752254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2002;18 Suppl 1:S225-32</RefSource>
+                <PMID Version="1">12169551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2003 Nov 15;31(22):6633-9</RefSource>
+                <PMID Version="1">14602924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Syst Zool. 1970 Jun;19(2):99-113</RefSource>
+                <PMID Version="1">5449325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1996 Jan 1;24(1):32-9</RefSource>
+                <PMID Version="1">8594595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2005;6:34</RefSource>
+                <PMID Version="1">15723693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:170</RefSource>
+                <PMID Version="1">16556315</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030541" MajorTopicYN="Y">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020407" MajorTopicYN="N">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058977" MajorTopicYN="N">Molecular Sequence Annotation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3072769</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21474551</ArticleId>
+            <ArticleId IdType="pii">bar008</ArticleId>
+            <ArticleId IdType="doi">10.1093/database/bar008</ArticleId>
+            <ArticleId IdType="pmc">PMC3072769</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

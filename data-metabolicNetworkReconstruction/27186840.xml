@@ -1,0 +1,292 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27186840</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>07</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4652</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>231</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular physiology</Title>
+                <ISOAbbreviation>J. Cell. Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microbial Community Metabolic Modeling: A Community Data-Driven Network Reconstruction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2339-45</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jcp.25428</ELocationID>
+            <Abstract>
+                <AbstractText>Metabolic network modeling of microbial communities provides an in-depth understanding of community-wide metabolic and regulatory processes. Compared to single organism analyses, community metabolic network modeling is more complex because it needs to account for interspecies interactions. To date, most approaches focus on reconstruction of high-quality individual networks so that, when combined, they can predict community behaviors as a result of interspecies interactions. However, this conventional method becomes ineffective for communities whose members are not well characterized and cannot be experimentally interrogated in isolation. Here, we tested a new approach that uses community-level data as a critical input for the network reconstruction process. This method focuses on directly predicting interspecies metabolic interactions in a community, when axenic information is insufficient. We validated our method through the case study of a bacterial photoautotroph-heterotroph consortium that was used to provide data needed for a community-level metabolic network reconstruction. Resulting simulations provided experimentally validated predictions of how a photoautotrophic cyanobacterium supports the growth of an obligate heterotrophic species by providing organic carbon and nitrogen sources. J. Cell. Physiol. 231: 2339-2345, 2016. © 2016 Wiley Periodicals, Inc.</AbstractText>
+                <CopyrightInformation>© 2016 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Christopher S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Mathematics and Computer Science, Argonne National Laboratory, Argonne, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Computation Institute, University of Chicago, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernstein</LastName>
+                    <ForeName>Hans C</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biodetection Sciences, National Security Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Sciences Division, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Gene and Linda Voiland School of Chemical Engineering and Bioengineering, Washington State University, Pullman, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weisenhorn</LastName>
+                    <ForeName>Pamela</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Mathematics and Computer Science, Argonne National Laboratory, Argonne, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biosciences, Argonne National Laboratory, Argonne, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Ronald C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Sciences Division, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joon-Yong</ForeName>
+                    <Initials>JY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Sciences Division, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zucker</LastName>
+                    <ForeName>Jeremy</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Sciences Division, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Hyun-Seob</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Sciences Division, Earth and Biological Sciences Directorate, Pacific Northwest National Laboratory, Richland, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>06</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cell Physiol</MedlineTA>
+            <NlmUniqueID>0050222</NlmUniqueID>
+            <ISSNLinking>0021-9541</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Struct Biotechnol J. 2012 Dec 01;3:e201210017</RefSource>
+                <PMID Version="1">24688677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2015 Sep-Oct;7(5):317-34</RefSource>
+                <PMID Version="1">26109480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2015 Aug 4;22(2):320-31</RefSource>
+                <PMID Version="1">26244934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ind Microbiol Biotechnol. 2012 Jun;39(6):843-50</RefSource>
+                <PMID Version="1">22383176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Aug;186(15):4972-7</RefSource>
+                <PMID Version="1">15262934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>DNA Res. 2002 Aug 31;9(4):123-30</RefSource>
+                <PMID Version="1">12240834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Microbiol. 2009 Jan;106(1):1-12</RefSource>
+                <PMID Version="1">19191979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008 Feb 08;9:75</RefSource>
+                <PMID Version="1">18261238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(6):e1002358</RefSource>
+                <PMID Version="1">22719234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2016 Sep;10(9):2077-84</RefSource>
+                <PMID Version="1">26967105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2678-83</RefSource>
+                <PMID Version="1">22308420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Sep;28(9):977-82</RefSource>
+                <PMID Version="1">20802497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Announc. 2015 Mar 26;3(2):null</RefSource>
+                <PMID Version="1">25814606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2013;9(3):e1002980</RefSource>
+                <PMID Version="1">23555215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2005 Sep 1;390(Pt 2):513-20</RefSource>
+                <PMID Version="1">15910282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2008 Nov;81(1):69-78</RefSource>
+                <PMID Version="1">18679674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1988 Apr;2(3):231-9</RefSource>
+                <PMID Version="1">3294162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Plant Sci. 2015 Mar 10;6:142</RefSource>
+                <PMID Version="1">25806041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2013;9(7):e1003126</RefSource>
+                <PMID Version="1">23935467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2014 Jun 28;15:225</RefSource>
+                <PMID Version="1">24972703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2016 Jun;31:124-31</RefSource>
+                <PMID Version="1">27060776</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059013" MajorTopicYN="Y">Microbial Consortia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27186840</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcp.25428</ArticleId>
+            <ArticleId IdType="pmc">PMC5132105</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,475 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27736793</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5530</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>198</Volume>
+                    <Issue>24</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Dec</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bacteriology</Title>
+                <ISOAbbreviation>J. Bacteriol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exploring Hydrogenotrophic Methanogenesis: a Genome Scale Metabolic Reconstruction of Methanococcus maripaludis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3379-3390</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Hydrogenotrophic methanogenesis occurs in multiple environments, ranging from the intestinal tracts of animals to anaerobic sediments and hot springs. Energy conservation in hydrogenotrophic methanogens was long a mystery; only within the last decade was it reported that net energy conservation for growth depends on electron bifurcation. In this work, we focus on Methanococcus maripaludis, a well-studied hydrogenotrophic marine methanogen. To better understand hydrogenotrophic methanogenesis and compare it with methylotrophic methanogenesis that utilizes oxidative phosphorylation rather than electron bifurcation, we have built iMR539, a genome scale metabolic reconstruction that accounts for 539 of the 1,722 protein-coding genes of M. maripaludis strain S2. Our reconstructed metabolic network uses recent literature to not only represent the central electron bifurcation reaction but also incorporate vital biosynthesis and assimilation pathways, including unique cofactor and coenzyme syntheses. We show that our model accurately predicts experimental growth and gene knockout data, with 93% accuracy and a Matthews correlation coefficient of 0.78. Furthermore, we use our metabolic network reconstruction to probe the implications of electron bifurcation by showing its essentiality, as well as investigating the infeasibility of aceticlastic methanogenesis in the network. Additionally, we demonstrate a method of applying thermodynamic constraints to a metabolic model to quickly estimate overall free-energy changes between what comes in and out of the cell. Finally, we describe a novel reconstruction-specific computational toolbox we created to improve usability. Together, our results provide a computational network for exploring hydrogenotrophic methanogenesis and confirm the importance of electron bifurcation in this process.</AbstractText>
+                <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">Understanding and applying hydrogenotrophic methanogenesis is a promising avenue for developing new bioenergy technologies around methane gas. Although a significant portion of biological methane is generated through this environmentally ubiquitous pathway, existing methanogen models portray the more traditional energy conservation mechanisms that are found in other methanogens. We have constructed a genome scale metabolic network of Methanococcus maripaludis that explicitly accounts for all major reactions involved in hydrogenotrophic methanogenesis. Our reconstruction demonstrates the importance of electron bifurcation in central metabolism, providing both a window into hydrogenotrophic methanogenesis and a hypothesis-generating platform to fuel metabolic engineering efforts.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 Richards et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Richards</LastName>
+                    <ForeName>Matthew A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Systems Biology, Seattle, Washington, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lie</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Washington, Seattle, Washington, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Jiangnan University, Wuxi, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ragsdale</LastName>
+                    <ForeName>Stephen W</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Chemistry, University of Michigan Medical School, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leigh</LastName>
+                    <ForeName>John A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Washington, Seattle, Washington, USA leighj@u.washington.edu nprice@systemsbiology.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Price</LastName>
+                    <ForeName>Nathan D</ForeName>
+                    <Initials>ND</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Systems Biology, Seattle, Washington, USA leighj@u.washington.edu nprice@systemsbiology.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bacteriol</MedlineTA>
+            <NlmUniqueID>2985120R</NlmUniqueID>
+            <ISSNLinking>0021-9193</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019843">Archaeal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7YNJ3PO35Z</RegistryNumber>
+                <NameOfSubstance UI="D006859">Hydrogen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OP0UW79H66</RegistryNumber>
+                <NameOfSubstance UI="D008697">Methane</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2006 Feb;188(4):1373-80</RefSource>
+                <PMID Version="1">16452419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2013 Apr;195(7):1456-62</RefSource>
+                <PMID Version="1">23335420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</RefSource>
+                <PMID Version="1">10592173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2014 Oct;29:70-5</RefSource>
+                <PMID Version="1">24662145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MBio. 2013 Feb 26;4(2):null</RefSource>
+                <PMID Version="1">23443005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2013 Sep;8(9):1070-9</RefSource>
+                <PMID Version="1">23420771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2003 Oct;14(5):491-6</RefSource>
+                <PMID Version="1">14580578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2009 Dec;4(12):1653-70</RefSource>
+                <PMID Version="1">19946878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2011 Oct 11;7:535</RefSource>
+                <PMID Version="1">21988831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Sep 18;109(38):15084-5</RefSource>
+                <PMID Version="1">22955879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e45313</RefSource>
+                <PMID Version="1">23028926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Feb;1827(2):94-113</RefSource>
+                <PMID Version="1">22800682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 2011;494:43-73</RefSource>
+                <PMID Version="1">21402209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ind Microbiol Biotechnol. 2015 Mar;42(3):391-401</RefSource>
+                <PMID Version="1">25427790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2008 Aug;95(3):1487-99</RefSource>
+                <PMID Version="1">18645197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2011 Nov;82(3):734-47</RefSource>
+                <PMID Version="1">21992107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2008 Jul;190(14 ):4818-21</RefSource>
+                <PMID Version="1">18487331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1976 Aug;32(2):264-9</RefSource>
+                <PMID Version="1">970945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2014 May;10(5):331-9</RefSource>
+                <PMID Version="1">24743257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2010 Jun;13(3):344-9</RefSource>
+                <PMID Version="1">20430689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Jan;38(Database issue):D473-9</RefSource>
+                <PMID Version="1">19850718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Oct;186(20):6956-69</RefSource>
+                <PMID Version="1">15466049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ind Microbiol Biotechnol. 2015 Mar;42(3):327-38</RefSource>
+                <PMID Version="1">25578304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:121</RefSource>
+                <PMID Version="1">17593909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Microbiol. 2014 Nov 26;5:641</RefSource>
+                <PMID Version="1">25505460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1987 Nov;169(11):5327-9</RefSource>
+                <PMID Version="1">3667534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2015 May;197(9):1668-80</RefSource>
+                <PMID Version="1">25733616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jan 24;415(6870):454-6</RefSource>
+                <PMID Version="1">11807560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2007 Jun 01;1:23</RefSource>
+                <PMID Version="1">17543097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2012 May;20(5):251-8</RefSource>
+                <PMID Version="1">22406173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2015 Nov 13;11(11):e1004530</RefSource>
+                <PMID Version="1">26566239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biosystems. 2012 Aug;109(2):233-9</RefSource>
+                <PMID Version="1">22446067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D344-50</RefSource>
+                <PMID Version="1">17932057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003 Mar 1;19(4):524-31</RefSource>
+                <PMID Version="1">12611808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2014 May;10(5):1043-54</RefSource>
+                <PMID Version="1">24553424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2013 Nov;23(11):1839-51</RefSource>
+                <PMID Version="1">24089473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2011 Aug 04;6(9):1290-307</RefSource>
+                <PMID Version="1">21886097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Sep;28(9):977-82</RefSource>
+                <PMID Version="1">20802497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1975 Oct 20;405(2):442-51</RefSource>
+                <PMID Version="1">1180967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1990;59:355-94</RefSource>
+                <PMID Version="1">2115763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D770-5</RefSource>
+                <PMID Version="1">22064852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2008 Nov;74(21):6584-90</RefSource>
+                <PMID Version="1">18791018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Prod Rep. 2002 Apr;19(2):133-47</RefSource>
+                <PMID Version="1">12013276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Microbiol. 2009 Jul 23;9:149</RefSource>
+                <PMID Version="1">19627604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2007 Jun;271(2):281-8</RefSource>
+                <PMID Version="1">17456186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010 Jun 29;4:92</RefSource>
+                <PMID Version="1">20587024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:92</RefSource>
+                <PMID Version="1">17353934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2008 Mar;190(6):2198-205</RefSource>
+                <PMID Version="1">18203827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Jun 15;107(24):11050-5</RefSource>
+                <PMID Version="1">20534465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2015 Aug;34:105-9</RefSource>
+                <PMID Version="1">25562137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005 Oct 07;33(17):5691-702</RefSource>
+                <PMID Version="1">16214803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Sep 18;109(38):15473-8</RefSource>
+                <PMID Version="1">22872868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jul 26;102(30):10664-9</RefSource>
+                <PMID Version="1">16024727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2008 Aug;6(8):579-91</RefSource>
+                <PMID Version="1">18587410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Mar 19;110(12):4726-31</RefSource>
+                <PMID Version="1">23487778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Aug 03;476(7358):43-50</RefSource>
+                <PMID Version="1">21814274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2004 Sep 1;238(1):85-91</RefSource>
+                <PMID Version="1">15336407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2012 Feb;194(4):855-65</RefSource>
+                <PMID Version="1">22139506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Archaea. 2011;2011:973848</RefSource>
+                <PMID Version="1">21559116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Nov;2(11):886-97</RefSource>
+                <PMID Version="1">15494745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Feb 15;108(7):2981-6</RefSource>
+                <PMID Version="1">21262829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1993 Apr 1;213(1):529-35</RefSource>
+                <PMID Version="1">8477725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2014 Jul;1837(7):1130-47</RefSource>
+                <PMID Version="1">24333786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2008 Jun;74(11):3591-5</RefSource>
+                <PMID Version="1">18378657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2010 Aug;192(15):4022-30</RefSource>
+                <PMID Version="1">20511510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2007 Mar 1;92(5):1792-805</RefSource>
+                <PMID Version="1">17172310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2014 Oct 16;10(10):e1003882</RefSource>
+                <PMID Version="1">25329157</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019843" MajorTopicYN="N">Archaeal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052837" MajorTopicYN="N">Chemoautotrophic Growth</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020745" MajorTopicYN="Y">Genome, Archaeal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006859" MajorTopicYN="N">Hydrogen</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008697" MajorTopicYN="N">Methane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017017" MajorTopicYN="N">Methanococcus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27736793</ArticleId>
+            <ArticleId IdType="pii">JB.00571-16</ArticleId>
+            <ArticleId IdType="doi">10.1128/JB.00571-16</ArticleId>
+            <ArticleId IdType="pmc">PMC5116941</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

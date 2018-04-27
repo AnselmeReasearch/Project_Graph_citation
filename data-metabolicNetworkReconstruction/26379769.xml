@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">26379769</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1754-6834</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biotechnology for biofuels</Title>
+                <ISOAbbreviation>Biotechnol Biofuels</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A bioenergetic assessment of photosynthetic growth of Synechocystis sp. PCC 6803 in continuous cultures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>133</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13068-015-0319-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Synechocystis sp. PCC 6803, a model organism used for bioenergy and bioplastic production, was grown in continuous culture to assess its most important bioenergetic parameters.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Biomass yield on light energy of 1.237 g mol photons(-1) and maintenance energy requirement of 0.00312 mol photons g(-1) h(-1) were calculated. This corresponded to a light conversion efficiency of 12.5 %, based on the model of Pirt which was about 35 % lower than the theoretical one based on the stoichiometric equation for the formation of biomass on carbon dioxide, water, and nitrate. The maximum F v/F m ratio recorded in the Synechocystis cultures was 0.57; it progressively declined to 0.45 as the dilution rate increased. An over-reduction of reaction centers at a high dilution rate was also recorded, together with an increased VJ phase for the chlorophyll fluorescence transient. In contrast, the chlorophyll optical cross section increased by about 40 % at the fastest dilution rate, and compensated for the decline in F v/F m, thus resulting in a constant total photosynthesis rate (photosynthesis plus respiration). Chlorophyll content was maximum at the lowest dilution rate and was 48 % lower at the highest one, while phycocyanin, and total carotenoids decreased by about 42 % and 37 %, respectively. Carotenoid analysis revealed increased echinenone, zeaxanthin, and myxoxanthophyll contents as the dilution rate increased (40.6, 63.8 and 35.5 %, respectively, at the fastest dilution rate). A biochemical analysis of the biomass harvested at each different dilution rates showed no changes in the lipid content (averaging 11.2 ± 0.6 % of the dry weight), while the protein content decreased as the dilution rate increased, ranging between 60.7 ± 1.1 and 72.6 ± 0.6 %. Amino acids pattern did not vary with the dilution rate. Carbohydrate content ranged from 9.4 to 16.2 % with a mean value of 11.2 ± 1.4 %.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The present work provides useful information on the threshold of light conversion efficiency in Synechocystis, as well as basic bioenergetic parameters that will be helpful for future studies related to its genetic transformation and metabolic network reconstruction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Touloupakis</LastName>
+                    <ForeName>Eleftherios</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto per lo Studio degli Ecosistemi, CNR, Sede di Firenze, Via Madonna del Piano, 10, 50019 Sesto Fiorentino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cicchi</LastName>
+                    <ForeName>Bernardo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto per lo Studio degli Ecosistemi, CNR, Sede di Firenze, Via Madonna del Piano, 10, 50019 Sesto Fiorentino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torzillo</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto per lo Studio degli Ecosistemi, CNR, Sede di Firenze, Via Madonna del Piano, 10, 50019 Sesto Fiorentino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biotechnol Biofuels</MedlineTA>
+            <NlmUniqueID>101316935</NlmUniqueID>
+            <ISSNLinking>1754-6834</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Cell. 2006 Apr;18(4):992-1007</RefSource>
+                <PMID Version="1">16531492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Philos Trans R Soc Lond B Biol Sci. 2000 Oct 29;355(1402):1419-31</RefSource>
+                <PMID Version="1">11127996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Cell. 1993 Dec;5(12 ):1853-63</RefSource>
+                <PMID Version="1">8305875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1973 Aug;58(2):419-35</RefSource>
+                <PMID Version="1">4199659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Cell Physiol. 2007 Mar;48(3):451-8</RefSource>
+                <PMID Version="1">17284470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2008 Apr;19(2):153-9</RefSource>
+                <PMID Version="1">18374559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Aug;1817(8):1237-47</RefSource>
+                <PMID Version="1">22402228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Plant Biol. 2008;59:89-113</RefSource>
+                <PMID Version="1">18444897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Physiol. 2005 Sep;139(1):408-16</RefSource>
+                <PMID Version="1">16113218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2009 Sep 1;104(1):76-90</RefSource>
+                <PMID Version="1">19489016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Bot. 2008;59(7):1647-61</RefSource>
+                <PMID Version="1">18359752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mar Biotechnol (NY). 2010 Nov;12(6):708-18</RefSource>
+                <PMID Version="1">20177951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2011 Sep;13(5):610-6</RefSource>
+                <PMID Version="1">21827869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Feb 14;109(7):2678-83</RefSource>
+                <PMID Version="1">22308420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioengineered. 2013 May-Jun;4(3):158-63</RefSource>
+                <PMID Version="1">23138691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jul 8;286(27):24007-14</RefSource>
+                <PMID Version="1">21602273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Feb;1817(2):319-27</RefSource>
+                <PMID Version="1">22138629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2011 Aug;91(3):471-90</RefSource>
+                <PMID Version="1">21691792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2010 Jan;12(1):70-9</RefSource>
+                <PMID Version="1">19833224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1951 Nov;193(1):265-75</RefSource>
+                <PMID Version="1">14907713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2012 Nov 30;162(1):156-62</RefSource>
+                <PMID Version="1">22789478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mar Drugs. 2013 Aug 13;11(8):2894-916</RefSource>
+                <PMID Version="1">23945601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chromatogr A. 2001 Feb 23;910(1):31-49</RefSource>
+                <PMID Version="1">11263574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2013 Jan;405(2-3):691-701</RefSource>
+                <PMID Version="1">22614707</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4571542</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Continuous culture</Keyword>
+            <Keyword MajorTopicYN="N">Cyanobacteria</Keyword>
+            <Keyword MajorTopicYN="N">Fluorescence</Keyword>
+            <Keyword MajorTopicYN="N">Light conversion efficiency (LCE)</Keyword>
+            <Keyword MajorTopicYN="N">Photobioreactor</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26379769</ArticleId>
+            <ArticleId IdType="doi">10.1186/s13068-015-0319-7</ArticleId>
+            <ArticleId IdType="pii">319</ArticleId>
+            <ArticleId IdType="pmc">PMC4571542</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,1838 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23892182</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>04</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-5832</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug discovery today</Title>
+                <ISOAbbreviation>Drug Discov. Today</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolomics and systems pharmacology: why and how to model the human metabolic network for drug discovery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>171-82</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.drudis.2013.07.014</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1359-6446(13)00248-1</ELocationID>
+            <Abstract>
+                <AbstractText>Metabolism represents the 'sharp end' of systems biology, because changes in metabolite concentrations are necessarily amplified relative to changes in the transcriptome, proteome and enzyme activities, which can be modulated by drugs. To understand such behaviour, we therefore need (and increasingly have) reliable consensus (community) models of the human metabolic network that include the important transporters. Small molecule 'drug' transporters are in fact metabolite transporters, because drugs bear structural similarities to metabolites known from the network reconstructions and from measurements of the metabolome. Recon2 represents the present state-of-the-art human metabolic network reconstruction; it can predict inter alia: (i) the effects of inborn errors of metabolism; (ii) which metabolites are exometabolites, and (iii) how metabolism varies between tissues and cellular compartments. However, even these qualitative network models are not yet complete. As our understanding improves so do we recognise more clearly the need for a systems (poly)pharmacology.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 The Authors. Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kell</LastName>
+                    <ForeName>Douglas B</ForeName>
+                    <Initials>DB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Manchester Institute of Biotechnology, The University of Manchester, 131 Princess Street, Manchester M1 7DN, UK. Electronic address: dbk@manchester.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodacre</LastName>
+                    <ForeName>Royston</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Chemistry and Manchester Institute of Biotechnology, The University of Manchester, 131 Princess Street, Manchester M1 7DN, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Drug Discov Today</MedlineTA>
+            <NlmUniqueID>9604391</NlmUniqueID>
+            <ISSNLinking>1359-6446</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Drug Discov Today. 2014 Nov;19(11):1828</RefSource>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Jan 11;339(6116):211-4</RefSource>
+                <PMID Version="1">23223453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metallomics. 2011 May 1;3(5):513-20</RefSource>
+                <PMID Version="1">21331438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 May;17(9-10):419-24</RefSource>
+                <PMID Version="1">22227532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2004 Oct;22(10):1253-9</RefSource>
+                <PMID Version="1">15470465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mass Spectrom. 2003 Oct;38(10):1081-92</RefSource>
+                <PMID Version="1">14595858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2006 Jul;24(7):805-15</RefSource>
+                <PMID Version="1">16841068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2012 Sep;30(9):826-8</RefSource>
+                <PMID Version="1">22965049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Cell Fact. 2012;11:122</RefSource>
+                <PMID Version="1">22963408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(4):e1002483</RefSource>
+                <PMID Version="1">22570597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2011 May 6;10(5):2625-32</RefSource>
+                <PMID Version="1">21456628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2005 Jan 15;10(2):139-47</RefSource>
+                <PMID Version="1">15718163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2011 Jun;10(6):428-38</RefSource>
+                <PMID Version="1">21629293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2011 Aug;16(15-16):704-14</RefSource>
+                <PMID Version="1">21624498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 1999 Dec;1(8):E201-2</RefSource>
+                <PMID Version="1">10587658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2013 Jan 15;449(2):427-35</RefSource>
+                <PMID Version="1">23067238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2009 Sep;76(3):453-65</RefSource>
+                <PMID Version="1">19487246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1974 Feb 15;42(1):89-95</RefSource>
+                <PMID Version="1">4830198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Feb 12;105(6):2117-22</RefSource>
+                <PMID Version="1">18252821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:135</RefSource>
+                <PMID Version="1">17882155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2011 May 1;83(9):3267-74</RefSource>
+                <PMID Version="1">21391558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2007 Sep;3(9):598-603</RefSource>
+                <PMID Version="1">17700859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2011 Mar;7(1):94-101</RefSource>
+                <PMID Version="1">21687783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:101</RefSource>
+                <PMID Version="1">17437026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2012 Oct;8(10):2545-58</RefSource>
+                <PMID Version="1">22699794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2011 Oct;10(10):749-65</RefSource>
+                <PMID Version="1">21959288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012;8(6):989-996</RefSource>
+                <PMID Version="1">23175637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2003 Jun;21(6):692-6</RefSource>
+                <PMID Version="1">12740584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2010 Mar;9(3):215-36</RefSource>
+                <PMID Version="1">20190787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2012 Jul;92(1):50-61</RefSource>
+                <PMID Version="1">22644330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2007 Nov;274(21):5576-85</RefSource>
+                <PMID Version="1">17922843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2011 Aug;29(8):370-8</RefSource>
+                <PMID Version="1">21561673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Soc Rev. 2011 Jan;40(1):387-426</RefSource>
+                <PMID Version="1">20717559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2012 Nov;9(11):1069-76</RefSource>
+                <PMID Version="1">23132118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2012;52:505-21</RefSource>
+                <PMID Version="1">22235860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2013 Feb 15;433(2):102-4</RefSource>
+                <PMID Version="1">23079505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2013 Feb;55:2-11</RefSource>
+                <PMID Version="1">23231771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Dec 1;438(7068):578-80</RefSource>
+                <PMID Version="1">16319876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Soc Rev. 2012 Sep 7;41(17):5706-27</RefSource>
+                <PMID Version="1">22729179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IUBMB Life. 2012 Jun;64(6):529-37</RefSource>
+                <PMID Version="1">22573601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2011 Jun;43(6):565-9</RefSource>
+                <PMID Version="1">21572414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2012 Mar;14(2):112-9</RefSource>
+                <PMID Version="1">22306209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Analyst. 2013 Apr 7;138(7):1924-39</RefSource>
+                <PMID Version="1">23431559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 Oct;17(19-20):1088-102</RefSource>
+                <PMID Version="1">22627006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2010;6(9):e1000938</RefSource>
+                <PMID Version="1">20957118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Res. 2013 Apr;73(4 Pt 2):502-7</RefSource>
+                <PMID Version="1">23314297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mass Spectrom Rev. 2013 Mar-Apr;32(2):118-28</RefSource>
+                <PMID Version="1">22890819</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Mar 29;108(13):5331-6</RefSource>
+                <PMID Version="1">21402949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2013 Jan 16;5(168):168ed1</RefSource>
+                <PMID Version="1">23325797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mediators Inflamm. 2012;2012:476979</RefSource>
+                <PMID Version="1">22969169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Diagn. 2007 Jul;7(4):329-33</RefSource>
+                <PMID Version="1">17620040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Yeast Res. 2012 Mar;12(2):228-48</RefSource>
+                <PMID Version="1">22188344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2012 Nov;92(5):635-41</RefSource>
+                <PMID Version="1">23047651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ther Deliv. 2013 Mar;4(3):395-413</RefSource>
+                <PMID Version="1">23442083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Oct 16;84(20):8675-81</RefSource>
+                <PMID Version="1">22978754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Toxicol. 2011 Aug;31(6):524-35</RefSource>
+                <PMID Version="1">21154879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Nov 12;143(4):639-50</RefSource>
+                <PMID Version="1">21035178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Intern Med. 2012 Feb;271(2):142-54</RefSource>
+                <PMID Version="1">22142312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 1998;14(10):869-83</RefSource>
+                <PMID Version="1">9927716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2013 Jan;280(1):160-73</RefSource>
+                <PMID Version="1">23121761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomarkers. 2012 Sep;17(6):483-9</RefSource>
+                <PMID Version="1">22672124</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2008;48:653-83</RefSource>
+                <PMID Version="1">18184107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 2006 Feb;16(1):127-36</RefSource>
+                <PMID Version="1">16442279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 May;17(9-10):469-74</RefSource>
+                <PMID Version="1">22222943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rapid Commun Mass Spectrom. 2012 Oct 30;26(20):2461-71</RefSource>
+                <PMID Version="1">22976213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6:75</RefSource>
+                <PMID Version="1">22727112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 Feb 1;27(3):431-2</RefSource>
+                <PMID Version="1">21149340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2012 Oct 15;28(20):2707-9</RefSource>
+                <PMID Version="1">22851531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2011 Jul;10(7):507-19</RefSource>
+                <PMID Version="1">21701501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2007 Mar;6(3):202-10</RefSource>
+                <PMID Version="1">17318209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2012;13:214</RefSource>
+                <PMID Version="1">22920415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2012 Apr;51(4):473-9</RefSource>
+                <PMID Version="1">22283470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J R Soc Interface. 2011 Feb 6;8(55):201-9</RefSource>
+                <PMID Version="1">20630880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Toxicol. 2010 Nov;84(11):825-89</RefSource>
+                <PMID Version="1">20967426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Jun 16;281(24):16768-76</RefSource>
+                <PMID Version="1">16608839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Med. 2012 Apr 30;4(4):38</RefSource>
+                <PMID Version="1">22546835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Expo Sci Environ Epidemiol. 2011 Jan-Feb;21(1):5-9</RefSource>
+                <PMID Version="1">21081972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2002 Aug;269(16):3894-904</RefSource>
+                <PMID Version="1">12180966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2013 Mar;8(3):451-60</RefSource>
+                <PMID Version="1">23391889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2006 Mar;273(5):873-94</RefSource>
+                <PMID Version="1">16478464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 May 8;104(19):7797-802</RefSource>
+                <PMID Version="1">17463081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2009 Oct 1;25(19):2466-72</RefSource>
+                <PMID Version="1">19648136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Drug Discov Devel. 2010 May;13(3):297-309</RefSource>
+                <PMID Version="1">20443163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2012 Apr;13(4):263-9</RefSource>
+                <PMID Version="1">22436749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Feb 15;339(6121):786-91</RefSource>
+                <PMID Version="1">23258413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Drug Res. 2007;64:171, 173-89</RefSource>
+                <PMID Version="1">17195475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2013 Mar;70(6):1035-53</RefSource>
+                <PMID Version="1">22903296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chim Acta. 2010 Feb 19;661(1):47-59</RefSource>
+                <PMID Version="1">20113715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2013 Mar;18(5-6):218-39</RefSource>
+                <PMID Version="1">23207804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2008 Jun 7;252(3):538-43</RefSource>
+                <PMID Version="1">18054049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012 Apr;8(2):253-263</RefSource>
+                <PMID Version="1">22448154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jul 22;286(29):25435-42</RefSource>
+                <PMID Version="1">21632543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 2012 Oct;142(4):816-20</RefSource>
+                <PMID Version="1">23032445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2011 Dec;16(23-24):1031-6</RefSource>
+                <PMID Version="1">22020181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2000 Nov;18(11):1157-61</RefSource>
+                <PMID Version="1">11062433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Biochem. 2010 Nov;43(16-17):1269-77</RefSource>
+                <PMID Version="1">20713038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Nov 12;462(7270):167-8</RefSource>
+                <PMID Version="1">19907483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Apr 10;324(5924):242-6</RefSource>
+                <PMID Version="1">19359585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2013 Mar 19;85(6):3401-8</RefSource>
+                <PMID Version="1">23373753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2008 Aug;26(8):404-12</RefSource>
+                <PMID Version="1">18582974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2012;736:607-15</RefSource>
+                <PMID Version="1">22161355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 Jun 26;109(26):E1743-52</RefSource>
+                <PMID Version="1">22586093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2012 Aug;404(2):367-72</RefSource>
+                <PMID Version="1">22699233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Ecol Evol. 1995 Mar;10(3):126-9</RefSource>
+                <PMID Version="1">21236981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2013 Mar;18(5-6):256-64</RefSource>
+                <PMID Version="1">23147668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2011 Jul;6(7):1060-83</RefSource>
+                <PMID Version="1">21720319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2013 Mar;405(7):2107-22</RefSource>
+                <PMID Version="1">23224572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2007 Jan;12(1-2):34-42</RefSource>
+                <PMID Version="1">17198971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Dec 13;492(7428):215-20</RefSource>
+                <PMID Version="1">23235874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2004 Aug 30;1664(2):119-31</RefSource>
+                <PMID Version="1">15328044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Fetal Neonatal Med. 2013 Feb;18(1):3-12</RefSource>
+                <PMID Version="1">23195852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Aug 7;84(15):6869-76</RefSource>
+                <PMID Version="1">22823568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2004 Jun;7(3):296-307</RefSource>
+                <PMID Version="1">15196499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2009;500:17-59</RefSource>
+                <PMID Version="1">19399433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Oct 22;306(5696):704-8</RefSource>
+                <PMID Version="1">15499023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comb Chem High Throughput Screen. 2012 Mar;15(3):266-75</RefSource>
+                <PMID Version="1">22221059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Aug 7;84(15):6429-37</RefSource>
+                <PMID Version="1">22770225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Mar 15;24(6):833-9</RefSource>
+                <PMID Version="1">18057018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2012 Mar;109(3):763-71</RefSource>
+                <PMID Version="1">22012626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2012 Nov;279(22):4145-59</RefSource>
+                <PMID Version="1">22978366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2013 Mar;18(5-6):211-7</RefSource>
+                <PMID Version="1">23131208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Nov 6;84(21):9388-94</RefSource>
+                <PMID Version="1">23039714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6:73</RefSource>
+                <PMID Version="1">22713172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2013 Jan 2;85(1):341-8</RefSource>
+                <PMID Version="1">23190300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Philos Trans R Soc Lond B Biol Sci. 2006 Jan 29;361(1465):147-61</RefSource>
+                <PMID Version="1">16553314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Nov;1818(11):2477-85</RefSource>
+                <PMID Version="1">22640696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioanalysis. 2009 Dec;1(9):1579-96</RefSource>
+                <PMID Version="1">21083105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2012 Nov;8(11):905-12</RefSource>
+                <PMID Version="1">23023260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut Microbes. 2013 Jan-Feb;4(1):28-40</RefSource>
+                <PMID Version="1">23022739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Med (Berl). 2012 Oct;90(10):1161-71</RefSource>
+                <PMID Version="1">22426639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2012 Mar;34(3):236-44</RefSource>
+                <PMID Version="1">22252984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 21;486(7403):361-7</RefSource>
+                <PMID Version="1">22722194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2007 Mar-Apr;23(2):320-6</RefSource>
+                <PMID Version="1">17373823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2011 Jan;12(1):56-68</RefSource>
+                <PMID Version="1">21164525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Pharmacol. 2013 Mar;75(3):619-29</RefSource>
+                <PMID Version="1">22348240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 2012 Mar;53(3):567-76</RefSource>
+                <PMID Version="1">22203775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Med. 2013 Mar;7(1):4-13</RefSource>
+                <PMID Version="1">23377891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2013;53:451-73</RefSource>
+                <PMID Version="1">23140241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2009 Jan;14(1-2):31-40</RefSource>
+                <PMID Version="1">19049901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IUBMB Life. 2007 Nov;59(11):689-95</RefSource>
+                <PMID Version="1">17968707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2011 Jan;7(1):7-8</RefSource>
+                <PMID Version="1">21164512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2012 Aug 15;746(2):144-50</RefSource>
+                <PMID Version="1">22305969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2005 Dec;4(12):961-7</RefSource>
+                <PMID Version="1">16341061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 May 15;27(10):1390-6</RefSource>
+                <PMID Version="1">21414992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D801-7</RefSource>
+                <PMID Version="1">23161693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2013;20(2):280-8</RefSource>
+                <PMID Version="1">23092136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 Apr 13;6:361</RefSource>
+                <PMID Version="1">20393581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Feb 6;104(6):1777-82</RefSource>
+                <PMID Version="1">17267599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2007 Jan 15;79(2):464-76</RefSource>
+                <PMID Version="1">17222009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Biol Med Model. 2006;3:41</RefSource>
+                <PMID Version="1">17173669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2009 May;5(5):422-43</RefSource>
+                <PMID Version="1">19381358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chromatogr A. 2012 Jul 20;1247:118-24</RefSource>
+                <PMID Version="1">22695696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Med Chem. 2009;9(2):163-81</RefSource>
+                <PMID Version="1">19200003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 May 27;308(5726):1321-3</RefSource>
+                <PMID Version="1">15919996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Biol. 2012 Dec;19(12):1295-306</RefSource>
+                <PMID Version="1">23210477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2009 Apr;8(4):286-95</RefSource>
+                <PMID Version="1">19337271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>OMICS. 2011 Mar;15(3):173-82</RefSource>
+                <PMID Version="1">21329461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Transl Res. 2010 Oct;3(5):438-47</RefSource>
+                <PMID Version="1">20677029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2007 Nov;6(11):881-90</RefSource>
+                <PMID Version="1">17971784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2013;14:32</RefSource>
+                <PMID Version="1">23360254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6:150</RefSource>
+                <PMID Version="1">23216785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 Sep 1;27(17):2376-83</RefSource>
+                <PMID Version="1">21757467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Nov 20;84(22):9848-57</RefSource>
+                <PMID Version="1">23072438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Jun 11;141(6):1006-17</RefSource>
+                <PMID Version="1">20550936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2006 Dec 15;22(24):3067-74</RefSource>
+                <PMID Version="1">17032683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Dec 10;462(7274):739-44</RefSource>
+                <PMID Version="1">19935646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6:91</RefSource>
+                <PMID Version="1">22834945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2011 Nov;77(21):7605-10</RefSource>
+                <PMID Version="1">21890679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Pharm Sci. 2012 Jul 16;46(4):190-7</RefSource>
+                <PMID Version="1">21704158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stroke. 2011 Apr;42(4):1132-4</RefSource>
+                <PMID Version="1">21311067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2011 Dec;7(12):902-8</RefSource>
+                <PMID Version="1">22020553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioanalysis. 2012 Sep;4(18):2207-12</RefSource>
+                <PMID Version="1">23046263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 May;31(5):419-25</RefSource>
+                <PMID Version="1">23455439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Pharmacol. 2012 Aug;74(2):230-40</RefSource>
+                <PMID Version="1">22320313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2010 Jun 9;132(22):7574-5</RefSource>
+                <PMID Version="1">20469857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 Jul;17(13-14):665-70</RefSource>
+                <PMID Version="1">22405899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol. 2007;6(2):4</RefSource>
+                <PMID Version="1">17439666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Oct 16;84(20):8442-7</RefSource>
+                <PMID Version="1">22946681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2006 Dec;24(12):571-9</RefSource>
+                <PMID Version="1">17045684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 Apr 15;27(8):1108-12</RefSource>
+                <PMID Version="1">21325300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2008 Feb;83(2):227-30</RefSource>
+                <PMID Version="1">18202690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Dec 1;438(7068):679-84</RefSource>
+                <PMID Version="1">16319894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011;5:155</RefSource>
+                <PMID Version="1">21962087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2013;14:15</RefSource>
+                <PMID Version="1">23323971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Biochem Biotechnol. 2012 Nov;168(6):1718-27</RefSource>
+                <PMID Version="1">22971835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Dec;89(6):4029-42</RefSource>
+                <PMID Version="1">16199500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2011 May 1;83(9):3406-14</RefSource>
+                <PMID Version="1">21456517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drugs. 2010 Dec 24;70(18):2373-407</RefSource>
+                <PMID Version="1">21142260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Toxicol. 2013 Nov;33(11):1251-9</RefSource>
+                <PMID Version="1">22782856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J R Soc Interface. 2010 Sep 6;7(50):1341-54</RefSource>
+                <PMID Version="1">20236959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11:548</RefSource>
+                <PMID Version="1">21059217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010;4:45</RefSource>
+                <PMID Version="1">20403172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2012;834:197-216</RefSource>
+                <PMID Version="1">22144361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(12):e1002805</RefSource>
+                <PMID Version="1">23300405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Jul;3(7):557-65</RefSource>
+                <PMID Version="1">15953932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brief Funct Genomics. 2012 Nov;11(6):522-32</RefSource>
+                <PMID Version="1">22962330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2012 Oct;84(1):1-7</RefSource>
+                <PMID Version="1">22429650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11:393</RefSource>
+                <PMID Version="1">20649990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2010 Mar;6(1):3-17</RefSource>
+                <PMID Version="1">20339444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharm Res. 2011 Jul;28(7):1460-4</RefSource>
+                <PMID Version="1">21560018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Intern Med. 2012 Feb;271(2):131-41</RefSource>
+                <PMID Version="1">22142339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transl Psychiatry. 2011;1:e58</RefSource>
+                <PMID Version="1">22832350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Feb 8;339(6120):704-7</RefSource>
+                <PMID Version="1">23393265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2010 Jul;88(1):120-5</RefSource>
+                <PMID Version="1">20520604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2004 Aug;3(8):711-5</RefSource>
+                <PMID Version="1">15286737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1989 Oct 23;257(1):10-6</RefSource>
+                <PMID Version="1">2680602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2008 Apr 15;80(8):2939-48</RefSource>
+                <PMID Version="1">18331064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Biol. 2011;9:70</RefSource>
+                <PMID Version="1">22023736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 2012 Oct;142(4):869-76</RefSource>
+                <PMID Version="1">22406961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D367-72</RefSource>
+                <PMID Version="1">20935044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2012 Aug;23(4):604-8</RefSource>
+                <PMID Version="1">22119097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurochem Int. 2013 Apr;62(5):637-52</RefSource>
+                <PMID Version="1">23220386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2012 Aug 30;75(16):5052-60</RefSource>
+                <PMID Version="1">22366554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Oct;26(10):1155-60</RefSource>
+                <PMID Version="1">18846089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2012;13:334</RefSource>
+                <PMID Version="1">22823888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2011 Sep;7(3):329-343</RefSource>
+                <PMID Version="1">21949492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2010 Aug 1;82(15):6621-8</RefSource>
+                <PMID Version="1">20608743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003 Mar 1;19(4):524-31</RefSource>
+                <PMID Version="1">12611808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2012 Mar;11(3):191-200</RefSource>
+                <PMID Version="1">22378269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D781-6</RefSource>
+                <PMID Version="1">23109552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Jan 11;339(6116):222-6</RefSource>
+                <PMID Version="1">23118012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioanalysis. 2012 Sep;4(18):2249-64</RefSource>
+                <PMID Version="1">23046267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Feb;44(2):121-6</RefSource>
+                <PMID Version="1">22281772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2011 Mar;7(1):15-24</RefSource>
+                <PMID Version="1">21461040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(7):e6386</RefSource>
+                <PMID Version="1">19636438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jul 8;286(27):23653-8</RefSource>
+                <PMID Version="1">21566122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(7):e40221</RefSource>
+                <PMID Version="1">22844400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 1998 Sep;16(9):373-8</RefSource>
+                <PMID Version="1">9744112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Drug Discov. 2012 Jan;7(1):1-17</RefSource>
+                <PMID Version="1">22468890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2012 Feb;8(2):144-6</RefSource>
+                <PMID Version="1">22179068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Croat Med J. 2012 Jun;53(3):207-10</RefSource>
+                <PMID Version="1">22661132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Oct 9;455(7214):730-1</RefSource>
+                <PMID Version="1">18843342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2009 Nov-Dec;1(3):285-97</RefSource>
+                <PMID Version="1">20835998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2009 Dec;5(4):435-458</RefSource>
+                <PMID Version="1">20046865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012 Aug;8(4):719-726</RefSource>
+                <PMID Version="1">22833710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2011 Sep;7(3):307-328</RefSource>
+                <PMID Version="1">21949491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Biochem. 2013 Jan;46(1-2):94-8</RefSource>
+                <PMID Version="1">23103705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Feb 24;287(9):6336-49</RefSource>
+                <PMID Version="1">22228769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Integr Bioinform. 2011;8(2):186</RefSource>
+                <PMID Version="1">22095399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2011 Mar-Apr;3(2):129-35</RefSource>
+                <PMID Version="1">20803507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(12):e28966</RefSource>
+                <PMID Version="1">22194963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2011 May 15;83(10):3737-43</RefSource>
+                <PMID Version="1">21466230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2009 Feb 15;81(4):1357-64</RefSource>
+                <PMID Version="1">19170513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Feb 15;339(6121):826-30</RefSource>
+                <PMID Version="1">23258412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pest Manag Sci. 2012 Apr;68(4):494-504</RefSource>
+                <PMID Version="1">22076706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Sep;26(9):1003-10</RefSource>
+                <PMID Version="1">18711341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biosystems. 2006 Feb-Mar;83(2-3):248-65</RefSource>
+                <PMID Version="1">16236429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Sep;28(9):977-82</RefSource>
+                <PMID Version="1">20802497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2011 Jul;33(7):485-9</RefSource>
+                <PMID Version="1">21495048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2007 Apr;12(7-8):314-8</RefSource>
+                <PMID Version="1">17395091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011;5:137</RefSource>
+                <PMID Version="1">21867520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2010 Dec 1;82(23):9818-26</RefSource>
+                <PMID Version="1">21049934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Clin Nutr. 2004 Jan;58(1):1-9</RefSource>
+                <PMID Version="1">14679360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D625-30</RefSource>
+                <PMID Version="1">23109553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Sep 1;477(7362):54-60</RefSource>
+                <PMID Version="1">21886157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 May 1;24(9):1191-7</RefSource>
+                <PMID Version="1">18356193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2012 Jun;403(6):1523-48</RefSource>
+                <PMID Version="1">22576654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J R Soc Interface. 2011 Jun 6;8(59):880-95</RefSource>
+                <PMID Version="1">21123256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Rep. 2007 Mar-Apr;59(2):150-63</RefSource>
+                <PMID Version="1">17556793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Sci (Lond). 2013 Mar;124(5):289-306</RefSource>
+                <PMID Version="1">23157406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2012 May-Jun;4(3):221-35</RefSource>
+                <PMID Version="1">22246674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Analyst. 2009 Jul;134(7):1322-32</RefSource>
+                <PMID Version="1">19562197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2013 Feb;24(1):48-53</RefSource>
+                <PMID Version="1">23142542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 Apr;17(7-8):325-35</RefSource>
+                <PMID Version="1">22269136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2013 Feb;24(1):39-47</RefSource>
+                <PMID Version="1">23102864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genomics. 2009 Jan 08;2:2</RefSource>
+                <PMID Version="1">19133145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Jul 13;406(6792):188-92</RefSource>
+                <PMID Version="1">10910359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mass Spectrom Rev. 2012 Jan-Feb;31(1):70-95</RefSource>
+                <PMID Version="1">21538458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(2):e54201</RefSource>
+                <PMID Version="1">23393554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2010 Jul;88(1):135-7</RefSource>
+                <PMID Version="1">20531467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2004 Jan;26(1):99-105</RefSource>
+                <PMID Version="1">14696046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2005 Mar;1(1):3-9</RefSource>
+                <PMID Version="1">16680201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2012;860:145-56</RefSource>
+                <PMID Version="1">22351176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11142-7</RefSource>
+                <PMID Version="1">16847258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Heart J. 2012 May;163(5):844-850.e1</RefSource>
+                <PMID Version="1">22607863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Biotechnol. 2011;2011. pii: 525497. doi: 10.1155/2011/525497</RefSource>
+                <PMID Version="1">20936122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2012;860:157-76</RefSource>
+                <PMID Version="1">22351177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012 Jun;8(3):422-432</RefSource>
+                <PMID Version="1">22661919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2012 Nov;17(21-22):1188-98</RefSource>
+                <PMID Version="1">22683805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart. 2011 Aug;97(15):1222-7</RefSource>
+                <PMID Version="1">21558479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2011 Jul;19(7):315-22</RefSource>
+                <PMID Version="1">21664817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cheminform. 2011 Dec 13;3:54</RefSource>
+                <PMID Version="1">22166170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Discov Med. 2012 Jan;13(68):19-34</RefSource>
+                <PMID Version="1">22284781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2008 Nov;4(11):674-81</RefSource>
+                <PMID Version="1">18936752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Biotechnol. 2012 Sep 15;29(6):613-24</RefSource>
+                <PMID Version="1">22450380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jan;9(1):7-14</RefSource>
+                <PMID Version="1">17199125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Jan 17;84(2):885-92</RefSource>
+                <PMID Version="1">22148170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2011 Jan;29(1):27-33</RefSource>
+                <PMID Version="1">21221096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 2012 Dec 24;414:65-9</RefSource>
+                <PMID Version="1">22971357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2013 Jan;41(Database issue):D456-63</RefSource>
+                <PMID Version="1">23180789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2010 Dec;398(7-8):3051-61</RefSource>
+                <PMID Version="1">20957472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2012 Oct;8(10):2535-44</RefSource>
+                <PMID Version="1">22610447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharm Biomed Anal. 2010 Apr 6;51(5):1091-6</RefSource>
+                <PMID Version="1">20007013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2012 Aug;7(8):992-1001</RefSource>
+                <PMID Version="1">22815171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rapid Commun Mass Spectrom. 2011 Mar 30;25(6):795-805</RefSource>
+                <PMID Version="1">21337642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2012 Nov;92(5):546-8</RefSource>
+                <PMID Version="1">23085877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(10):e47326</RefSource>
+                <PMID Version="1">23112813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Mar 10;106(10):3698-703</RefSource>
+                <PMID Version="1">19234110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2008 Mar;7(3):205-20</RefSource>
+                <PMID Version="1">18309312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Apr 7;472(7341):57-63</RefSource>
+                <PMID Version="1">21475195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Prev Res (Phila). 2012 Aug;5(8):992-1006</RefSource>
+                <PMID Version="1">22689914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:512</RefSource>
+                <PMID Version="1">17123434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2013 Jan 8;17(1):49-60</RefSource>
+                <PMID Version="1">23312283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2011 Nov;16(21-22):940-7</RefSource>
+                <PMID Version="1">21963522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2013 Feb;83(2):439-53</RefSource>
+                <PMID Version="1">23188714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2003 Feb 15;8(4):175-83</RefSource>
+                <PMID Version="1">12581712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2011 Feb;22(1):26-31</RefSource>
+                <PMID Version="1">20934866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2011 Mar;13(2):159-68</RefSource>
+                <PMID Version="1">21241816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2009 Sep;5(9):1051-7</RefSource>
+                <PMID Version="1">19668871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2012;52:37-56</RefSource>
+                <PMID Version="1">21819238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2013 Jan;13(2):248-60</RefSource>
+                <PMID Version="1">23307777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chim Acta. 2012 May 18;413(9-10):861-8</RefSource>
+                <PMID Version="1">22309680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2006 Dec;11(23-24):1085-92</RefSource>
+                <PMID Version="1">17129827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Med. 2009 Jan 22;1(1):11</RefSource>
+                <PMID Version="1">19348698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 2004 Oct;13(10):2825-8</RefSource>
+                <PMID Version="1">15388866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2012 Nov;30(11):1072-80</RefSource>
+                <PMID Version="1">23138306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2011 Aug 5;10(8):3660-73</RefSource>
+                <PMID Version="1">21671558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2010 Aug;6(8):602-9</RefSource>
+                <PMID Version="1">20581821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2005 Jan;37(1):73-6</RefSource>
+                <PMID Version="1">15568024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2013 Feb;18(3-4):116-27</RefSource>
+                <PMID Version="1">22999913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chromatogr A. 2012 Jun 1;1240:156-64</RefSource>
+                <PMID Version="1">22503618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2008 Jan;4(1):74-97</RefSource>
+                <PMID Version="1">18075678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2010 Sep 1;149(3):183-90</RefSource>
+                <PMID Version="1">20176062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2001 Jan;19(1):45-50</RefSource>
+                <PMID Version="1">11135551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2007 Apr;81(4):495-502</RefSource>
+                <PMID Version="1">17301733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Analyst. 2012 Jan 21;137(2):293-300</RefSource>
+                <PMID Version="1">22102985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Phys Chem B. 2009 Jun 11;113(23):7995-8005</RefSource>
+                <PMID Version="1">19323472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2011 Dec;1245:E1-5</RefSource>
+                <PMID Version="1">22417173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Integr Biol (Camb). 2011 Feb;3(2):86-96</RefSource>
+                <PMID Version="1">21212881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2013 Dec;280(23):5957-80</RefSource>
+                <PMID Version="1">23552054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011;5 Suppl 1:S11</RefSource>
+                <PMID Version="1">21689470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 Jun 15;26(12):i255-60</RefSource>
+                <PMID Version="1">20529914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2012;6:8</RefSource>
+                <PMID Version="1">22289213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Appl Toxicol. 2012 Jul;32(7):505-20</RefSource>
+                <PMID Version="1">22131085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2013 Jun;138(3):333-408</RefSource>
+                <PMID Version="1">23384594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Proced Online. 2009 May 15;11:32-51</RefSource>
+                <PMID Version="1">19495910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2005 Jun 15;10(12):823-37</RefSource>
+                <PMID Version="1">15970265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2010 Apr;76(7):2075-85</RefSource>
+                <PMID Version="1">20118361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Model Mech. 2012 Sep;5(5):614-20</RefSource>
+                <PMID Version="1">22915023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 Sep 7;6:401</RefSource>
+                <PMID Version="1">20823844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2013 Jan 15;29(2):290-1</RefSource>
+                <PMID Version="1">23162084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Jul 3;84(13):5524-34</RefSource>
+                <PMID Version="1">22612383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Biochem. 2012 Dec;45(18):1596-601</RefSource>
+                <PMID Version="1">22892193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011;5:165</RefSource>
+                <PMID Version="1">21999653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxins (Basel). 2011 Jun;3(6):520-37</RefSource>
+                <PMID Version="1">22069723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2010 Sep 15;26(18):i568-74</RefSource>
+                <PMID Version="1">20823323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e40096</RefSource>
+                <PMID Version="1">22768229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2010 Jul;28(7):381-90</RefSource>
+                <PMID Version="1">20570001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2012 Jan 15;28(2):184-90</RefSource>
+                <PMID Version="1">22101153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2003 Nov;13(11):2467-74</RefSource>
+                <PMID Version="1">14559783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2012 Oct;136(1):106-30</RefSource>
+                <PMID Version="1">22841915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2004 May;22(5):245-52</RefSource>
+                <PMID Version="1">15109811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Nov 15;491(7424):458-62</RefSource>
+                <PMID Version="1">23064226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(8):e1002662</RefSource>
+                <PMID Version="1">22956899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2012;13:172</RefSource>
+                <PMID Version="1">22823282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2009 Dec;5(12):1536-48</RefSource>
+                <PMID Version="1">19763339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(5):e1002518</RefSource>
+                <PMID Version="1">22615553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012 Jun;8(Suppl 1):3-16</RefSource>
+                <PMID Version="1">22593721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phytochemistry. 2012 Oct;82:38-45</RefSource>
+                <PMID Version="1">22867903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2012 May 7;300:91-9</RefSource>
+                <PMID Version="1">22286016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transl Res. 2012 Apr;159(4):313-25</RefSource>
+                <PMID Version="1">22424434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2011 Aug;22(4):566-75</RefSource>
+                <PMID Version="1">21600757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2008 Nov;4(11):682-90</RefSource>
+                <PMID Version="1">18936753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2010 Jul;88(1):34-8</RefSource>
+                <PMID Version="1">20520606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Drug Discov Devel. 2008 May;11(3):381-8</RefSource>
+                <PMID Version="1">18428092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AAPS J. 2013 Jan;15(1):104-11</RefSource>
+                <PMID Version="1">23090085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2010 Mar;9(3):203-14</RefSource>
+                <PMID Version="1">20168317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2013;346:f1</RefSource>
+                <PMID Version="1">23297175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Yeast. 2008 Sep;25(9):661-72</RefSource>
+                <PMID Version="1">18727146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2009 Feb;276(4):886-902</RefSource>
+                <PMID Version="1">19215296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2010 Mar;31(3):115-23</RefSource>
+                <PMID Version="1">20117850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2013 Feb;24(1):54-9</RefSource>
+                <PMID Version="1">23142545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chromatogr B Analyt Technol Biomed Life Sci. 2013 Jan 15;913-914:161-8</RefSource>
+                <PMID Version="1">23314354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2012 Feb;41(1):24-32</RefSource>
+                <PMID Version="1">22296988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Nutr. 2007 Jan;137(1 Suppl):259S-266S</RefSource>
+                <PMID Version="1">17182837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Nov 12;462(7270):175-81</RefSource>
+                <PMID Version="1">19881490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(8):e43696</RefSource>
+                <PMID Version="1">22928018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Clin Pharmacol. 1998 Aug;46(2):101-10</RefSource>
+                <PMID Version="1">9723817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Endocrinol. 2012 Oct;215(1):29-42</RefSource>
+                <PMID Version="1">22718433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2012 Feb;8(2):663-70</RefSource>
+                <PMID Version="1">22183149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(7):e11764</RefSource>
+                <PMID Version="1">20668676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2013 Apr 5;9(4):713-22</RefSource>
+                <PMID Version="1">23396507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Prod Rep. 2013 Apr;30(4):565-83</RefSource>
+                <PMID Version="1">23447050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Biophys J. 2012 Oct;41(10):875-90</RefSource>
+                <PMID Version="1">22588484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 13;107(15):6829-34</RefSource>
+                <PMID Version="1">20351247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicol Lett. 2012 Nov 30;215(2):143-9</RefSource>
+                <PMID Version="1">23103988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2013 Feb;24(1):95-104</RefSource>
+                <PMID Version="1">23246232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 2000;192:255-80</RefSource>
+                <PMID Version="1">10553282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Pharmacol Ther. 2013 Jan;93(1):26-8</RefSource>
+                <PMID Version="1">23212105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2007 Mar;6(3):220-30</RefSource>
+                <PMID Version="1">17330071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2004 Nov;5(11):826-37</RefSource>
+                <PMID Version="1">15520792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Proteomics. 2012 Aug;9(4):437-49</RefSource>
+                <PMID Version="1">22967080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Matern Fetal Neonatal Med. 2012 Oct;25(Suppl 5):13-8</RefSource>
+                <PMID Version="1">23025763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2011 Jun 17;722(2):147-53</RefSource>
+                <PMID Version="1">20188855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hypertension. 2010 Oct;56(4):741-9</RefSource>
+                <PMID Version="1">20837882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(12):e28766</RefSource>
+                <PMID Version="1">22163331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Syst Biol (Stevenage). 2005 Dec;152(4):174-8</RefSource>
+                <PMID Version="1">16986257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2012 Feb;8(2):470-81</RefSource>
+                <PMID Version="1">22041788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2013 Apr;14(4):249-61</RefSource>
+                <PMID Version="1">23458856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2011;7:543</RefSource>
+                <PMID Version="1">22027554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2013 Mar;9(1 Suppl):S132-S143</RefSource>
+                <PMID Version="1">26229523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2010 Jan;15(1-2):3-15</RefSource>
+                <PMID Version="1">19840866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 2012 Jan;58(1):139-47</RefSource>
+                <PMID Version="1">22110018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 7;486(7401):80-4</RefSource>
+                <PMID Version="1">22678283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(6):e38812</RefSource>
+                <PMID Version="1">22701716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2012 Mar 20;84(6):2745-53</RefSource>
+                <PMID Version="1">22309310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2012 Oct;8(5):757-760</RefSource>
+                <PMID Version="1">23060735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2007 Mar 1;92(5):1792-805</RefSource>
+                <PMID Version="1">17172310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2012 May-Jun;4(3):261-72</RefSource>
+                <PMID Version="1">22447740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2007;8:139</RefSource>
+                <PMID Version="1">17462086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Analyst. 2012 Nov 7;137(21):4958-67</RefSource>
+                <PMID Version="1">22970429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CMAJ. 2013 Mar 5;185(4):309-16</RefSource>
+                <PMID Version="1">23184849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011;5:8</RefSource>
+                <PMID Version="1">21244678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2011;7:501</RefSource>
+                <PMID Version="1">21694718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Jan 15;24(2):287-9</RefSource>
+                <PMID Version="1">18056069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chim Acta. 2012 Oct 31;750:82-97</RefSource>
+                <PMID Version="1">23062430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2013 Feb 6;5(171):171cm1</RefSource>
+                <PMID Version="1">23390245</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055808" MajorTopicYN="N">Drug Discovery</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008661" MajorTopicYN="N">Metabolism, Inborn Errors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055442" MajorTopicYN="N">Metabolome</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055432" MajorTopicYN="N">Metabolomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049490" MajorTopicYN="N">Systems Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3989035</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23892182</ArticleId>
+            <ArticleId IdType="pii">S1359-6446(13)00248-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.drudis.2013.07.014</ArticleId>
+            <ArticleId IdType="pmc">PMC3989035</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

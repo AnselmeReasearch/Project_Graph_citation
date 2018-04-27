@@ -1,0 +1,434 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">28561030</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2041-1723</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>May</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature communications</Title>
+                <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic network analysis reveals microbial community interactions in anammox granules.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15416</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ncomms15416</ELocationID>
+            <Abstract>
+                <AbstractText>Microbial communities mediating anaerobic ammonium oxidation (anammox) represent one of the most energy-efficient environmental biotechnologies for nitrogen removal from wastewater. However, little is known about the functional role heterotrophic bacteria play in anammox granules. Here, we use genome-centric metagenomics to recover 17 draft genomes of anammox and heterotrophic bacteria from a laboratory-scale anammox bioreactor. We combine metabolic network reconstruction with metatranscriptomics to examine the gene expression of anammox and heterotrophic bacteria and to identify their potential interactions. We find that Chlorobi-affiliated bacteria may be highly active protein degraders, catabolizing extracellular peptides while recycling nitrate to nitrite. Other heterotrophs may also contribute to scavenging of detritus and peptides produced by anammox bacteria, and potentially use alternative electron donors, such as H2, acetate and formate. Our findings improve the understanding of metabolic activities and interactions between anammox and heterotrophic bacteria and offer the first transcriptional insights on ecosystem function in anammox granules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lawson</LastName>
+                    <ForeName>Christopher E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Sha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Utah, Salt Lake City, Utah 84112, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharjee</LastName>
+                    <ForeName>Ananda S</ForeName>
+                    <Initials>AS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Utah, Salt Lake City, Utah 84112, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>Joshua J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bacteriology, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMahon</LastName>
+                    <ForeName>Katherine D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bacteriology, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goel</LastName>
+                    <ForeName>Ramesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Utah, Salt Lake City, Utah 84112, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noguera</LastName>
+                    <ForeName>Daniel R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, Wisconsin 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Great Lakes Bioenergy Research Center, Wisconsin Energy Institute, University of Wisconsin-Madison, Madison, Wisconsin 53726, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Commun</MedlineTA>
+            <NlmUniqueID>101528555</NlmUniqueID>
+            <ISSNLinking>2041-1723</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2015 Jan 15;31(2):166-9</RefSource>
+                <PMID Version="1">25260700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2011 Oct 02;479(7371):127-30</RefSource>
+                <PMID Version="1">21964329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2005 Mar;69(1):12-50</RefSource>
+                <PMID Version="1">15755952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PeerJ. 2014 Jan 09;2:e243</RefSource>
+                <PMID Version="1">24482762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Sci Technol. 2012;66(12):2556-61</RefSource>
+                <PMID Version="1">23109570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2014 Sep 23;111(38):E3948-56</RefSource>
+                <PMID Version="1">25157147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2016 Jul;10(7):1568-78</RefSource>
+                <PMID Version="1">26771930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Res. 2002 May;36(10):2475-82</RefSource>
+                <PMID Version="1">12153013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2016 Mar 31;7:11172</RefSource>
+                <PMID Version="1">27029554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Microbiol. 2012 May 29;3:185</RefSource>
+                <PMID Version="1">22661972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2000 Mar;146 ( Pt 3):551-71</RefSource>
+                <PMID Version="1">10746759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2010 Apr;76(8):2652-6</RefSource>
+                <PMID Version="1">20190088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Microbiol. 2013 Nov 23;13:265</RefSource>
+                <PMID Version="1">24267221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stand Genomic Sci. 2011 Dec 31;5(3):424-9</RefSource>
+                <PMID Version="1">22675592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Feb;1827(2):94-113</RefSource>
+                <PMID Version="1">22800682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2012 Dec 15;28(24):3211-7</RefSource>
+                <PMID Version="1">23071270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Metab. 2014 Nov 4;20(5):769-78</RefSource>
+                <PMID Version="1">25440056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D343-50</RefSource>
+                <PMID Version="1">26527717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2013 Jun 21;14:202</RefSource>
+                <PMID Version="1">23800136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D372-9</RefSource>
+                <PMID Version="1">26546518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2008 Jul;5(7):621-8</RefSource>
+                <PMID Version="1">18516045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Mar 19;99(6):3695-700</RefSource>
+                <PMID Version="1">11904428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D279-85</RefSource>
+                <PMID Version="1">26673716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Sci Technol. 2010;61(7):1715-22</RefSource>
+                <PMID Version="1">20371929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2012 Jun;6(6):1186-99</RefSource>
+                <PMID Version="1">22170421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Ecol. 2008 Jan;63(1):46-55</RefSource>
+                <PMID Version="1">18081590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jan;43(Database issue):D222-6</RefSource>
+                <PMID Version="1">25414356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2011 Dec 16;334(6062):1551-3</RefSource>
+                <PMID Version="1">22174252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Microbiol. 2016 Sep;18(9):3133-43</RefSource>
+                <PMID Version="1">27112128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 May 7;328(5979):702-3</RefSource>
+                <PMID Version="1">20448175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PeerJ. 2015 Aug 27;3:e1165</RefSource>
+                <PMID Version="1">26336640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 1997 Mar;6(3):501-23</RefSource>
+                <PMID Version="1">9070434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Microbiol. 2015 Jun;17(6):2172-89</RefSource>
+                <PMID Version="1">25367004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2015 Oct 15;31(20):3345-7</RefSource>
+                <PMID Version="1">26076725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Syst Appl Microbiol. 2009 Jul;32(4):278-89</RefSource>
+                <PMID Version="1">19403257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2010 Feb;76(3):900-9</RefSource>
+                <PMID Version="1">19948857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010 Mar 08;11:119</RefSource>
+                <PMID Version="1">20211023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioprocess Biosyst Eng. 2015 Mar;38(3):499-508</RefSource>
+                <PMID Version="1">25245398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Res. 2015 May 15;75:51-62</RefSource>
+                <PMID Version="1">25746962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2014 Jan 17;289(3):1228-42</RefSource>
+                <PMID Version="1">24302732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2014 May 20;111(20):E2149-56</RefSource>
+                <PMID Version="1">24778240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D490-5</RefSource>
+                <PMID Version="1">24270786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antonie Van Leeuwenhoek. 1994;66(1-3):57-88</RefSource>
+                <PMID Version="1">7747941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biosci Bioeng. 2008 Mar;105(3):243-8</RefSource>
+                <PMID Version="1">18397776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Rev. 2013 May;37(3):428-61</RefSource>
+                <PMID Version="1">23210799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2013 Apr;110(4):1180-92</RefSource>
+                <PMID Version="1">23097129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Res. 2015 Mar 1;70:246-54</RefSource>
+                <PMID Version="1">25540838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Res. 2016 Oct 1;102:147-57</RefSource>
+                <PMID Version="1">27340816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Jul 29;400(6743):446-9</RefSource>
+                <PMID Version="1">10440372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(1):e53047</RefSource>
+                <PMID Version="1">23301019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Sci Technol. 2007;55(8-9):27-33</RefSource>
+                <PMID Version="1">17546966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Apr 6;440(7085):790-4</RefSource>
+                <PMID Version="1">16598256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Res. 2012 Oct 1;46(15):4645-52</RefSource>
+                <PMID Version="1">22763288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1993 Dec;57(4):823-37</RefSource>
+                <PMID Version="1">8302217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2000 May 9;39(18):5405-12</RefSource>
+                <PMID Version="1">10820012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Announc. 2015 Apr 16;3(2):null</RefSource>
+                <PMID Version="1">25883286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2016 Jun 07;6:27576</RefSource>
+                <PMID Version="1">27273460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Water Sci Technol. 2001;44(1):153-60</RefSource>
+                <PMID Version="1">11496667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Microbiol. 2015 Dec;17(12):4979-93</RefSource>
+                <PMID Version="1">25857222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2007 Aug;73(15):4931-9</RefSource>
+                <PMID Version="1">17526785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2011 Nov 1;27(21):2957-63</RefSource>
+                <PMID Version="1">21903629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brief Bioinform. 2016 Sep;17(5):877-90</RefSource>
+                <PMID Version="1">26454094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2016 Jun 17;7:11965</RefSource>
+                <PMID Version="1">27311813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Feb 15;102(7):2567-72</RefSource>
+                <PMID Version="1">15701695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2015 Jul;25(7):1043-55</RefSource>
+                <PMID Version="1">25977477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Ecol. 2015 Jul;70(1):118-31</RefSource>
+                <PMID Version="1">25501888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 2004 May;13(5):1402-6</RefSource>
+                <PMID Version="1">15096640</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28561030</ArticleId>
+            <ArticleId IdType="pii">ncomms15416</ArticleId>
+            <ArticleId IdType="doi">10.1038/ncomms15416</ArticleId>
+            <ArticleId IdType="pmc">PMC5460018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

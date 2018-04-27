@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">28217746</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2379-5077</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2017 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>mSystems</Title>
+                <ISOAbbreviation>mSystems</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integrated Regulatory and Metabolic Networks of the Marine Diatom Phaeodactylum tricornutum Predict the Response to Rising CO2 Levels.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">e00142-16</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/mSystems.00142-16</ELocationID>
+            <Abstract>
+                <AbstractText>Diatoms are eukaryotic microalgae that are responsible for up to 40% of the ocean's primary productivity. How diatoms respond to environmental perturbations such as elevated carbon concentrations in the atmosphere is currently poorly understood. We developed a transcriptional regulatory network based on various transcriptome sequencing expression libraries for different environmental responses to gain insight into the marine diatom's metabolic and regulatory interactions and provide a comprehensive framework of responses to increasing atmospheric carbon levels. This transcriptional regulatory network was integrated with a recently published genome-scale metabolic model of Phaeodactylum tricornutum to explore the connectivity of the regulatory network and shared metabolites. The integrated regulatory and metabolic model revealed highly connected modules within carbon and nitrogen metabolism. P. tricornutum's response to rising carbon levels was analyzed by using the recent genome-scale metabolic model with cross comparison to experimental manipulations of carbon dioxide. IMPORTANCE Using a systems biology approach, we studied the response of the marine diatom Phaeodactylum tricornutum to changing atmospheric carbon concentrations on an ocean-wide scale. By integrating an available genome-scale metabolic model and a newly developed transcriptional regulatory network inferred from transcriptome sequencing expression data, we demonstrate that carbon metabolism and nitrogen metabolism are strongly connected and the genes involved are coregulated in this model diatom. These tight regulatory constraints could play a major role during the adaptation of P. tricornutum to increasing carbon levels. The transcriptional regulatory network developed can be further used to study the effects of different environmental perturbations on P. tricornutum's metabolism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Levering</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0001-8491-9337</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioengineering, University of California San Diego, La Jolla, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dupont</LastName>
+                    <ForeName>Christopher L</ForeName>
+                    <Initials>CL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbial and Environmental Genomics, J. Craig Venter Institute, La Jolla, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allen</LastName>
+                    <ForeName>Andrew E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbial and Environmental Genomics, J. Craig Venter Institute, La Jolla, California, USA; Integrative Oceanography Division, Scripps Institute of Oceanography, University of California San Diego, La Jolla, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palsson</LastName>
+                    <ForeName>Bernhard O</ForeName>
+                    <Initials>BO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioengineering, University of California San Diego, La Jolla, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zengler</LastName>
+                    <ForeName>Karsten</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioengineering, University of California San Diego, La Jolla, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>mSystems</MedlineTA>
+            <NlmUniqueID>101680636</NlmUniqueID>
+            <ISSNLinking>2379-5077</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Plant Biol. 2016 Jun;31:51-7</RefSource>
+                <PMID Version="1">27055267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2012 Aug;23(4):617-23</RefSource>
+                <PMID Version="1">22054827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Feb 14;9(2):e86587</RefSource>
+                <PMID Version="1">24551039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jan;43(Database issue):D447-52</RefSource>
+                <PMID Version="1">25352553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2010;11(10):R106</RefSource>
+                <PMID Version="1">20979621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Genet Genomics. 2007 Apr;277(4):427-39</RefSource>
+                <PMID Version="1">17252281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jul 27;43(13):e87</RefSource>
+                <PMID Version="1">25873626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2015 Aug 20;524(7565):366-9</RefSource>
+                <PMID Version="1">26168400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Biotechnol J. 2015 May;13(4):460-70</RefSource>
+                <PMID Version="1">25302562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2012 Feb 27;10(4):291-305</RefSource>
+                <PMID Version="1">22367118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2011 May 1;476(1-2):20-6</RefSource>
+                <PMID Version="1">21320580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Apr 20;43(7):e47</RefSource>
+                <PMID Version="1">25605792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2011 Aug 04;6(9):1290-307</RefSource>
+                <PMID Version="1">21886097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biostatistics. 2007 Jan;8(1):118-27</RefSource>
+                <PMID Version="1">16632515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006 Jun 02;7:280</RefSource>
+                <PMID Version="1">16749936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2016 May 06;11(5):e0155038</RefSource>
+                <PMID Version="1">27152931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Rev Mar Sci. 2010;2:333-65</RefSource>
+                <PMID Version="1">21141668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                <PMID Version="1">20212490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>New Phytol. 2010 Oct;188(1):52-66</RefSource>
+                <PMID Version="1">20646219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2006;7(5):R36</RefSource>
+                <PMID Version="1">16686963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Sep 25;425(6956):365</RefSource>
+                <PMID Version="1">14508477</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Phaeodactylum tricornutum</Keyword>
+            <Keyword MajorTopicYN="N">coregulated genes</Keyword>
+            <Keyword MajorTopicYN="N">genome-scale metabolic network reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">integrated network modeling</Keyword>
+            <Keyword MajorTopicYN="N">regulatory network inference</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28217746</ArticleId>
+            <ArticleId IdType="doi">10.1128/mSystems.00142-16</ArticleId>
+            <ArticleId IdType="pii">mSystems00142-16</ArticleId>
+            <ArticleId IdType="pmc">PMC5309336</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

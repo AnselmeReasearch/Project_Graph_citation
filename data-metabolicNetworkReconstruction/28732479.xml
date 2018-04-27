@@ -1,0 +1,509 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">28732479</PMID>
+        <DateCreated>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2180</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Jul</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC microbiology</Title>
+                <ISOAbbreviation>BMC Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An integrated computational-experimental approach reveals Yersinia pestis genes essential across a narrow or a broad range of environmental conditions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>163</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12866-017-1073-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The World Health Organization has categorized plague as a re-emerging disease and the potential for Yersinia pestis to also be used as a bioweapon makes the identification of new drug targets against this pathogen a priority. Environmental temperature is a key signal which regulates virulence of the bacterium. The bacterium normally grows outside the human host at 28 °C. Therefore, understanding the mechanisms that the bacterium used to adapt to a mammalian host at 37 °C is central to the development of vaccines or drugs for the prevention or treatment of human disease.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using a library of over 1 million Y. pestis CO92 random mutants and transposon-directed insertion site sequencing, we identified 530 essential genes when the bacteria were cultured at 28 °C. When the library of mutants was subsequently cultured at 37 °C we identified 19 genes that were essential at 37 °C but not at 28 °C, including genes which encode proteins that play a role in enabling functioning of the type III secretion and in DNA replication and maintenance. Using genome-scale metabolic network reconstruction we showed that growth conditions profoundly influence the physiology of the bacterium, and by combining computational and experimental approaches we were able to identify 54 genes that are essential under a broad range of conditions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Using an integrated computational-experimental approach we identify genes which are required for growth at 37 °C and under a broad range of environments may be the best targets for the development of new interventions to prevent or treat plague in humans.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Senior</LastName>
+                    <ForeName>Nicola J</ForeName>
+                    <Initials>NJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasidharan</LastName>
+                    <ForeName>Kalesh</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saint</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Andrew E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarkar-Tyson</LastName>
+                    <ForeName>Mitali</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Marshall Centre for Infectious Disease Research and Training, School of Pathology and Laboratory Medicine, University of Western Australia, Perth, WA, 6009, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ireland</LastName>
+                    <ForeName>Philip M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bullifent</LastName>
+                    <ForeName>Helen L</ForeName>
+                    <Initials>HL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rong Yang</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oyston</LastName>
+                    <ForeName>Petra C F</ForeName>
+                    <Initials>PCF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atkins</LastName>
+                    <ForeName>Timothy P</ForeName>
+                    <Initials>TP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Atkins</LastName>
+                    <ForeName>Helen S</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Defence Science Technology Laboratory, Porton Down, Salisbury, SP4 OJQ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soyer</LastName>
+                    <ForeName>Orkun S</ForeName>
+                    <Initials>OS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Life Sciences, University of Warwick, Coventry, CV4 7AL, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Titball</LastName>
+                    <ForeName>Richard W</ForeName>
+                    <Initials>RW</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-0162-2077</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Life and Environmental Sciences, University of Exeter, Exeter, EX4 4SB, UK. r.w.titball@exeter.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Microbiol</MedlineTA>
+            <NlmUniqueID>100966981</NlmUniqueID>
+            <ISSNLinking>1471-2180</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2004 Nov;37(5):241-51</RefSource>
+                <PMID Version="1">15519045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2010 Mar;78(3):1304-13</RefSource>
+                <PMID Version="1">20086087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013 Jun 07;8(6):e65973</RefSource>
+                <PMID Version="1">23762452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2014 Nov 05;15:958</RefSource>
+                <PMID Version="1">25373505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Jul 03;9(7):e101869</RefSource>
+                <PMID Version="1">24992475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1990 Mar 1;87(1):133-7</RefSource>
+                <PMID Version="1">2332165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Oct;3(10):742-52</RefSource>
+                <PMID Version="1">12360191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2006 Oct;50(10):3233-6</RefSource>
+                <PMID Version="1">17005799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 Jan;77(1):286-91</RefSource>
+                <PMID Version="1">18981252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2011 Dec 30;12(12):R127</RefSource>
+                <PMID Version="1">22208880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2013 Jul;11(7):435-42</RefSource>
+                <PMID Version="1">23712350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2013;9(7):e1003499</RefSource>
+                <PMID Version="1">23874203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Open Biol. 2012 Dec 05;2(12):120142</RefSource>
+                <PMID Version="1">23271832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Genet Evol. 2016 Jan;37:21-36</RefSource>
+                <PMID Version="1">26518910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 Feb;77(2):667-75</RefSource>
+                <PMID Version="1">19001074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Microbiol Biotechnol. 2000 Apr;2(2):225-33</RefSource>
+                <PMID Version="1">10939248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Oct 4;413(6855):523-7</RefSource>
+                <PMID Version="1">11586360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virulence. 2017 Jan 2;8(1):30-40</RefSource>
+                <PMID Version="1">27367830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2003 Aug;7(4):469-73</RefSource>
+                <PMID Version="1">12885266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Oct 5;264(28):16403-10</RefSource>
+                <PMID Version="1">2674131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2001 Jul;130(1):63-71</RefSource>
+                <PMID Version="1">11432781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2008 Dec;70(5):1062-75</RefSource>
+                <PMID Version="1">18990185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1987 Jan;169(1):19-25</RefSource>
+                <PMID Version="1">3098730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1974 Dec;120(3):1370-9</RefSource>
+                <PMID Version="1">4373439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Aug;184(16):4601-11</RefSource>
+                <PMID Version="1">12142430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2014 Nov;160(Pt 11):2517-25</RefSource>
+                <PMID Version="1">25187626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Jun 30;281(26):17541-4</RefSource>
+                <PMID Version="1">16648134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2011 Oct;14(5):544-9</RefSource>
+                <PMID Version="1">21862391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1995 Feb;177(3):517-23</RefSource>
+                <PMID Version="1">7836281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2006 Aug;50(8):2707-12</RefSource>
+                <PMID Version="1">16870762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Infect. 2014 Mar;20(3):202-9</RefSource>
+                <PMID Version="1">24438235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2015;1279:183-204</RefSource>
+                <PMID Version="1">25636620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2012 Dec;56(12):6223-34</RefSource>
+                <PMID Version="1">23006747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2005 Dec;187(23):8172-80</RefSource>
+                <PMID Version="1">16291690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2000 May 3;283(17):2281-90</RefSource>
+                <PMID Version="1">10807389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 2014 Dec;26(6):610-22</RefSource>
+                <PMID Version="1">25453232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1974 Jun;118(3):1020-6</RefSource>
+                <PMID Version="1">4364328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2017 Feb 06;7:41923</RefSource>
+                <PMID Version="1">28165493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2010 Mar;78(3):1284-93</RefSource>
+                <PMID Version="1">20065026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 May;69(5):2779-87</RefSource>
+                <PMID Version="1">11292689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Feb 4;94(3):934-9</RefSource>
+                <PMID Version="1">9023360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2016 Jun 27;6:28684</RefSource>
+                <PMID Version="1">27345215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 1988 Nov;120(3):645-50</RefSource>
+                <PMID Version="1">2852135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Nov;76(11):5028-37</RefSource>
+                <PMID Version="1">18710863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2011 Oct 13;5:163</RefSource>
+                <PMID Version="1">21995956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2007 Sep;153(Pt 9):3112-24</RefSource>
+                <PMID Version="1">17768254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mob DNA. 2012 Feb 07;3(1):3</RefSource>
+                <PMID Version="1">22313799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Sep;186(18):6298-305</RefSource>
+                <PMID Version="1">15342600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2307-12</RefSource>
+                <PMID Version="1">17284612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 1991 Jul;4(3):309-24</RefSource>
+                <PMID Version="1">1889045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 1997 Jan;10(1):35-66</RefSource>
+                <PMID Version="1">8993858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2005 Nov 15;252(2):251-6</RefSource>
+                <PMID Version="1">16188402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2016 Feb;14 (2):119-28</RefSource>
+                <PMID Version="1">26775926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Genet. 2014 Apr 07;5:66</RefSource>
+                <PMID Version="1">24778639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2008 Dec;72(4):642-71, Table of Contents</RefSource>
+                <PMID Version="1">19052323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Med Chem. 2016 Jun;8(10 ):1111-32</RefSource>
+                <PMID Version="1">27284850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2011 Sep;193(18):4582-7</RefSource>
+                <PMID Version="1">21724998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MBio. 2014 Aug 19;5(4):null</RefSource>
+                <PMID Version="1">25139902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Jul 19;277(29):25947-56</RefSource>
+                <PMID Version="1">12000771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Mar;1827(3):455-69</RefSource>
+                <PMID Version="1">23298813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2012 May 1;109(18):E1121-30</RefSource>
+                <PMID Version="1">22509034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2014 Apr;82(4):1390-401</RefSource>
+                <PMID Version="1">24421039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2012 Feb;194(3):653-62</RefSource>
+                <PMID Version="1">22139502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Immunol. 2004;48(11):791-805</RefSource>
+                <PMID Version="1">15557737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2010 Dec;54(12):4971-7</RefSource>
+                <PMID Version="1">20855724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2007 Aug;65(3):714-27</RefSource>
+                <PMID Version="1">17608794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009 Aug 24;4(8):e6720</RefSource>
+                <PMID Version="1">19701461</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Essential genes</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic model</Keyword>
+            <Keyword MajorTopicYN="N">Plague</Keyword>
+            <Keyword MajorTopicYN="N">TRADIS</Keyword>
+            <Keyword MajorTopicYN="N">Transposon</Keyword>
+            <Keyword MajorTopicYN="N">Yersinia pestis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>7</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28732479</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12866-017-1073-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12866-017-1073-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5521123</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

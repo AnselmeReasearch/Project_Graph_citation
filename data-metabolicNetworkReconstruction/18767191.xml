@@ -1,0 +1,464 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18767191</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>12</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0290</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>101</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Dec</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biotechnology and bioengineering</Title>
+                <ISOAbbreviation>Biotechnol. Bioeng.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-scale model for Clostridium acetobutylicum: Part II. Development of specific proton flux states and numerically determined sub-systems.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1053-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/bit.22009</ELocationID>
+            <Abstract>
+                <AbstractText>A regulated genome-scale model for Clostridium acetobutylicum ATCC 824 was developed based on its metabolic network reconstruction. To aid model convergence and limit the number of flux-vector possible solutions (the size of the phenotypic solution space), modeling strategies were developed to impose a new type of constraint at the endo-exo-metabolome interface. This constraint is termed the specific proton flux state, and its use enabled accurate prediction of the extracellular medium pH during vegetative growth of batch cultures. The specific proton flux refers to the influx or efflux of free protons (per unit biomass) across the cell membrane. A specific proton flux state encompasses a defined range of specific proton fluxes and includes all metabolic flux distributions resulting in a specific proton flux within this range. Effective simulation of time-course batch fermentation required the use of independent flux balance solutions from an optimum set of specific proton flux states. Using a real-coded genetic algorithm to optimize temporal bounds of specific proton flux states, we show that six separate specific proton flux states are required to model vegetative-growth metabolism and accurately predict the extracellular medium pH. Further, we define the apparent proton flux stoichiometry per weak acids efflux and show that this value decreases from approximately 3.5 mol of protons secreted per mole of weak acids at the start of the culture to approximately 0 at the end of vegetative growth. Calculations revealed that when specific weak acids production is maximized in vegetative growth, the net proton exchange between the cell and environment occurs primarily through weak acids efflux (apparent proton flux stoichiometry is 1). However, proton efflux through cation channels during the early stages of acidogenesis was found to be significant. We have also developed the concept of numerically determined sub-systems of genome-scale metabolic networks here as a sub-network with a one-dimensional null space basis set. A numerically determined sub-system was constructed in the genome-scale metabolic network to study the flux magnitudes and directions of acetylornithine transaminase, alanine racemase, and D-alanine transaminase. These results were then used to establish additional constraints for the genome-scale model.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Senger</LastName>
+                    <ForeName>Ryan S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Delaware Biotechnology Institute, University of Delaware, 15 Innovation Way, Newark, Delaware 19711, USA. senger@dbi.udel.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papoutsakis</LastName>
+                    <ForeName>Eleftherios T</ForeName>
+                    <Initials>ET</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 GM078947-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947-03</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32GM078947</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 GM078947</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biotechnol Bioeng</MedlineTA>
+            <NlmUniqueID>7502021</NlmUniqueID>
+            <ISSNLinking>0006-3592</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000143">Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000637">Transaminases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.11</RegistryNumber>
+                <NameOfSubstance UI="C018731">acetylornithine transaminase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.21</RegistryNumber>
+                <NameOfSubstance UI="D051263">D-Alanine Transaminase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.1.1.1</RegistryNumber>
+                <NameOfSubstance UI="D000411">Alanine Racemase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1993 Sep;65(3):1243-54</RefSource>
+                <PMID Version="1">8241405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2003 Aug;185(15):4539-47</RefSource>
+                <PMID Version="1">12867463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 May 6;121(3):401-9</RefSource>
+                <PMID Version="1">15882622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:101</RefSource>
+                <PMID Version="1">17437026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D181-6</RefSource>
+                <PMID Version="1">16381841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Jul;184(13):3586-97</RefSource>
+                <PMID Version="1">12057953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2003 Apr;21(4):162-9</RefSource>
+                <PMID Version="1">12679064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2007 May 10;129(4):696-705</RefSource>
+                <PMID Version="1">17408794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(9):R54</RefSource>
+                <PMID Version="1">12952533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1997 Mar;179(5):1714-20</RefSource>
+                <PMID Version="1">9045833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3268-71</RefSource>
+                <PMID Version="1">11607175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Apr;186(7):2006-18</RefSource>
+                <PMID Version="1">15028684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Dec;3(12):969-78</RefSource>
+                <PMID Version="1">16261177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2001 Aug;183(16):4823-38</RefSource>
+                <PMID Version="1">11466286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2006 Nov-Dec;22(6):1671-82</RefSource>
+                <PMID Version="1">17137317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 1999 May 28;71(1-3):191-205</RefSource>
+                <PMID Version="1">10483106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2005 Oct;187(20):7103-18</RefSource>
+                <PMID Version="1">16199581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1980 Sep;44(3):385-418</RefSource>
+                <PMID Version="1">6999324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2004 Jun 21;228(4):437-47</RefSource>
+                <PMID Version="1">15178193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2005 Nov;23(11):544-6</RefSource>
+                <PMID Version="1">16154652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2008 Dec 1;101(5):1036-52</RefSource>
+                <PMID Version="1">18767192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Apr;186(7):1959-71</RefSource>
+                <PMID Version="1">15028679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1984 Feb;26(2):174-87</RefSource>
+                <PMID Version="1">18551704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2003 Dec 30;84(7):763-72</RefSource>
+                <PMID Version="1">14708117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2005 Dec 30;92(7):850-64</RefSource>
+                <PMID Version="1">16155945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2003 Dec;67(4):686-723</RefSource>
+                <PMID Version="1">14665680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 May 13;100(10):5944-9</RefSource>
+                <PMID Version="1">12730377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2005;6:11</RefSource>
+                <PMID Version="1">15659246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1982 Dec;44(6):1318-24</RefSource>
+                <PMID Version="1">16346149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 1996 Dec;142 (Pt 12):3445-52</RefSource>
+                <PMID Version="1">9244562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1999 Oct 22;293(2):381-99</RefSource>
+                <PMID Version="1">10529352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 1999 Jul;1(3):206-13</RefSource>
+                <PMID Version="1">10937935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Agric Food Chem. 2006 Aug 9;54(16):6021-9</RefSource>
+                <PMID Version="1">16881711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1986 Dec;50(4):484-524</RefSource>
+                <PMID Version="1">3540574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2003 Dec 30;84(7):842-54</RefSource>
+                <PMID Version="1">14708125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Mar;176(5):1443-50</RefSource>
+                <PMID Version="1">8113186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1985 May;27(5):681-94</RefSource>
+                <PMID Version="1">18553724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1988 Sep 20;32(7):843-52</RefSource>
+                <PMID Version="1">18587795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 1999 Oct 1;15(5):923-927</RefSource>
+                <PMID Version="1">10514263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Biochem Mol Biol. 2002;37(5):287-337</RefSource>
+                <PMID Version="1">12449427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2006 Aug 11;2(8):e101</RefSource>
+                <PMID Version="1">16895435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Rev. 1995 Oct;17(3):275-85</RefSource>
+                <PMID Version="1">7576769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Nov;2(11):886-97</RefSource>
+                <PMID Version="1">15494745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2007 May;73(9):3061-8</RefSource>
+                <PMID Version="1">17337545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Nov 14;103(46):17480-4</RefSource>
+                <PMID Version="1">17088549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2006 Feb 15;90(4):1453-61</RefSource>
+                <PMID Version="1">16299075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1976 Jun 8;430(3):434-44</RefSource>
+                <PMID Version="1">132964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1985 Jan;27(1):50-66</RefSource>
+                <PMID Version="1">18553576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1985 Aug;27(8):1246-57</RefSource>
+                <PMID Version="1">18553808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1985 Jan;27(1):67-80</RefSource>
+                <PMID Version="1">18553577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Mar;88(3):1616-25</RefSource>
+                <PMID Version="1">15626710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Jul;14(7):1298-309</RefSource>
+                <PMID Version="1">15197165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2006;2:2006.0034</RefSource>
+                <PMID Version="1">16788595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2007 Mar 1;92(5):1792-805</RefSource>
+                <PMID Version="1">17172310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1994 Dec;176(23):7252-9</RefSource>
+                <PMID Version="1">7961496</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000143" MajorTopicYN="N">Acids</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000411" MajorTopicYN="N">Alanine Racemase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048708" MajorTopicYN="N">Cell Growth Processes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046969" MajorTopicYN="N">Clostridium acetobutylicum</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051263" MajorTopicYN="N">D-Alanine Transaminase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045604" MajorTopicYN="N">Extracellular Fluid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005285" MajorTopicYN="N">Fermentation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017136" MajorTopicYN="N">Ion Transport</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055442" MajorTopicYN="N">Metabolome</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011522" MajorTopicYN="N">Protons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018511" MajorTopicYN="N">Systems Integration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000637" MajorTopicYN="N">Transaminases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS120880</OtherID>
+        <OtherID Source="NLM">PMC2745297</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18767191</ArticleId>
+            <ArticleId IdType="doi">10.1002/bit.22009</ArticleId>
+            <ArticleId IdType="pmc">PMC2745297</ArticleId>
+            <ArticleId IdType="mid">NIHMS120880</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

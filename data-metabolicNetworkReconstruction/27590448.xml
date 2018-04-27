@@ -1,0 +1,411 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27590448</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Sep</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC bioinformatics</Title>
+                <ISOAbbreviation>BMC Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MMinte: an application for predicting metabolic interactions among the microbial species in a community.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>343</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12859-016-1230-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The explosive growth of microbiome research has yielded great quantities of data. These data provide us with many answers, but raise just as many questions. 16S rDNA-the backbone of microbiome analyses-allows us to assess α-diversity, β-diversity, and microbe-microbe associations, which characterize the overall properties of an ecosystem. However, we are still unable to use 16S rDNA data to directly assess the microbe-microbe and microbe-environment interactions that determine the broader ecology of that system. Thus, properties such as competition, cooperation, and nutrient conditions remain insufficiently analyzed. Here, we apply predictive community metabolic models of microbes identified with 16S rDNA data to probe the ecology of microbial communities.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We developed a methodology for the large-scale assessment of microbial metabolic interactions (MMinte) from 16S rDNA data. MMinte assesses the relative growth rates of interacting pairs of organisms within a community metabolic network and whether that interaction has a positive or negative effect. Moreover, MMinte's simulations take into account the nutritional environment, which plays a strong role in determining the metabolism of individual microbes. We present two case studies that demonstrate the utility of this software. In the first, we show how diet influences the nature of the microbe-microbe interactions. In the second, we use MMinte's modular feature set to better understand how the growth of Desulfovibrio piger is affected by, and affects the growth of, other members in a simplified gut community under metabolic conditions suggested to be determinant for their dynamics.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">By applying metabolic models to commonly available sequence data, MMinte grants the user insight into the metabolic relationships between microbes, highlighting important features that may relate to ecological stability, susceptibility, and cross-feeding. These relationships are at the foundation of a wide range of ecological questions that impact our ability to understand problems such as microbially-derived toxicity in colon cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mendes-Soares</LastName>
+                    <ForeName>Helena</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6727-4327</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, 200 First St. SW, Rochester, 55905, MN, USA. soares.maria@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Mayo Clinic, Rochester, MN, USA. soares.maria@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mundy</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, 200 First St. SW, Rochester, 55905, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soares</LastName>
+                    <ForeName>Luis Mendes</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chia</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Microbiome Program, Center for Individualized Medicine, Mayo Clinic, 200 First St. SW, Rochester, 55905, MN, USA. chia.nicholas@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Mayo Clinic, Rochester, MN, USA. chia.nicholas@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Biomedical Engineering, Mayo College, Rochester, MN, USA. chia.nicholas@mayo.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA179243</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Bioinformatics</MedlineTA>
+            <NlmUniqueID>100965194</NlmUniqueID>
+            <ISSNLinking>1471-2105</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2006 Jan;4(1):9-14</RefSource>
+                <PMID Version="1">16446402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2011 Oct 20;10(4):336-47</RefSource>
+                <PMID Version="1">22018234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2015 Jun 15;81(12):4049-61</RefSource>
+                <PMID Version="1">25841013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2009;5:320</RefSource>
+                <PMID Version="1">19888215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2009 Feb;7(2):129-43</RefSource>
+                <PMID Version="1">19116616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1994 Oct;60(10):3724-31</RefSource>
+                <PMID Version="1">7986045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2012 Jul 31;160(1-2):17-24</RefSource>
+                <PMID Version="1">22465599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Sep 15;437(7057):349-55</RefSource>
+                <PMID Version="1">16163345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 May 23;320(5879):1034-9</RefSource>
+                <PMID Version="1">18497287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Environ. 2014 Sep 17;29(3):329-32</RefSource>
+                <PMID Version="1">25130883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012 Feb;8(2):e1002363</RefSource>
+                <PMID Version="1">22319433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2012 Jun 8;336(6086):1325-9</RefSource>
+                <PMID Version="1">22582016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2007 May;5(5):455-9</RefSource>
+                <PMID Version="1">17475672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 13;486(7402):207-14</RefSource>
+                <PMID Version="1">22699609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2016 Jul;10(7):1669-81</RefSource>
+                <PMID Version="1">26905627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005 Jan 1;33(Database issue):D294-6</RefSource>
+                <PMID Version="1">15608200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2013 Aug 08;7:74</RefSource>
+                <PMID Version="1">23927696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2015 Sep-Oct;7(5):317-34</RefSource>
+                <PMID Version="1">26109480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut Microbes. 2013 Jan-Feb;4(1):28-40</RefSource>
+                <PMID Version="1">23022739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wiley Interdiscip Rev Syst Biol Med. 2015 Jul-Aug;7(4):195-219</RefSource>
+                <PMID Version="1">25929487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Genet. 2014 Feb;15(2):107-20</RefSource>
+                <PMID Version="1">24430943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2015 Nov 6;350(6261):663-6</RefSource>
+                <PMID Version="1">26542567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2013;3:2532</RefSource>
+                <PMID Version="1">23982459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2008 Jun;8(6):411-20</RefSource>
+                <PMID Version="1">18469830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut Microbes. 2015;6(2):120-30</RefSource>
+                <PMID Version="1">25901891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008 Feb 08;9:75</RefSource>
+                <PMID Version="1">18261238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2015 May 19;112(20):6449-54</RefSource>
+                <PMID Version="1">25941371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2010 May;7(5):335-6</RefSource>
+                <PMID Version="1">20383131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Sep 13;489(7415):242-9</RefSource>
+                <PMID Version="1">22972297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1999 Oct;277(4 Pt 1):E597-607</RefSource>
+                <PMID Version="1">10516118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2011 Aug 04;6(9):1290-307</RefSource>
+                <PMID Version="1">21886097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Rep. 2014 May 22;7(4):1104-15</RefSource>
+                <PMID Version="1">24794435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Sep;28(9):977-82</RefSource>
+                <PMID Version="1">20802497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1990 Oct 5;215(3):403-10</RefSource>
+                <PMID Version="1">2231712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2010 Nov 18;6(11):e1001002</RefSource>
+                <PMID Version="1">21124952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 Jan;37(Database issue):D141-5</RefSource>
+                <PMID Version="1">19004872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Jun 10;308(5728):1635-8</RefSource>
+                <PMID Version="1">15831718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013 May 31;8(5):e64567</RefSource>
+                <PMID Version="1">23741341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2015 May 17;16:164</RefSource>
+                <PMID Version="1">25980407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Aug 13;110(33):13582-7</RefSource>
+                <PMID Version="1">23898195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):727-38</RefSource>
+                <PMID Version="1">17406635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 Sep;31(9):814-21</RefSource>
+                <PMID Version="1">23975157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:92</RefSource>
+                <PMID Version="1">17353934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ticks Tick Borne Dis. 2014 Oct;5(6):780-4</RefSource>
+                <PMID Version="1">25132534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(7):e1002606</RefSource>
+                <PMID Version="1">22807668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Biol. 2014 Aug 22;12:69</RefSource>
+                <PMID Version="1">25184604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2014 Sep;8(9):1808-19</RefSource>
+                <PMID Version="1">24694716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2009 Dec;75(23):7537-41</RefSource>
+                <PMID Version="1">19801464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>mSystems. 2016 Jan-Feb;1(1):null</RefSource>
+                <PMID Version="1">27239563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2015 Oct 29;526(7575):631-4</RefSource>
+                <PMID Version="1">26511562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2001 Oct;67(10):4399-406</RefSource>
+                <PMID Version="1">11571135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 May 11;405(6783):228-33</RefSource>
+                <PMID Version="1">10821283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jun 13;486(7402):215-21</RefSource>
+                <PMID Version="1">22699610</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008660" MajorTopicYN="Y">Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064307" MajorTopicYN="Y">Microbiota</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="Y">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC5009493</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">16S rDNA</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic network reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">Microbiome</Keyword>
+            <Keyword MajorTopicYN="N">Network</Keyword>
+            <Keyword MajorTopicYN="N">Predictive community modeling</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27590448</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12859-016-1230-3</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12859-016-1230-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5009493</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,271 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27014700</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2296-889X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in molecular biosciences</Title>
+                <ISOAbbreviation>Front Mol Biosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Strategy for Functional Interpretation of Metabolomic Time Series Data in Context of Metabolic Network Information.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fmolb.2016.00006</ELocationID>
+            <Abstract>
+                <AbstractText>The functional connection of experimental metabolic time series data with biochemical network information is an important, yet complex, issue in systems biology. Frequently, experimental analysis of diurnal, circadian, or developmental dynamics of metabolism results in a comprehensive and multidimensional data matrix comprising information about metabolite concentrations, protein levels, and/or enzyme activities. While, irrespective of the type of organism, the experimental high-throughput analysis of the transcriptome, proteome, and metabolome has become a common part of many systems biological studies, functional data integration in a biochemical and physiological context is still challenging. Here, an approach is presented which addresses the functional connection of experimental time series data with biochemical network information which can be inferred, for example, from a metabolic network reconstruction. Based on a time-continuous and variance-weighted regression analysis of experimental data, metabolic functions, i.e., first-order derivatives of metabolite concentrations, were related to time-dependent changes in other biochemically relevant metabolic functions, i.e., second-order derivatives of metabolite concentrations. This finally revealed time points of perturbed dependencies in metabolic functions indicating a modified biochemical interaction. The approach was validated using previously published experimental data on a diurnal time course of metabolite levels, enzyme activities, and metabolic flux simulations. To support and ease the presented approach of functional time series analysis, a graphical user interface including a test data set and a manual is provided which can be run within the numerical software environment Matlab®.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nägele</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ecogenomics and Systems Biology, University of ViennaVienna, Austria; Vienna Metabolomics Center, University of ViennaVienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fürtauer</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ecogenomics and Systems Biology, University of Vienna Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagler</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ecogenomics and Systems Biology, University of Vienna Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiszmann</LastName>
+                    <ForeName>Jakob</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ecogenomics and Systems Biology, University of Vienna Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weckwerth</LastName>
+                    <ForeName>Wolfram</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ecogenomics and Systems Biology, University of ViennaVienna, Austria; Vienna Metabolomics Center, University of ViennaVienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Mol Biosci</MedlineTA>
+            <NlmUniqueID>101653173</NlmUniqueID>
+            <ISSNLinking>2296-889X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2015 Dec;35:23-9</RefSource>
+                <PMID Version="1">25575024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2015 Jan;11(1):137-45</RefSource>
+                <PMID Version="1">25315283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IET Syst Biol. 2009 Jan;3(1):1-9</RefSource>
+                <PMID Version="1">19154080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2015 Jun 03;11(6):813</RefSource>
+                <PMID Version="1">26040289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2011 Aug 02;7:518</RefSource>
+                <PMID Version="1">21811229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2011 Jun;400(7):1967-78</RefSource>
+                <PMID Version="1">21556754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2002 Sep;83(3):1331-40</RefSource>
+                <PMID Version="1">12202358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 2015 Dec 15;418 Pt 1:74-88</RefSource>
+                <PMID Version="1">25662277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2009 Jan 1;102(1):264-79</RefSource>
+                <PMID Version="1">18958862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2014 Mar 4;10(3):613-27</RefSource>
+                <PMID Version="1">24413396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2013 May;31(5):419-25</RefSource>
+                <PMID Version="1">23455439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Microbiol. 2014 Mar 27;5:124</RefSource>
+                <PMID Version="1">24723921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Oct;26(10):1155-60</RefSource>
+                <PMID Version="1">18846089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 May 11;6:364</RefSource>
+                <PMID Version="1">20461071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Bot. 2012 Mar;63(6):2275-92</RefSource>
+                <PMID Version="1">22419742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolites. 2012 Sep 06;2(3):553-66</RefSource>
+                <PMID Version="1">24957647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Aug 8;103(32):11868-73</RefSource>
+                <PMID Version="1">16880395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2007 Oct 15;98(3):668-78</RefSource>
+                <PMID Version="1">17385748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Math Biol. 2014 Jun;68(7):1757-83</RefSource>
+                <PMID Version="1">23708492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Plant Biol. 2009;60:357-77</RefSource>
+                <PMID Version="1">19575587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2015 Jun 23;11(5):e1004338</RefSource>
+                <PMID Version="1">26102287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2013 Apr;24(2):271-7</RefSource>
+                <PMID Version="1">22947602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolomics. 2013 Jun;9(3):564-574</RefSource>
+                <PMID Version="1">23678342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2014 Apr 02;9(4):e92299</RefSource>
+                <PMID Version="1">24695071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant J. 2012 Oct;72(1):102-14</RefSource>
+                <PMID Version="1">22640594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003 May 22;19(8):1019-26</RefSource>
+                <PMID Version="1">12761066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2015 Jan 6;108(1):163-72</RefSource>
+                <PMID Version="1">25564863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Integr Plant Biol. 2016 Mar;58(3):254-65</RefSource>
+                <PMID Version="1">26425993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Mol Biosci. 2014 Nov 06;1:22</RefSource>
+                <PMID Version="1">25988163</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4779852</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">data integration</Keyword>
+            <Keyword MajorTopicYN="N">metabolic network</Keyword>
+            <Keyword MajorTopicYN="N">metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">network dynamics</Keyword>
+            <Keyword MajorTopicYN="N">systems biology</Keyword>
+            <Keyword MajorTopicYN="N">time series analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27014700</ArticleId>
+            <ArticleId IdType="doi">10.3389/fmolb.2016.00006</ArticleId>
+            <ArticleId IdType="pmc">PMC4779852</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

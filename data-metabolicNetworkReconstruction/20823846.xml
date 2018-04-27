@@ -1,0 +1,741 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20823846</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-4292</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular systems biology</Title>
+                <ISOAbbreviation>Mol. Syst. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reconstruction and flux-balance analysis of the Plasmodium falciparum metabolic network.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>408</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/msb.2010.60</ELocationID>
+            <Abstract>
+                <AbstractText>Genome-scale metabolic reconstructions can serve as important tools for hypothesis generation and high-throughput data integration. Here, we present a metabolic network reconstruction and flux-balance analysis (FBA) of Plasmodium falciparum, the primary agent of malaria. The compartmentalized metabolic network accounts for 1001 reactions and 616 metabolites. Enzyme-gene associations were established for 366 genes and 75% of all enzymatic reactions. Compared with other microbes, the P. falciparum metabolic network contains a relatively high number of essential genes, suggesting little redundancy of the parasite metabolism. The model was able to reproduce phenotypes of experimental gene knockout and drug inhibition assays with up to 90% accuracy. Moreover, using constraints based on gene-expression data, the model was able to predict the direction of concentration changes for external metabolites with 70% accuracy. Using FBA of the reconstructed network, we identified 40 enzymatic drug targets (i.e. in silico essential genes), with no or very low sequence identity to human proteins. To demonstrate that the model can be used to make clinically relevant predictions, we experimentally tested one of the identified drug targets, nicotinate mononucleotide adenylyltransferase, using a recently discovered small-molecule inhibitor.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Plata</LastName>
+                    <ForeName>Germán</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Computational Biology and Bioinformatics, Columbia University, New York City, NY 10032, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsiao</LastName>
+                    <ForeName>Tzu-Lin</ForeName>
+                    <Initials>TL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olszewski</LastName>
+                    <ForeName>Kellen L</ForeName>
+                    <Initials>KL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Llinás</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vitkup</LastName>
+                    <ForeName>Dennis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM079759</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DP2 OD001315</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54CA121852</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM07975</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 GM071508</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 CA121852</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1DP2OD001315-01</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Syst Biol</MedlineTA>
+            <NlmUniqueID>101235389</NlmUniqueID>
+            <ISSNLinking>1744-4292</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Aug 5;466(7307):774-8</RefSource>
+                <PMID Version="1">20686576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2002 Jan 7;195(1):23-34</RefSource>
+                <PMID Version="1">11781362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 Apr 14;352(15):1565-77</RefSource>
+                <PMID Version="1">15829537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Mar 11;280(10):9547-54</RefSource>
+                <PMID Version="1">15576366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2000 Apr;44(4):1047-50</RefSource>
+                <PMID Version="1">10722510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2006;7:177</RefSource>
+                <PMID Version="1">16571130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2004 May;48(5):1803-6</RefSource>
+                <PMID Version="1">15105138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D689-91</RefSource>
+                <PMID Version="1">16381960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 1999 Jul 30;102(1):91-101</RefSource>
+                <PMID Version="1">10477179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Jun 17;105(24):8393-8</RefSource>
+                <PMID Version="1">18541913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2009 Apr;5(4):368-75</RefSource>
+                <PMID Version="1">19396373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Mar;2(3):203-16</RefSource>
+                <PMID Version="1">15083156</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2007 Sep;274(18):4688-98</RefSource>
+                <PMID Version="1">17824955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010;6:343</RefSource>
+                <PMID Version="1">20087340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jul 4;272(27):16940-5</RefSource>
+                <PMID Version="1">9202005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Parasitol. 2002 Jul;32(8):961-7</RefSource>
+                <PMID Version="1">12076625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2009;5:320</RefSource>
+                <PMID Version="1">19888215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(9):R54</RefSource>
+                <PMID Version="1">12952533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2009 Feb;7(2):129-43</RefSource>
+                <PMID Version="1">19116616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Jul 19;277(29):25970-5</RefSource>
+                <PMID Version="1">12004069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2008 Nov;24(11):502-8</RefSource>
+                <PMID Version="1">18805734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Today. 1995 Apr;11(4):138-43</RefSource>
+                <PMID Version="1">15275357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 3;419(6906):520-6</RefSource>
+                <PMID Version="1">12368866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Protozool. 1985 Feb;32(1):59-64</RefSource>
+                <PMID Version="1">3886898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2005;6(1):R2</RefSource>
+                <PMID Version="1">15642094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 3;419(6906):537-42</RefSource>
+                <PMID Version="1">12368870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 Feb;5(2):e1000302</RefSource>
+                <PMID Version="1">19229315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2009;16(11):1372-90</RefSource>
+                <PMID Version="1">19355893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Feb 20;279(8):6934-42</RefSource>
+                <PMID Version="1">14638682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2008 Feb;18(2):206-13</RefSource>
+                <PMID Version="1">18083776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Feb 25;280(8):6752-60</RefSource>
+                <PMID Version="1">15590623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Issues Mol Biol. 2005 Jan;7(1):39-55</RefSource>
+                <PMID Version="1">15580779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2006 Jul;148(1):44-51</RefSource>
+                <PMID Version="1">16597467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 1989 Dec 19;141(4):529-45</RefSource>
+                <PMID Version="1">2630804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2009 Mar;11(3):506-20</RefSource>
+                <PMID Version="1">19068099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2009 Feb 19;5(2):191-9</RefSource>
+                <PMID Version="1">19218089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Philos Trans R Soc Lond B Biol Sci. 2010 Mar 12;365(1541):749-63</RefSource>
+                <PMID Version="1">20124342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2009 Oct;25(10):474-81</RefSource>
+                <PMID Version="1">19747879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 1997;51:97-123</RefSource>
+                <PMID Version="1">9343345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 1984 May 1;33(9):1555-7</RefSource>
+                <PMID Version="1">6375681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2009;63:195-221</RefSource>
+                <PMID Version="1">19575563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2009 Aug;5(8):e1000489</RefSource>
+                <PMID Version="1">19714220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Dec 15;90(24):12020-4</RefSource>
+                <PMID Version="1">8265664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Oct 13;95(21):12352-7</RefSource>
+                <PMID Version="1">9770490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2010 Apr 5;9(4):1648-58</RefSource>
+                <PMID Version="1">20136149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1976 Aug 20;193(4254):673-5</RefSource>
+                <PMID Version="1">781840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2001 Mar;17(3):286-7</RefSource>
+                <PMID Version="1">11294796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Aug 11;106(32):13323-8</RefSource>
+                <PMID Version="1">19666612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Jan;28(1):91-8</RefSource>
+                <PMID Version="1">20037583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Biol. 2009 Aug 28;16(8):849-61</RefSource>
+                <PMID Version="1">19716475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Nov 12;99(23):15112-7</RefSource>
+                <PMID Version="1">12415116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitology. 2006 Oct;133(Pt 4):399-410</RefSource>
+                <PMID Version="1">16780611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Investig Drugs. 2010 Feb;11(2):131-8</RefSource>
+                <PMID Version="1">20112162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Feb 6;104(6):1777-82</RefSource>
+                <PMID Version="1">17267599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 May 24;102(21):7695-700</RefSource>
+                <PMID Version="1">15897462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:121</RefSource>
+                <PMID Version="1">17593909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2005 Nov;49(11):4649-57</RefSource>
+                <PMID Version="1">16251308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Novartis Found Symp. 1999;226:55-66; discussion 66-73</RefSource>
+                <PMID Version="1">10645538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2008;4:177</RefSource>
+                <PMID Version="1">18364711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2009 Dec;168(2):123-34</RefSource>
+                <PMID Version="1">19666057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 1990 Jan 9;142(1):69-85</RefSource>
+                <PMID Version="1">2141094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2003 Oct;5(4):264-76</RefSource>
+                <PMID Version="1">14642354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2009 Oct 13;48(40):9618-26</RefSource>
+                <PMID Version="1">19728741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Genet. 2009;43:601-25</RefSource>
+                <PMID Version="1">19712041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2005 Jul;49(7):2857-64</RefSource>
+                <PMID Version="1">15980361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2006 Nov;140(5):747-57</RefSource>
+                <PMID Version="1">17030505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 2008 Oct;120(2):135-41</RefSource>
+                <PMID Version="1">18619439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Sep 12;301(5639):1503-8</RefSource>
+                <PMID Version="1">12893887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Oct 3;419(6906):498-511</RefSource>
+                <PMID Version="1">12368864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2009;10(6):R69</RefSource>
+                <PMID Version="1">19555510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D480-4</RefSource>
+                <PMID Version="1">18077471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2005 Sep 22;48(19):5942-54</RefSource>
+                <PMID Version="1">16161998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Feb 1;277(5):3226-31</RefSource>
+                <PMID Version="1">11706018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 Jun;69(6):4041-7</RefSource>
+                <PMID Version="1">11349074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006;34(4):1166-73</RefSource>
+                <PMID Version="1">16493140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2002 Feb;119(2):273-8</RefSource>
+                <PMID Version="1">11814579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 1993 Jul;60(1):153-6</RefSource>
+                <PMID Version="1">8366890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Feb 13;104(7):2211-6</RefSource>
+                <PMID Version="1">17284593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mem Inst Oswaldo Cruz. 2007 Jun;102(3):377-83</RefSource>
+                <PMID Version="1">17568945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Aug 29;272(35):21839-46</RefSource>
+                <PMID Version="1">9268315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Sep 22;348(2):579-84</RefSource>
+                <PMID Version="1">16890916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hematology Am Soc Hematol Educ Program. 2009;:87-93</RefSource>
+                <PMID Version="1">20008186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Trop Med Hyg. 2008 Aug;79(2):178-84</RefSource>
+                <PMID Version="1">18689621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2009 Jan;71(2):533-45</RefSource>
+                <PMID Version="1">19040641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2006;1(1):346-56</RefSource>
+                <PMID Version="1">17406255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2008 Apr 15;411(2):287-95</RefSource>
+                <PMID Version="1">18215139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Sep;26(9):1003-10</RefSource>
+                <PMID Version="1">18711341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jul 25;418(6896):387-91</RefSource>
+                <PMID Version="1">12140549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2005;6(3):R26</RefSource>
+                <PMID Version="1">15774027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 May 14;328(5980):866-71</RefSource>
+                <PMID Version="1">20466925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Feb;7(2):167-73</RefSource>
+                <PMID Version="1">11175846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2008;2:55</RefSource>
+                <PMID Version="1">18588708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Mar 5;279(10):9125-38</RefSource>
+                <PMID Version="1">14630934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Rev. 2006 Jul;30(4):596-630</RefSource>
+                <PMID Version="1">16774588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2016 Jan;32(1):7-9</RefSource>
+                <PMID Version="1">26530861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 2007 Jan;51(1):307-16</RefSource>
+                <PMID Version="1">17060533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2008 Feb;6(2):156-61</RefSource>
+                <PMID Version="1">18026122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2009;63:249-67</RefSource>
+                <PMID Version="1">19575561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Oct 9;455(7214):751-6</RefSource>
+                <PMID Version="1">18843360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Parasitol. 1979 Jun;65(3):418-20</RefSource>
+                <PMID Version="1">383936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2009 Apr;1794(4):642-54</RefSource>
+                <PMID Version="1">19111634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):727-38</RefSource>
+                <PMID Version="1">17406635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:119</RefSource>
+                <PMID Version="1">17625511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2008 Jul;160(1):1-7</RefSource>
+                <PMID Version="1">18455248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 1990 Jan 9;142(1):41-68</RefSource>
+                <PMID Version="1">2141093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2005 Aug;142(2):224-36</RefSource>
+                <PMID Version="1">15913804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Emerg Infect Dis. 2008 Aug;14(8):1317-9</RefSource>
+                <PMID Version="1">18680669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Chem. 2008 Dec 25;51(24):7827-33</RefSource>
+                <PMID Version="1">19053772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Aug 2;277(31):28058-64</RefSource>
+                <PMID Version="1">12006566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2008 Dec 11;4(6):567-78</RefSource>
+                <PMID Version="1">19064257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2009 Jan;25(1):37-43</RefSource>
+                <PMID Version="1">18986839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eukaryot Cell. 2007 Nov;6(11):2081-91</RefSource>
+                <PMID Version="1">17827348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2010 Feb 18;7(2):90-9</RefSource>
+                <PMID Version="1">20159614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                <PMID Version="1">20212490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 1989 Dec 19;141(4):515-28</RefSource>
+                <PMID Version="1">2630803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2008 Feb;4(2):e1000008</RefSource>
+                <PMID Version="1">18389080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioorg Med Chem Lett. 2008 Oct 15;18(20):5466-71</RefSource>
+                <PMID Version="1">18805693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Res. 2000 Aug;86(8):665-8</RefSource>
+                <PMID Version="1">10952267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 1994 Jan 20;47(2):418-20</RefSource>
+                <PMID Version="1">8304987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Sep 25;284(39):26999-7009</RefSource>
+                <PMID Version="1">19640844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antimicrob Agents Chemother. 1991 Feb;35(2):267-71</RefSource>
+                <PMID Version="1">2024960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 May;14(5):917-24</RefSource>
+                <PMID Version="1">15078855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Nov;2(11):886-97</RefSource>
+                <PMID Version="1">15494745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2006 Jun;22(6):238-40</RefSource>
+                <PMID Version="1">16707276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 Jan;37(Database issue):D539-43</RefSource>
+                <PMID Version="1">18957442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2005 Jan;55(1):39-53</RefSource>
+                <PMID Version="1">15612915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2008 Oct;4(10):e1000195</RefSource>
+                <PMID Version="1">18974882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Jan;38(Database issue):D142-8</RefSource>
+                <PMID Version="1">19843607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2008 Jun;159(2):142-5</RefSource>
+                <PMID Version="1">18417228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Jul;14(7):1298-309</RefSource>
+                <PMID Version="1">15197165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1991 Feb 15;274 ( Pt 1):121-32</RefSource>
+                <PMID Version="1">2001227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 2006 Oct;88(10):1367-75</RefSource>
+                <PMID Version="1">16839657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2003 Oct;1(1):E5</RefSource>
+                <PMID Version="1">12929205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jun 25;393(6687):801-5</RefSource>
+                <PMID Version="1">9655396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Infect Dis. 2002 Apr;2(4):209-18</RefSource>
+                <PMID Version="1">11937421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jun 20;103(25):9572-7</RefSource>
+                <PMID Version="1">16760253</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010963" MajorTopicYN="N">Plasmodium falciparum</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2964117</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>07</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20823846</ArticleId>
+            <ArticleId IdType="pii">msb201060</ArticleId>
+            <ArticleId IdType="doi">10.1038/msb.2010.60</ArticleId>
+            <ArticleId IdType="pmc">PMC2964117</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

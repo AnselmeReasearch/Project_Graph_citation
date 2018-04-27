@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26576489</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-313X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Plant journal : for cell and molecular biology</Title>
+                <ISOAbbreviation>Plant J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A genome-scale metabolic network reconstruction of tomato (Solanum lycopersicum L.) and its application to photorespiratory metabolism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>289-304</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/tpj.13075</ELocationID>
+            <Abstract>
+                <AbstractText>Tomato (Solanum lycopersicum L.) has been studied extensively due to its high economic value in the market, and high content in health-promoting antioxidant compounds. Tomato is also considered as an excellent model organism for studying the development and metabolism of fleshy fruits. However, the growth, yield and fruit quality of tomatoes can be affected by drought stress, a common abiotic stress for tomato. To investigate the potential metabolic response of tomato plants to drought, we reconstructed iHY3410, a genome-scale metabolic model of tomato leaf, and used this metabolic network to simulate tomato leaf metabolism. The resulting model includes 3410 genes and 2143 biochemical and transport reactions distributed across five intracellular organelles including cytosol, plastid, mitochondrion, peroxisome and vacuole. The model successfully described the known metabolic behaviour of tomato leaf under heterotrophic and phototrophic conditions. The in silico investigation of the metabolic characteristics for photorespiration and other relevant metabolic processes under drought stress suggested that: (i) the flux distributions through the mevalonate (MVA) pathway under drought were distinct from that under normal conditions; and (ii) the changes in fluxes through core metabolic pathways with varying flux ratio of RubisCO carboxylase to oxygenase may contribute to the adaptive stress response of plants. In addition, we improved on previous studies of reaction essentiality analysis for leaf metabolism by including potential alternative routes for compensating reaction knockouts. Altogether, the genome-scale model provides a sound framework for investigating tomato metabolism and gives valuable insights into the functional consequences of abiotic stresses.</AbstractText>
+                <CopyrightInformation>© 2015 The Authors.The Plant Journal published by Society for Experimental Biology and John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yuan</LastName>
+                    <ForeName>Huili</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheung</LastName>
+                    <ForeName>C Y Maurice</ForeName>
+                    <Initials>CY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yale-NUS College, 16 College Avenue West, Singapore, 138527, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poolman</LastName>
+                    <ForeName>Mark G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cell Systems Modelling Group, Department of Biomedical and Medical Science, Oxford Brookes University, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hilbers</LastName>
+                    <ForeName>Peter A J</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Complex Molecular Systems, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Riel</LastName>
+                    <ForeName>Natal A W</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Complex Molecular Systems, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Plant J</MedlineTA>
+            <NlmUniqueID>9207397</NlmUniqueID>
+            <ISSNLinking>0960-7412</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D055864" MajorTopicYN="Y">Droughts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018506" MajorTopicYN="N">Gene Expression Regulation, Plant</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018551" MajorTopicYN="N">Lycopersicon esculentum</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010788" MajorTopicYN="N">Photosynthesis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Solanum lycopersicum L</Keyword>
+            <Keyword MajorTopicYN="N">drought</Keyword>
+            <Keyword MajorTopicYN="N">flux balance analysis</Keyword>
+            <Keyword MajorTopicYN="N">genome-scale metabolic model</Keyword>
+            <Keyword MajorTopicYN="N">photorespiration</Keyword>
+            <Keyword MajorTopicYN="N">reaction essentiality</Keyword>
+            <Keyword MajorTopicYN="N">tomato</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26576489</ArticleId>
+            <ArticleId IdType="doi">10.1111/tpj.13075</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

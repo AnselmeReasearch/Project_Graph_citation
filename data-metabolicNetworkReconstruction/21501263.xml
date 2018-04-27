@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21501263</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-313X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Plant journal : for cell and molecular biology</Title>
+                <ISOAbbreviation>Plant J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic network reconstruction and flux variability analysis of storage synthesis in developing oilseed rape (Brassica napus L.) embryos.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>526-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-313X.2011.04613.x</ELocationID>
+            <Abstract>
+                <AbstractText>Computational simulation of large-scale biochemical networks can be used to analyze and predict the metabolic behavior of an organism, such as a developing seed. Based on the biochemical literature, pathways databases and decision rules defining reaction directionality we reconstructed bna572, a stoichiometric metabolic network model representing Brassica napus seed storage metabolism. In the highly compartmentalized network about 25% of the 572 reactions are transport reactions interconnecting nine subcellular compartments and the environment. According to known physiological capabilities of developing B. napus embryos, four nutritional conditions were defined to simulate heterotrophy or photoheterotrophy, each in combination with the availability of inorganic nitrogen (ammonia, nitrate) or amino acids as nitrogen sources. Based on mathematical linear optimization the optimal solution space was comprehensively explored by flux variability analysis, thereby identifying for each reaction the range of flux values allowable under optimality. The range and variability of flux values was then categorized into flux variability types. Across the four nutritional conditions, approximately 13% of the reactions have variable flux values and 10-11% are substitutable (can be inactive), both indicating metabolic redundancy given, for example, by isoenzymes, subcellular compartmentalization or the presence of alternative pathways. About one-third of the reactions are never used and are associated with pathways that are suboptimal for storage synthesis. Fifty-seven reactions change flux variability type among the different nutritional conditions, indicating their function in metabolic adjustments. This predictive modeling framework allows analysis and quantitative exploration of storage metabolism of a developing B. napus oilseed.</AbstractText>
+                <CopyrightInformation>The Plant Journal © 2011 Blackwell Publishing Ltd. No claim to original US government works.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hay</LastName>
+                    <ForeName>Jordan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, Brookhaven National Laboratory, Bldg 463, Upton, NY 11973, USA. jhay@bnl.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwender</LastName>
+                    <ForeName>Jörg</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Plant J</MedlineTA>
+            <NlmUniqueID>9207397</NlmUniqueID>
+            <ISSNLinking>0960-7412</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>53-59-8</RegistryNumber>
+                <NameOfSubstance UI="D009249">NADP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-44-0</RegistryNumber>
+                <NameOfSubstance UI="D002244">Carbon</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029688" MajorTopicYN="N">Brassica napus</DescriptorName>
+                <QualifierName UI="Q000196" MajorTopicYN="Y">embryology</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002244" MajorTopicYN="N">Carbon</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="Y">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004579" MajorTopicYN="N">Electron Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016014" MajorTopicYN="N">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009249" MajorTopicYN="N">NADP</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010785" MajorTopicYN="N">Photophosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012639" MajorTopicYN="N">Seeds</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21501263</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-313X.2011.04613.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

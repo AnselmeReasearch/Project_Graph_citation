@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27783135</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0724-6145</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>160</Volume>
+                    <PubDate>
+                        <MedlineDate>2017</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in biochemical engineering/biotechnology</Title>
+                <ISOAbbreviation>Adv. Biochem. Eng. Biotechnol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cyanobacterial Biofuels: Strategies and Developments on Network and Modeling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-102</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/10_2016_42</ELocationID>
+            <Abstract>
+                <AbstractText>Cyanobacteria, the phototrophic microorganisms, have attracted much attention recently as a promising source for environmentally sustainable biofuels production. However, barriers for commercial markets of cyanobacteria-based biofuels concern the economic feasibility. Miscellaneous strategies for improving the production performance of cyanobacteria have thus been developed. Among these, the simple ad hoc strategies resulting in failure to optimize fully cell growth coupled with desired product yield are explored. With the advancement of genomics and systems biology, a new paradigm toward systems metabolic engineering has been recognized. In particular, a genome-scale metabolic network reconstruction and modeling is a crucial systems-based tool for whole-cell-wide investigation and prediction. In this review, the cyanobacterial genome-scale metabolic models, which offer a system-level understanding of cyanobacterial metabolism, are described. The main process of metabolic network reconstruction and modeling of cyanobacteria are summarized. Strategies and developments on genome-scale network and modeling through the systems metabolic engineering approach are advanced and employed for efficient cyanobacterial-based biofuels production.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Klanchui</LastName>
+                    <ForeName>Amornpan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biological Engineering Program, Faculty of Engineering, King Mongkut's University of Technology Thonburi, Bangkok, 10140, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raethong</LastName>
+                    <ForeName>Nachon</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Interdisciplinary Graduate Program in Bioscience, Faculty of Science, Kasetsart University, Bangkok, 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prommeenate</LastName>
+                    <ForeName>Peerada</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemical Engineering and Pilot Plant Research and Development (BEC) Unit, National Center for Genetic Engineering and Biotechnology, National Science and Technology Development Agency, King Mongkut's University of Technology Thonburi, Bangkok, 10150, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vongsangnak</LastName>
+                    <ForeName>Wanwipa</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, Faculty of Science, Kasetsart University, Bangkok, 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Computational Biomodelling Laboratory for Agricultural Science and Technology (CBLAST), Faculty of Science, Kasetsart University, Bangkok, 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meechai</LastName>
+                    <ForeName>Asawin</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, Faculty of Engineering, King Mongkut's University of Technology Thonburi, Bangkok, 10140, Thailand. asawin.mee@kmutt.ac.th.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Adv Biochem Eng Biotechnol</MedlineTA>
+            <NlmUniqueID>8307733</NlmUniqueID>
+            <ISSNLinking>0724-6145</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D056804">Biofuels</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056804" MajorTopicYN="N">Biofuels</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000458" MajorTopicYN="N">Cyanobacteria</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024861" MajorTopicYN="N">Genetic Enhancement</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biofuels</Keyword>
+            <Keyword MajorTopicYN="N">Cyanobacteria</Keyword>
+            <Keyword MajorTopicYN="N">Genome-scale metabolic model</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic network reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">Systems metabolic engineering</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27783135</ArticleId>
+            <ArticleId IdType="doi">10.1007/10_2016_42</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

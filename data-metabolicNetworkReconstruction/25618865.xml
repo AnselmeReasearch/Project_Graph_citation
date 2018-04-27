@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25618865</PMID>
+        <DateCreated>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1367-4811</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioinformatics (Oxford, England)</Title>
+                <ISOAbbreviation>Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Context-specific metabolic network reconstruction of a naphthalene-degrading bacterial community guided by metaproteomic data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1771-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bioinformatics/btv036</ELocationID>
+            <Abstract>
+                <AbstractText Label="MOTIVATION" NlmCategory="BACKGROUND">With the advent of meta-'omics' data, the use of metabolic networks for the functional analysis of microbial communities became possible. However, while network-based methods are widely developed for single organisms, their application to bacterial communities is currently limited.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Herein, we provide a novel, context-specific reconstruction procedure based on metaproteomic and taxonomic data. Without previous knowledge of a high-quality, genome-scale metabolic networks for each different member in a bacterial community, we propose a meta-network approach, where the expression levels and taxonomic assignments of proteins are used as the most relevant clues for inferring an active set of reactions. Our approach was applied to draft the context-specific metabolic networks of two different naphthalene-enriched communities derived from an anthropogenically influenced, polyaromatic hydrocarbon contaminated soil, with (CN2) or without (CN1) bio-stimulation. We were able to capture the overall functional differences between the two conditions at the metabolic level and predict an important activity for the fluorobenzoate degradation pathway in CN1 and for geraniol metabolism in CN2. Experimental validation was conducted, and good agreement with our computational predictions was observed. We also hypothesize different pathway organizations at the organismal level, which is relevant to disentangle the role of each member in the communities. The approach presented here can be easily transferred to the analysis of genomic, transcriptomic and metabolomic data.</AbstractText>
+                <CopyrightInformation>© The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tobalina</LastName>
+                    <ForeName>Luis</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bargiela</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pey</LastName>
+                    <ForeName>Jon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbst</LastName>
+                    <ForeName>Florian-Alexander</ForeName>
+                    <Initials>FA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lores</LastName>
+                    <ForeName>Iván</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rojo</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbas</LastName>
+                    <ForeName>Coral</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peláez</LastName>
+                    <ForeName>Ana I</ForeName>
+                    <Initials>AI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>Jesús</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>von Bergen</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seifert</LastName>
+                    <ForeName>Jana</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrer</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Planes</LastName>
+                    <ForeName>Francisco J</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CEIT and Tecnun (University of Navarra), San Sebastián, Spain, CSIC, Institute of Catalysis, Madrid, Spain, Helmholtz Centre for Environmental Research, Department of Proteomics, Leipzig, Germany, Área de Microbiología, IUBA, Universidad de Oviedo, Oviedo, Spain, Centro de Metabolómica y Bioanálisis (CEMBIO), Facultad de Farmacia, Universidad CEU San Pablo, Campus Monteprincipe, Boadilla del Monte, Madrid, Spain, Department of Metabolomics, UFZ-Helmholtz-Zentrum für Umweltforschung GmbH, Leipzig, Germany and Department of Chemistry and Bioscience, Aalborg University, Aalborg, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioinformatics</MedlineTA>
+            <NlmUniqueID>9808944</NlmUniqueID>
+            <ISSNLinking>1367-4803</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009281">Naphthalenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012989">Soil Pollutants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2166IN72UN</RegistryNumber>
+                <NameOfSubstance UI="C031721">naphthalene</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009281" MajorTopicYN="N">Naphthalenes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040901" MajorTopicYN="N">Proteomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012989" MajorTopicYN="N">Soil Pollutants</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25618865</ArticleId>
+            <ArticleId IdType="pii">btv036</ArticleId>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btv036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

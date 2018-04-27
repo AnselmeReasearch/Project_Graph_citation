@@ -1,0 +1,474 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27274991</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2314-6141</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2016</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BioMed research international</Title>
+                <ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sequence- and Structure-Based Functional Annotation and Assessment of Metabolic Transporters in Aspergillus oryzae: A Representative Case Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8124636</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2016/8124636</ELocationID>
+            <Abstract>
+                <AbstractText>Aspergillus oryzae is widely used for the industrial production of enzymes. In A. oryzae metabolism, transporters appear to play crucial roles in controlling the flux of molecules for energy generation, nutrients delivery, and waste elimination in the cell. While the A. oryzae genome sequence is available, transporter annotation remains limited and thus the connectivity of metabolic networks is incomplete. In this study, we developed a metabolic annotation strategy to understand the relationship between the sequence, structure, and function for annotation of A. oryzae metabolic transporters. Sequence-based analysis with manual curation showed that 58 genes of 12,096 total genes in the A. oryzae genome encoded metabolic transporters. Under consensus integrative databases, 55 unambiguous metabolic transporter genes were distributed into channels and pores (7 genes), electrochemical potential-driven transporters (33 genes), and primary active transporters (15 genes). To reveal the transporter functional role, a combination of homology modeling and molecular dynamics simulation was implemented to assess the relationship between sequence to structure and structure to function. As in the energy metabolism of A. oryzae, the H(+)-ATPase encoded by the AO090005000842 gene was selected as a representative case study of multilevel linkage annotation. Our developed strategy can be used for enhancing metabolic network reconstruction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Raethong</LastName>
+                    <ForeName>Nachon</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong-Ekkabut</LastName>
+                    <ForeName>Jirasak</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Faculty of Science, Kasetsart University, Bangkok 10900, Thailand; Computational Biomodelling Laboratory for Agricultural Science and Technology (CBLAST), Faculty of Science, Kasetsart University, Bangkok 10900, Thailand; Center of Advanced Science in Industrial Technology, Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laoteng</LastName>
+                    <ForeName>Kobkul</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Food Biotechnology Research Unit, National Center for Genetic Engineering and Biotechnology (BIOTEC), National Science and Technology Development Agency (NSTDA), Pathum Thani 12120, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vongsangnak</LastName>
+                    <ForeName>Wanwipa</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, Faculty of Science, Kasetsart University, Bangkok 10900, Thailand; Computational Biomodelling Laboratory for Agricultural Science and Technology (CBLAST), Faculty of Science, Kasetsart University, Bangkok 10900, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biomed Res Int</MedlineTA>
+            <NlmUniqueID>101600173</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Physiol. 2014 Mar 11;5:91</RefSource>
+                <PMID Version="1">24653705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2014 Jun 24;8:73</RefSource>
+                <PMID Version="1">24961398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</RefSource>
+                <PMID Version="1">10592173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2015 Jul 1;43(W1):W30-8</RefSource>
+                <PMID Version="1">25943547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2009 Dec;155(Pt 12):3893-902</RefSource>
+                <PMID Version="1">19696104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mycologia. 2010 Mar-Apr;102(2):305-10</RefSource>
+                <PMID Version="1">20361498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Feb 17;340(3):784-91</RefSource>
+                <PMID Version="1">16380079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W423-6</RefSource>
+                <PMID Version="1">18477636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fungal Genet Biol. 2008 Feb;45(2):139-51</RefSource>
+                <PMID Version="1">17967552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pflugers Arch. 2009 Jan;457(3):573-9</RefSource>
+                <PMID Version="1">18458946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Theory Comput. 2012 Aug 14;8(8):2905-11</RefSource>
+                <PMID Version="1">26592129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comput Chem. 2004 Oct;25(13):1656-76</RefSource>
+                <PMID Version="1">15264259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D372-9</RefSource>
+                <PMID Version="1">26546518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Dec 28;287(53):44418-24</RefSource>
+                <PMID Version="1">23139423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Dec 18;273(51):34328-34</RefSource>
+                <PMID Version="1">9852098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Apr 28;10(4):e0126289</RefSource>
+                <PMID Version="1">25919614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2000 Aug;10(8):1204-10</RefSource>
+                <PMID Version="1">10958638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Plant Sci. 2015 Feb 05;6:40</RefSource>
+                <PMID Version="1">25699068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2014 Apr;18:8-15</RefSource>
+                <PMID Version="1">24513656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Chem Soc. 2006 Oct 18;128(41):13435-41</RefSource>
+                <PMID Version="1">17031956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2012 Dec;740(1-2):43-9</RefSource>
+                <PMID Version="1">23280012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4387-92</RefSource>
+                <PMID Version="1">18332432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jan;35(Database issue):D301-3</RefSource>
+                <PMID Version="1">17142228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Dec 12;272(50):31908-14</RefSource>
+                <PMID Version="1">9395539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008 May 23;9:245</RefSource>
+                <PMID Version="1">18500999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2014 Jun 25;15:523</RefSource>
+                <PMID Version="1">24965873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Evol. 2013 Dec;30(12):2725-9</RefSource>
+                <PMID Version="1">24132122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Open Biol. 2014 Jun;4(6):140070</RefSource>
+                <PMID Version="1">24966243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2009;4(1):1-13</RefSource>
+                <PMID Version="1">19131951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2013 Jun;97(11):4951-6</RefSource>
+                <PMID Version="1">23224588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Dec 22;438(7071):1157-61</RefSource>
+                <PMID Version="1">16372010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2016 Oct;1858(10):2529-38</RefSource>
+                <PMID Version="1">26862882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Aug 8;321(5890):810-4</RefSource>
+                <PMID Version="1">18599740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biosci Biotechnol Biochem. 2007 Mar;71(3):646-70</RefSource>
+                <PMID Version="1">17341818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D247-51</RefSource>
+                <PMID Version="1">16381856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2015 Mar 6;290(10):6141-55</RefSource>
+                <PMID Version="1">25572393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2007 Apr;41(4):475-88</RefSource>
+                <PMID Version="1">17367719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 Jul;37(Web Server issue):W202-8</RefSource>
+                <PMID Version="1">19458158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2014;1079:105-16</RefSource>
+                <PMID Version="1">24170397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013 May 07;8(5):e63284</RefSource>
+                <PMID Version="1">23667601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jan;35(Database issue):D274-9</RefSource>
+                <PMID Version="1">17135193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Inf Model. 2012 Oct 22;52(10):2657-69</RefSource>
+                <PMID Version="1">22989154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Struct Biol. 1996 Jun;6(3):361-5</RefSource>
+                <PMID Version="1">8804822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D490-5</RefSource>
+                <PMID Version="1">24270786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Apr 25;496(7446):533-6</RefSource>
+                <PMID Version="1">23542591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Appl Microbiol. 2013;59(6):405-15</RefSource>
+                <PMID Version="1">24492599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Syst Biol. 2003 Oct;52(5):696-704</RefSource>
+                <PMID Version="1">14530136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(12):e52086</RefSource>
+                <PMID Version="1">23300594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D251-8</RefSource>
+                <PMID Version="1">24225317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Chem Biol. 2002 Dec;6(6):844-50</RefSource>
+                <PMID Version="1">12470740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Graph. 1996 Feb;14(1):33-8, 27-8</RefSource>
+                <PMID Version="1">8744570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Oct 31;322(5902):709-13</RefSource>
+                <PMID Version="1">18927357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Phys. 2009 Feb 21;130(7):074101</RefSource>
+                <PMID Version="1">19239278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013 May 07;8(5):e63673</RefSource>
+                <PMID Version="1">23667655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2014 Apr;98 (8):3517-27</RefSource>
+                <PMID Version="1">24413918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2005 Aug;1(3):e27</RefSource>
+                <PMID Version="1">16118665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1997 Dec;18(15):2714-23</RefSource>
+                <PMID Version="1">9504803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2014 Nov;10(11):902-10</RefSource>
+                <PMID Version="1">25325701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2003 May;61(3):189-96</RefSource>
+                <PMID Version="1">12698275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2015 Jun;96(5):927-50</RefSource>
+                <PMID Version="1">25712422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2015 May 14;521(7551):241-5</RefSource>
+                <PMID Version="1">25971514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Genet Genomics. 2009 Dec;282(6):571-86</RefSource>
+                <PMID Version="1">19784673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mycopathologia. 2006 Sep;162(3):143-53</RefSource>
+                <PMID Version="1">16944282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Sep 6;297(5587):1692-6</RefSource>
+                <PMID Version="1">12169656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2004 Apr;5(4):282-95</RefSource>
+                <PMID Version="1">15071553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2010 Aug;38(15):5075-87</RefSource>
+                <PMID Version="1">20392818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fungal Genet Biol. 2015 Sep;82:136-44</RefSource>
+                <PMID Version="1">26117687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Nov 1;23(21):2947-8</RefSource>
+                <PMID Version="1">17846036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Dec 15;275(50):39167-73</RefSource>
+                <PMID Version="1">10995773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</RefSource>
+                <PMID Version="1">9254694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D199-205</RefSource>
+                <PMID Version="1">24214961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D191-8</RefSource>
+                <PMID Version="1">24253303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2013 Oct;97(20):8903-12</RefSource>
+                <PMID Version="1">23925533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Chem Theory Comput. 2008 Mar;4(3):435-47</RefSource>
+                <PMID Version="1">26620784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Struct Biotechnol J. 2014 Jun 11;10(16):23-32</RefSource>
+                <PMID Version="1">25210595</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001236" MajorTopicYN="N">Aspergillus oryzae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066289" MajorTopicYN="N">Data Curation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005800" MajorTopicYN="N">Genes, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026901" MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058977" MajorTopicYN="Y">Molecular Sequence Annotation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4870676</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27274991</ArticleId>
+            <ArticleId IdType="doi">10.1155/2016/8124636</ArticleId>
+            <ArticleId IdType="pmc">PMC4870676</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

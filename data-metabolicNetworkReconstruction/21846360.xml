@@ -1,0 +1,440 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2017//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_170101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21846360</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1752-0509</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC systems biology</Title>
+                <ISOAbbreviation>BMC Syst Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic network reconstruction and genome-scale model of butanol-producing strain Clostridium beijerinckii NCIMB 8052.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>130</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1752-0509-5-130</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Solventogenic clostridia offer a sustainable alternative to petroleum-based production of butanol--an important chemical feedstock and potential fuel additive or replacement. C. beijerinckii is an attractive microorganism for strain design to improve butanol production because it (i) naturally produces the highest recorded butanol concentrations as a byproduct of fermentation; and (ii) can co-ferment pentose and hexose sugars (the primary products from lignocellulosic hydrolysis). Interrogating C. beijerinckii metabolism from a systems viewpoint using constraint-based modeling allows for simulation of the global effect of genetic modifications.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We present the first genome-scale metabolic model (iCM925) for C. beijerinckii, containing 925 genes, 938 reactions, and 881 metabolites. To build the model we employed a semi-automated procedure that integrated genome annotation information from KEGG, BioCyc, and The SEED, and utilized computational algorithms with manual curation to improve model completeness. Interestingly, we found only a 34% overlap in reactions collected from the three databases--highlighting the importance of evaluating the predictive accuracy of the resulting genome-scale model. To validate iCM925, we conducted fermentation experiments using the NCIMB 8052 strain, and evaluated the ability of the model to simulate measured substrate uptake and product production rates. Experimentally observed fermentation profiles were found to lie within the solution space of the model; however, under an optimal growth objective, additional constraints were needed to reproduce the observed profiles--suggesting the existence of selective pressures other than optimal growth. Notably, a significantly enriched fraction of actively utilized reactions in simulations--constrained to reflect experimental rates--originated from the set of reactions that overlapped between all three databases (P = 3.52 × 10-9, Fisher's exact test). Inhibition of the hydrogenase reaction was found to have a strong effect on butanol formation--as experimentally observed.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Microbial production of butanol by C. beijerinckii offers a promising, sustainable, method for generation of this important chemical and potential biofuel. iCM925 is a predictive model that can accurately reproduce physiological behavior and provide insight into the underlying mechanisms of microbial butanol production. As such, the model will be instrumental in efforts to better understand, and metabolically engineer, this microorganism for improved butanol production.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Milne</LastName>
+                    <ForeName>Caroline B</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biomolecular Engineering, University of Illinois, Urbana, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eddy</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raju</LastName>
+                    <ForeName>Ravali</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ardekani</LastName>
+                    <ForeName>Soroush</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Pan-Jun</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Senger</LastName>
+                    <ForeName>Ryan S</ForeName>
+                    <Initials>RS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Yong-Su</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blaschek</LastName>
+                    <ForeName>Hans P</ForeName>
+                    <Initials>HP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Price</LastName>
+                    <ForeName>Nathan D</ForeName>
+                    <Initials>ND</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Syst Biol</MedlineTA>
+            <NlmUniqueID>101301827</NlmUniqueID>
+            <ISSNLinking>1752-0509</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000440">Butanols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006601">Hexoses</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010429">Pentoses</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2002 Mar 7;215(1):67-82</RefSource>
+                <PMID Version="1">12051985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2000 Jan 1;28(1):27-30</RefSource>
+                <PMID Version="1">10592173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11 Suppl 11:S9</RefSource>
+                <PMID Version="1">21172059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D344-8</RefSource>
+                <PMID Version="1">16381883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2001 Feb;19(2):125-30</RefSource>
+                <PMID Version="1">11175725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2009;5:320</RefSource>
+                <PMID Version="1">19888215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biotechnol. 2003 Apr;21(4):162-9</RefSource>
+                <PMID Version="1">12679064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Biotechnol. 2003 Oct;14(5):491-6</RefSource>
+                <PMID Version="1">14580578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(9):R54</RefSource>
+                <PMID Version="1">12952533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2009 Dec;4(12):1653-70</RefSource>
+                <PMID Version="1">19946878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008;9:75</RefSource>
+                <PMID Version="1">18261238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2009 Feb;7(2):129-43</RefSource>
+                <PMID Version="1">19116616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2008 Dec 1;101(5):1053-71</RefSource>
+                <PMID Version="1">18767191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1994 Oct;60(10):3724-31</RefSource>
+                <PMID Version="1">7986045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Microb Physiol. 1998;39:31-130</RefSource>
+                <PMID Version="1">9328646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2008 Oct 1;101(2):209-28</RefSource>
+                <PMID Version="1">18727018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2008 Jun;26(6):659-67</RefSource>
+                <PMID Version="1">18536691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2007 Aug 15;97(6):1460-9</RefSource>
+                <PMID Version="1">17274071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2011 Apr;7(4):222-7</RefSource>
+                <PMID Version="1">21358636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1997 Jun;63(6):2306-10</RefSource>
+                <PMID Version="1">16535628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2011 Mar;6(3):300-5</RefSource>
+                <PMID Version="1">21370473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010;4:31</RefSource>
+                <PMID Version="1">20307315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2008 Dec 1;101(5):1036-52</RefSource>
+                <PMID Version="1">18767192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2007;3:121</RefSource>
+                <PMID Version="1">17593909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D623-31</RefSource>
+                <PMID Version="1">17965431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2008 Dec;4(12):e1000236</RefSource>
+                <PMID Version="1">19057639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2010 Sep;192(17):4452-61</RefSource>
+                <PMID Version="1">20622067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2008 Dec;74(24):7709-14</RefSource>
+                <PMID Version="1">18849451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1991 Sep;57(9):2544-8</RefSource>
+                <PMID Version="1">1722664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2007;8:212</RefSource>
+                <PMID Version="1">17584497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Sep 28;282(39):28791-9</RefSource>
+                <PMID Version="1">17573341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2005;33(17):5691-702</RefSource>
+                <PMID Version="1">16214803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2009;10(6):R69</RefSource>
+                <PMID Version="1">19555510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D534-8</RefSource>
+                <PMID Version="1">17932063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Rev. 1995 Oct;17(3):263-73</RefSource>
+                <PMID Version="1">7576768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2002 May;12(5):760-9</RefSource>
+                <PMID Version="1">11997342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Cell Fact. 2008 Dec 03;7:36</RefSource>
+                <PMID Version="1">19055772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Rec. 2004;4(5):305-14</RefSource>
+                <PMID Version="1">15543610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2001 Nov;67(11):5025-31</RefSource>
+                <PMID Version="1">11679321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1986 Dec;50(4):484-524</RefSource>
+                <PMID Version="1">3540574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):727-38</RefSource>
+                <PMID Version="1">17406635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2010 Jul;5(7):726-38</RefSource>
+                <PMID Version="1">20665645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1985 Mar;49(3):522-9</RefSource>
+                <PMID Version="1">16346746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jan 3;451(7174):86-9</RefSource>
+                <PMID Version="1">18172501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2010;11:213</RefSource>
+                <PMID Version="1">20426874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1995 Jan;177(2):439-48</RefSource>
+                <PMID Version="1">7814334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Microbiol. 2002 Mar;4(3):133-40</RefSource>
+                <PMID Version="1">12000313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Nov;2(11):886-97</RefSource>
+                <PMID Version="1">15494745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2008 Oct;80(5):849-62</RefSource>
+                <PMID Version="1">18758767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioresour Technol. 2008 Sep;99(13):5915-22</RefSource>
+                <PMID Version="1">18061440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</RefSource>
+                <PMID Version="1">9254694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2010 Feb;85(6):1697-712</RefSource>
+                <PMID Version="1">20033401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1984 Oct;48(4):764-70</RefSource>
+                <PMID Version="1">16346643</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019149" MajorTopicYN="Y">Bioreactors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000440" MajorTopicYN="N">Butanols</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046970" MajorTopicYN="N">Clostridium beijerinckii</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005285" MajorTopicYN="N">Fermentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006601" MajorTopicYN="N">Hexoses</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007218" MajorTopicYN="N">Industrial Microbiology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010429" MajorTopicYN="N">Pentoses</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049490" MajorTopicYN="N">Systems Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3212993</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21846360</ArticleId>
+            <ArticleId IdType="pii">1752-0509-5-130</ArticleId>
+            <ArticleId IdType="doi">10.1186/1752-0509-5-130</ArticleId>
+            <ArticleId IdType="pmc">PMC3212993</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
