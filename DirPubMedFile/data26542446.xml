@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26542446</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1757-6334</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bioinformatics and computational biology</Title>
+                <ISOAbbreviation>J Bioinform Comput Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>EnzDP: improved enzyme annotation for metabolic network reconstruction based on domain composition profiles.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1543003</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1142/S0219720015430039</ELocationID>
+            <Abstract>
+                <AbstractText>Determining the entire complement of enzymes and their enzymatic functions is a fundamental step for reconstructing the metabolic network of cells. High quality enzyme annotation helps in enhancing metabolic networks reconstructed from the genome, especially by reducing gaps and increasing the enzyme coverage. Currently, structure-based and network-based approaches can only cover a limited number of enzyme families, and the accuracy of homology-based approaches can be further improved. Bottom-up homology-based approach improves the coverage by rebuilding Hidden Markov Model (HMM) profiles for all known enzymes. However, its clustering procedure relies firmly on BLAST similarity score, ignoring protein domains/patterns, and is sensitive to changes in cut-off thresholds. Here, we use functional domain architecture to score the association between domain families and enzyme families (Domain-Enzyme Association Scoring, DEAS). The DEAS score is used to calculate the similarity between proteins, which is then used in clustering procedure, instead of using sequence similarity score. We improve the enzyme annotation protocol using a stringent classification procedure, and by choosing optimal threshold settings and checking for active sites. Our analysis shows that our stringent protocol EnzDP can cover up to 90% of enzyme families available in Swiss-Prot. It achieves a high accuracy of 94.5% based on five-fold cross-validation. EnzDP outperforms existing methods across several testing scenarios. Thus, EnzDP serves as a reliable automated tool for enzyme annotation and metabolic network reconstruction. Available at: www.comp.nus.edu.sg/~nguyennn/EnzDP .</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>Nam-Ninh</ForeName>
+                    <Initials>NN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, National University of Singapore, Singapore 117417, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srihari</LastName>
+                    <ForeName>Sriganesh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Molecular Bioscience, The University of Queensland, St Lucia, Queensland 4067, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leong</LastName>
+                    <ForeName>Hon Wai</ForeName>
+                    <Initials>HW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, National University of Singapore, Singapore 117417, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chong</LastName>
+                    <ForeName>Ket-Fah</ForeName>
+                    <Initials>KF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, National University of Singapore, Singapore 117417, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D023361">Validation Studies</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Bioinform Comput Biol</MedlineTA>
+            <NlmUniqueID>101187344</NlmUniqueID>
+            <ISSNLinking>0219-7200</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004798">Enzymes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030562" MajorTopicYN="N">Databases, Protein</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004798" MajorTopicYN="N">Enzymes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008390" MajorTopicYN="N">Markov Chains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040681" MajorTopicYN="N">Structural Homology, Protein</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Automated function prediction</Keyword>
+            <Keyword MajorTopicYN="N">HMM profiles</Keyword>
+            <Keyword MajorTopicYN="N">domain enzyme association</Keyword>
+            <Keyword MajorTopicYN="N">enzyme classification</Keyword>
+            <Keyword MajorTopicYN="N">functional domain architecture</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26542446</ArticleId>
+            <ArticleId IdType="doi">10.1142/S0219720015430039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

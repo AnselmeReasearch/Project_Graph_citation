@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">28479069</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-376X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1071</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Dec</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+                <ISOAbbreviation>J. Chromatogr. B Analyt. Technol. Biomed. Life Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automated pathway and reaction prediction facilitates in silico identification of unknown metabolites in human cohort studies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>58-67</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1570-0232(17)30568-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jchromb.2017.04.002</ELocationID>
+            <Abstract>
+                <AbstractText>Identification of metabolites in non-targeted metabolomics continues to be a bottleneck in metabolomics studies in large human cohorts. Unidentified metabolites frequently emerge in the results of association studies linking metabolite levels to, for example, clinical phenotypes. For further analyses these unknown metabolites must be identified. Current approaches utilize chemical information, such as spectral details and fragmentation characteristics to determine components of unknown metabolites. Here, we propose a systems biology model exploiting the internal correlation structure of metabolite levels in combination with existing biochemical and genetic information to characterize properties of unknown molecules. Levels of 758 metabolites (439 known, 319 unknown) in human blood samples of 2279 subjects were measured using a non-targeted metabolomics platform (LC-MS and GC-MS). We reconstructed the structure of biochemical pathways that are imprinted in these metabolomics data by building an empirical network model based on 1040 significant partial correlations between metabolites. We further added associations of these metabolites to 134 genes from genome-wide association studies as well as reactions and functional relations to genes from the public database Recon 2 to the network model. From the local neighborhood in the network, we were able to predict the pathway annotation of 180 unknown metabolites. Furthermore, we classified 100 pairs of known and unknown and 45 pairs of unknown metabolites to 21 types of reactions based on their mass differences. As a proof of concept, we then looked further into the special case of predicted dehydrogenation reactions leading us to the selection of 39 candidate molecules for 5 unknown metabolites. Finally, we could verify 2 of those candidates by applying LC-MS analyses of commercially available candidate substances. The formerly unknown metabolites X-13891 and X-13069 were shown to be 2-dodecendioic acid and 9-tetradecenoic acid, respectively. Our data-driven approach based on measured metabolite levels and genetic associations as well as information from public resources can be used alone or together with methods utilizing spectral patterns as a complementary, automated and powerful method to characterize unknown metabolites.</AbstractText>
+                <CopyrightInformation>Copyright © 2017. Published by Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quell</LastName>
+                    <ForeName>Jan D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genome-oriented Bioinformatics, TUM School of Life Sciences Weihenstephan, Technical University of Munich, Freising, Germany; Institute of Bioinformatics and Systems Biology, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Römisch-Margl</LastName>
+                    <ForeName>Werner</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Bioinformatics and Systems Biology, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colombo</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Population Health Sciences, Usher Institute of Population Health Sciences and Informatics, University of Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krumsiek</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Computational Biology, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Anne M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolon Inc., Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohney</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolon Inc., Durham, NC, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salomaa</LastName>
+                    <ForeName>Veikko</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health, National Institute for Health and Welfare, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Faire</LastName>
+                    <ForeName>Ulf</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Cardiovascular Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Groop</LastName>
+                    <ForeName>Leif C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Sciences - Diabetes and Endocrinology, Lund University, Malmö, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agakov</LastName>
+                    <ForeName>Felix</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pharmatics Limited, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Looker</LastName>
+                    <ForeName>Helen C</ForeName>
+                    <Initials>HC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Population Health Sciences, University of Dundee, Dundee, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKeigue</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Population Health Sciences, Usher Institute of Population Health Sciences and Informatics, University of Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colhoun</LastName>
+                    <ForeName>Helen M</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Population Health Sciences, University of Dundee, Dundee, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kastenmüller</LastName>
+                    <ForeName>Gabi</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Bioinformatics and Systems Biology, Helmholtz Zentrum München, German Research Center for Environmental Health, Neuherberg, Germany. Electronic address: g.kastenmueller@helmholtz-muenchen.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+            <NlmUniqueID>101139554</NlmUniqueID>
+            <ISSNLinking>1570-0232</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002853" MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008401" MajorTopicYN="N">Gas Chromatography-Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013058" MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055442" MajorTopicYN="N">Metabolome</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055432" MajorTopicYN="N">Metabolomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biochemical pathway prediction</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic network reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">Metabolite identification</Keyword>
+            <Keyword MajorTopicYN="N">Non-targeted metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">Reaction prediction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>04</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28479069</ArticleId>
+            <ArticleId IdType="pii">S1570-0232(17)30568-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jchromb.2017.04.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

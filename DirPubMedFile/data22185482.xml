@@ -1,0 +1,319 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22185482</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1752-0509</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC systems biology</Title>
+                <ISOAbbreviation>BMC Syst Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Individualized therapy of HHT driven by network analysis of metabolomic profiles.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>200</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1752-0509-5-200</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Hereditary Hemorrhagic Telangiectasia (HHT) is an autosomal dominant disease with a varying range of phenotypes involving abnormal vasculature primarily manifested as arteriovenous malformations in various organs, including the nose, brain, liver, and lungs. The varied presentation and involvement of different organ systems makes the choice of potential treatment medications difficult.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A patient with a mixed-clinical presentation and presumed diagnosis of HHT, severe exertional dyspnea, and diffuse pulmonary shunting at the microscopic level presented for treatment. We sought to analyze her metabolomic plasma profile to assist with pharmacologic treatment selection. Fasting serum samples from 5 individuals (4 healthy and 1 with HHT) were metabolomically profiled. A global metabolic network reconstruction, Recon 1, was used to help guide the choice of medication via analysis of the differential metabolism between the patient and healthy controls using metabolomic data. Flux Balance Analysis highlighted changes in metabolic pathway activity, notably in nitric oxide synthase (NOS), which suggested a potential link between changes in vascular endothelial function and metabolism. This finding supported the use of an already approved medication, bevacizumab (Avastin). Following 2 months of treatment, the patient's metabolic profile shifted, becoming more similar to the control subject profiles, suggesting that the treatment was addressing at least part of the pathophysiological state.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In this 'individualized case study' of personalized medicine, we carry out untargeted metabolomic profiling of a patient and healthy controls. Rather than filtering the data down to a single value, these data are analyzed in the context of a network model of metabolism, in order to simulate the biochemical phenotypic differences between healthy and disease states; the results then guide the therapy. This presents one approach to achieving the goals of individualized medicine through Systems Biology and causal models analysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jamshidi</LastName>
+                    <ForeName>Neema</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiological Sciences, University of California, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Franklin J</ForeName>
+                    <Initials>FJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mandel</LastName>
+                    <ForeName>Jess</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Timothy</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Michael D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Syst Biol</MedlineTA>
+            <NlmUniqueID>101301827</NlmUniqueID>
+            <ISSNLinking>1752-0509</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2S9ZZM9Q9V</RegistryNumber>
+                <NameOfSubstance UI="D000068258">Bevacizumab</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biosyst. 2007 Sep;3(9):598-603</RefSource>
+                <PMID Version="1">17700859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Heart J. 2001 Nov;142(5):872-80</RefSource>
+                <PMID Version="1">11685177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2008;9:43</RefSource>
+                <PMID Version="1">18218092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2008;416:409-31</RefSource>
+                <PMID Version="1">18392985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haemophilia. 2008 Nov;14(6):1269-80</RefSource>
+                <PMID Version="1">19141168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epigenetics. 2009 Jan;4(1):43-6</RefSource>
+                <PMID Version="1">19218833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2009;5:263</RefSource>
+                <PMID Version="1">19401675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2009;3:38</RefSource>
+                <PMID Version="1">19356237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2009;3:52</RefSource>
+                <PMID Version="1">19445715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2009 Aug;6(8):589-92</RefSource>
+                <PMID Version="1">19597503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2003 Oct;5(4):264-76</RefSource>
+                <PMID Version="1">14642354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Pharmacol. 1996 Jun;27(6):838-44</RefSource>
+                <PMID Version="1">8761851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Feb 22;102(8):2685-9</RefSource>
+                <PMID Version="1">15710883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 May 31;102(22):7841-6</RefSource>
+                <PMID Version="1">15908506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2006 May 22;580(12):2879-87</RefSource>
+                <PMID Version="1">16631753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Sep 1;12(17):5018-22</RefSource>
+                <PMID Version="1">16951216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Feb 6;104(6):1777-82</RefSource>
+                <PMID Version="1">17267599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(3):727-38</RefSource>
+                <PMID Version="1">17406635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Prog. 2007 Mar-Apr;23(2):320-6</RefSource>
+                <PMID Version="1">17373823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Jul 31;104(31):12663-8</RefSource>
+                <PMID Version="1">17652176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biosci Bioeng. 2008 Jan;105(1):1-11</RefSource>
+                <PMID Version="1">18295713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med Genet. 2000 Mar 6;91(1):66-7</RefSource>
+                <PMID Version="1">10751092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Feb 26;427(6977):839-43</RefSource>
+                <PMID Version="1">14985762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BioDrugs. 2011 Jun 1;25(3):159-69</RefSource>
+                <PMID Version="1">21627340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010;4:140</RefSource>
+                <PMID Version="1">20959003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 Oct 19;6:422</RefSource>
+                <PMID Version="1">20959820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2010 Oct;192(20):5534-48</RefSource>
+                <PMID Version="1">20709898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 Sep 7;6:401</RefSource>
+                <PMID Version="1">20823844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2010 Jun;13(3):344-9</RefSource>
+                <PMID Version="1">20430689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                <PMID Version="1">20212490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2009;5:320</RefSource>
+                <PMID Version="1">19888215</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D061067" MajorTopicYN="N">Antibodies, Monoclonal, Humanized</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000068258" MajorTopicYN="N">Bevacizumab</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055442" MajorTopicYN="N">Metabolome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057285" MajorTopicYN="N">Precision Medicine</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049490" MajorTopicYN="N">Systems Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013683" MajorTopicYN="N">Telangiectasia, Hereditary Hemorrhagic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3339509</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22185482</ArticleId>
+            <ArticleId IdType="pii">1752-0509-5-200</ArticleId>
+            <ArticleId IdType="doi">10.1186/1752-0509-5-200</ArticleId>
+            <ArticleId IdType="pmc">PMC3339509</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

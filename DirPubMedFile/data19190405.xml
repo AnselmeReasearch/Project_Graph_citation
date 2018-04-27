@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19190405</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1017-7825</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of microbiology and biotechnology</Title>
+                <ISOAbbreviation>J. Microbiol. Biotechnol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Investigation of the central carbon metabolism of Sorangium cellulosum: metabolic network reconstruction and quantification of pathway fluxes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23-36</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In the present work, the metabolic network of primary metabolism of the slow-growing myxobacterium Sorangium cellulosum was reconstructed from the annotated genome sequence of the type strain So ce56. During growth on glucose as the carbon source and asparagine as the nitrogen source, So ce56 showed a very low growth rate of 0.23 d-(1), equivalent to a doubling time of 3 days. Based on a complete stoichiometric and isotopomer model of the central metabolism, 13C metabolic flux analysis was carried out for growth with glucose as carbon and asparagine as nitrogen sources. Normalized to the uptake flux for glucose (100%), cells recruited glycolysis (51%) and the pentose phosphate pathway (48%) as major catabolic pathways. The Entner-Doudoroff pathway and glyoxylate shunt were not active. A high flux through the TCA cycle (118%) enabled a strong formation of ATP, but cells revealed a rather low yield for biomass. Inspection of fluxes linked to energy metabolism revealed that S. cellulosum utilized only 10% of the ATP formed for growth, whereas 90% is required for maintenance. This explains the apparent discrepancy between the relatively low biomass yield and the high flux through the energy-delivering TCA cycle. The total flux of NADPH supply (216%) was higher than the demand for anabolism (156%), indicating additional reactions for balancing of NADPH. The cells further exhibited a highly active metabolic cycle, interconverting C3 and C4 metabolites of glycolysis and the TCA cycle. The present work provides the first insight into fluxes of the primary metabolism of myxobacteria, especially for future investigation on the supply of cofactors, building blocks, and energy in myxobacteria, producing natural compounds of biotechnological interest.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bolten</LastName>
+                    <ForeName>Christoph J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemical Engineering, Saarland University, D-66041 Saarbrucken, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heinzle</LastName>
+                    <ForeName>Elmar</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>Rolf</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wittmann</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>J Microbiol Biotechnol</MedlineTA>
+            <NlmUniqueID>9431852</NlmUniqueID>
+            <ISSNLinking>1017-7825</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53-59-8</RegistryNumber>
+                <NameOfSubstance UI="D009249">NADP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7006-34-0</RegistryNumber>
+                <NameOfSubstance UI="D001216">Asparagine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-44-0</RegistryNumber>
+                <NameOfSubstance UI="D002244">Carbon</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001216" MajorTopicYN="N">Asparagine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002244" MajorTopicYN="N">Carbon</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002247" MajorTopicYN="N">Carbon Isotopes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002952" MajorTopicYN="N">Citric Acid Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006019" MajorTopicYN="N">Glycolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009231" MajorTopicYN="N">Myxococcales</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009249" MajorTopicYN="N">NADP</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010427" MajorTopicYN="N">Pentose Phosphate Pathway</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19190405</ArticleId>
+            <ArticleId IdType="pii">8179</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

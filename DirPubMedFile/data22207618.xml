@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22207618</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of experimental botany</Title>
+                <ISOAbbreviation>J. Exp. Bot.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide metabolic network reconstruction of the picoalga Ostreococcus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2353-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jxb/err407</ELocationID>
+            <Abstract>
+                <AbstractText>The green picoalga Ostreococcus is emerging as a simple plant model organism, and two species, O. lucimarinus and O. tauri, have now been sequenced and annotated manually. To evaluate the completeness of the metabolic annotation of both species, metabolic networks of O. lucimarinus and O. tauri were reconstructed from the KEGG database, thermodynamically constrained, elementally balanced, and functionally evaluated. The draft networks contained extensive gaps and, in the case of O. tauri, no biomass components could be produced due to an incomplete Calvin cycle. To find and remove gaps from the networks, an extensive reference biochemical reaction database was assembled using a stepwise approach that minimized the inclusion of microbial reactions. Gaps were then removed from both Ostreococcus networks using two existing gap-filling methodologies. In the first method, a bottom-up approach, a minimal list of reactions was added to each model to enable the production of all metabolites included in our biomass equation. In the second method, a top-down approach, all reactions in the reference database were added to the target networks and subsequently trimmed away based on the sequence alignment scores of identified orthologues. Because current gap-filling methods do not produce unique solutions, a quality metric that includes a weighting for phylogenetic distance and sequence similarity was developed to distinguish between gap-filling results automatically. The draft O. lucimarinus and O. tauri networks required the addition of 56 and 70 reactions, respectively, in order to produce the same biomass precursor metabolites that were produced by our plant reference database.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Krumholz</LastName>
+                    <ForeName>Elias W</ForeName>
+                    <Initials>EW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Biology, University of Minnesota, Saint Paul, MN 55108, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weisenhorn</LastName>
+                    <ForeName>Pamela</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henry</LastName>
+                    <ForeName>Christopher S</ForeName>
+                    <Initials>CS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Libourel</LastName>
+                    <ForeName>Igor G L</ForeName>
+                    <Initials>IG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Exp Bot</MedlineTA>
+            <NlmUniqueID>9882906</NlmUniqueID>
+            <ISSNLinking>0022-0957</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000460" MajorTopicYN="N">Chlorophyta</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030541" MajorTopicYN="N">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018745" MajorTopicYN="N">Genome, Plant</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058977" MajorTopicYN="N">Molecular Sequence Annotation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22207618</ArticleId>
+            <ArticleId IdType="pii">err407</ArticleId>
+            <ArticleId IdType="doi">10.1093/jxb/err407</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

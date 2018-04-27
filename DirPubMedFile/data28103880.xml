@@ -1,0 +1,405 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">28103880</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1752-0509</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>01</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC systems biology</Title>
+                <ISOAbbreviation>BMC Syst Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of genome-scale metabolic network reconstruction to predict fluxes and equilibrium composition of N-fixing versus C-fixing cells in a diazotrophic cyanobacterium, Trichodesmium erythraeum.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12918-016-0383-z</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Computational, genome based predictions of organism phenotypes has enhanced the ability to investigate the biological phenomena that help organisms survive and respond to their environments. In this study, we have created the first genome-scale metabolic network reconstruction of the nitrogen fixing cyanobacterium T. erythraeum and used genome-scale modeling approaches to investigate carbon and nitrogen fluxes as well as growth and equilibrium population composition.</AbstractText>
+                <AbstractText Label="RESULTS">We created a genome-scale reconstruction of T. erythraeum with 971 reactions, 986 metabolites, and 647 unique genes. We then used data from previous studies as well as our own laboratory data to establish a biomass equation and two distinct submodels that correspond to the two cell types formed by T. erythraeum. We then use flux balance analysis and flux variability analysis to generate predictions for how metabolism is distributed to account for the unique productivity of T. erythraeum. Finally, we used in situ data to constrain the model, infer time dependent population compositions and metabolite production using dynamic Flux Balance Analysis. We find that our model predicts equilibrium compositions similar to laboratory measurements, approximately 15.5% diazotrophs for our model versus 10-20% diazotrophs reported in literature. We also found that equilibrium was the most efficient mode of growth and that equilibrium was stoichiometrically mediated. Moreover, the model predicts that nitrogen leakage is an essential condition of optimality for T. erythraeum; cells leak approximately 29.4% total fixed nitrogen when growing at the optimal growth rate, which agrees with values observed in situ.</AbstractText>
+                <AbstractText Label="CONCLUSION">The genome-metabolic network reconstruction allows us to use constraints based modeling approaches to predict growth and optimal cellular composition in T. erythraeum colonies. Our predictions match both in situ and laboratory data, indicating that stoichiometry of metabolic reactions plays a large role in the differentiation and composition of different cell types. In order to realize the full potential of the model, advance modeling techniques which account for interactions between colonies, the environment and surrounding species need to be developed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gardner</LastName>
+                    <ForeName>Joseph J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biological Engineering, Colorado School of Mines, Golden, CO, 80401, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyle</LastName>
+                    <ForeName>Nanette R</ForeName>
+                    <Initials>NR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biological Engineering, Colorado School of Mines, Golden, CO, 80401, USA. nboyle@mines.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>01</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Syst Biol</MedlineTA>
+            <NlmUniqueID>101301827</NlmUniqueID>
+            <ISSNLinking>1752-0509</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2014 Mar 24;4:4445</RefSource>
+                <PMID Version="1">24658259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2009 Jan 07;3:4</RefSource>
+                <PMID Version="1">19128495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Nov 16;294(5546):1534-7</RefSource>
+                <PMID Version="1">11711677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2007 Oct 1;79(19):7554-9</RefSource>
+                <PMID Version="1">17822305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1994 Nov;60(11):3996-4000</RefSource>
+                <PMID Version="1">16349432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 May 9;97(10):5669-74</RefSource>
+                <PMID Version="1">10805817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Syst Biol. 2010 Nov 17;4:156</RefSource>
+                <PMID Version="1">21083885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2013 May;8(5):619-30</RefSource>
+                <PMID Version="1">23613453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 May 4;287(19):15811-25</RefSource>
+                <PMID Version="1">22403401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1998 Aug;64(8):3052-8</RefSource>
+                <PMID Version="1">9687472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2015 Dec 1;112(48):E6634-43</RefSource>
+                <PMID Version="1">26508635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CSH Protoc. 2007 Nov 01;2007:pdb.ip47</RefSource>
+                <PMID Version="1">21356961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D206-14</RefSource>
+                <PMID Version="1">24293654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2012 Oct;109(10):2475-83</RefSource>
+                <PMID Version="1">22510989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Physiol. 2004 Aug;135(4):2120-33</RefSource>
+                <PMID Version="1">15299119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Res Microbiol. 2003 Apr;154(3):157-64</RefSource>
+                <PMID Version="1">12706503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metabolites. 2014 Aug 20;4(3):680-98</RefSource>
+                <PMID Version="1">25141288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012;8(4):e1002460</RefSource>
+                <PMID Version="1">22529767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Physiol. 2010 Dec;154(4):1737-52</RefSource>
+                <PMID Version="1">20935180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2012 Feb;8(2):e1002363</RefSource>
+                <PMID Version="1">22319433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2011 Aug 02;7:518</RefSource>
+                <PMID Version="1">21811229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Plant Sci. 2000 Apr;5(4):148-53</RefSource>
+                <PMID Version="1">10740295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1996 May 15;316 ( Pt 1):73-80</RefSource>
+                <PMID Version="1">8645235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2015 May 29;290(22):14019-30</RefSource>
+                <PMID Version="1">25869135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2002 Sep;83(3):1331-40</RefSource>
+                <PMID Version="1">12202358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ISME J. 2015 Jan;9(1):238-45</RefSource>
+                <PMID Version="1">24972068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Cell. 2013 Nov;25(11):4305-23</RefSource>
+                <PMID Version="1">24280389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2015;1308:109-17</RefSource>
+                <PMID Version="1">26108500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2011 Dec 16;334(6062):1551-3</RefSource>
+                <PMID Version="1">22174252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2008 Jan;36(Database issue):D623-31</RefSource>
+                <PMID Version="1">17965431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Aug 26;430(7003):1027-32</RefSource>
+                <PMID Version="1">15329721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2003 Oct;5(4):264-76</RefSource>
+                <PMID Version="1">14642354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D26-31</RefSource>
+                <PMID Version="1">24225321</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D457-62</RefSource>
+                <PMID Version="1">26476454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2013;9(6):e1003081</RefSource>
+                <PMID Version="1">23843751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2011 Aug 04;6(9):1290-307</RefSource>
+                <PMID Version="1">21886097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2014 Aug 26;4:6187</RefSource>
+                <PMID Version="1">25155278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1971 Feb;68(2):265-7</RefSource>
+                <PMID Version="1">16591901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1990 Oct 5;215(3):403-10</RefSource>
+                <PMID Version="1">2231712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2014 Jan;42(Database issue):D666-70</RefSource>
+                <PMID Version="1">24275496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2009 Jun;295(2):281-8</RefSource>
+                <PMID Version="1">19456868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Plant Physiol. 2010 Feb;152(2):579-89</RefSource>
+                <PMID Version="1">20044452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2003 Feb;13(2):244-53</RefSource>
+                <PMID Version="1">12566402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 May;149(Pt 5):1139-46</RefSource>
+                <PMID Version="1">12724375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2011 Feb;11(3):406-19</RefSource>
+                <PMID Version="1">21268270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2016 May 06;11(5):e0155038</RefSource>
+                <PMID Version="1">27152931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1954 Jul;57(3):508-14</RefSource>
+                <PMID Version="1">13181867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Biochem Physiol. 1959 Aug;37(8):911-7</RefSource>
+                <PMID Version="1">13671378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2016 Jan 4;44(D1):D1202-13</RefSource>
+                <PMID Version="1">26400175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Mikrobiol. 1969;69(1):79-91</RefSource>
+                <PMID Version="1">4986297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2006 Jun;72(6):4382-7</RefSource>
+                <PMID Version="1">16751554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2010 Mar;28(3):245-8</RefSource>
+                <PMID Version="1">20212490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2011 Jan;39(Database issue):D670-6</RefSource>
+                <PMID Version="1">21062828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eukaryot Cell. 2010 Aug;9(8):1251-61</RefSource>
+                <PMID Version="1">20562225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2015 Apr 7;112(14):4251-6</RefSource>
+                <PMID Version="1">25831533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1966 Apr;99(1):1-11</RefSource>
+                <PMID Version="1">5337756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Microbiol Biotechnol. 2008 Dec;81(4):629-36</RefSource>
+                <PMID Version="1">18795284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Metab Eng. 2010 Jul;12(4):387-91</RefSource>
+                <PMID Version="1">20172043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2010 Jan;5(1):93-121</RefSource>
+                <PMID Version="1">20057383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jan 5;439(7072):68-71</RefSource>
+                <PMID Version="1">16397497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1971 Jan;105(1):200-10</RefSource>
+                <PMID Version="1">5541006</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057486" MajorTopicYN="Y">Carbon Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064688" MajorTopicYN="Y">Metabolic Flux Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="Y">Metabolic Networks and Pathways</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009586" MajorTopicYN="Y">Nitrogen Fixation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072359" MajorTopicYN="N">Trichodesmium</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Constraints based modeling</Keyword>
+            <Keyword MajorTopicYN="Y">Diazotrophy</Keyword>
+            <Keyword MajorTopicYN="Y">Flux balance analysis</Keyword>
+            <Keyword MajorTopicYN="Y">Flux variability analysis</Keyword>
+            <Keyword MajorTopicYN="Y">Marine cyanobacteria</Keyword>
+            <Keyword MajorTopicYN="Y">Nitrogen cycle</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28103880</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12918-016-0383-z</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12918-016-0383-z</ArticleId>
+            <ArticleId IdType="pmc">PMC5244712</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24909362</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1096-7184</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Metabolic engineering</Title>
+                <ISOAbbreviation>Metab. Eng.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolic network reconstruction, growth characterization and 13C-metabolic flux analysis of the extremophile Thermus thermophilus HB8.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>173-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ymben.2014.05.013</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1096-7176(14)00072-X</ELocationID>
+            <Abstract>
+                <AbstractText>Thermus thermophilus is an extremely thermophilic bacterium with significant biotechnological potential. In this work, we have characterized aerobic growth characteristics of T. thermophilus HB8 at temperatures between 50 and 85°C, constructed a metabolic network model of its central carbon metabolism and validated the model using (13)C-metabolic flux analysis ((13)C-MFA). First, cells were grown in batch cultures in custom constructed mini-bioreactors at different temperatures to determine optimal growth conditions. The optimal temperature for T. thermophilus grown on defined medium with glucose was 81°C. The maximum growth rate was 0.25h(-1). Between 50 and 81°C the growth rate increased by 7-fold and the temperature dependence was described well by an Arrhenius model with an activation energy of 47kJ/mol. Next, we performed a (13)C-labeling experiment with [1,2-(13)C] glucose as the tracer and calculated intracellular metabolic fluxes using (13)C-MFA. The results provided support for the constructed network model and highlighted several interesting characteristics of T. thermophilus metabolism. We found that T. thermophilus largely uses glycolysis and TCA cycle to produce biosynthetic precursors, ATP and reducing equivalents needed for cells growth. Consistent with its proposed metabolic network model, we did not detect any oxidative pentose phosphate pathway flux or Entner-Doudoroff pathway activity. The biomass precursors erythrose-4-phosphate and ribose-5-phosphate were produced via the non-oxidative pentose phosphate pathway, and largely via transketolase, with little contribution from transaldolase. The high biomass yield on glucose that was measured experimentally was also confirmed independently by (13)C-MFA. The results presented here provide a solid foundation for future studies of T. thermophilus and its metabolic engineering applications.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 International Metabolic Engineering Society. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Swarup</LastName>
+                    <ForeName>Aditi</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical &amp; Biomolecular Engineering, Metabolic Engineering and Systems Biology Laboratory, University of Delaware, Newark DE 19716, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical &amp; Biomolecular Engineering, Metabolic Engineering and Systems Biology Laboratory, University of Delaware, Newark DE 19716, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DeWoody</LastName>
+                    <ForeName>Kathleen C</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical &amp; Biomolecular Engineering, Metabolic Engineering and Systems Biology Laboratory, University of Delaware, Newark DE 19716, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antoniewicz</LastName>
+                    <ForeName>Maciek R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical &amp; Biomolecular Engineering, Metabolic Engineering and Systems Biology Laboratory, University of Delaware, Newark DE 19716, USA. Electronic address: mranton@udel.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Belgium</Country>
+            <MedlineTA>Metab Eng</MedlineTA>
+            <NlmUniqueID>9815657</NlmUniqueID>
+            <ISSNLinking>1096-7176</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002247" MajorTopicYN="N">Carbon Isotopes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002952" MajorTopicYN="N">Citric Acid Cycle</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006019" MajorTopicYN="N">Glycolysis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006358" MajorTopicYN="Y">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007553" MajorTopicYN="N">Isotope Labeling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010427" MajorTopicYN="N">Pentose Phosphate Pathway</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016963" MajorTopicYN="N">Thermus thermophilus</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Extremophile</Keyword>
+            <Keyword MajorTopicYN="N">Isotopic labeling</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic network model</Keyword>
+            <Keyword MajorTopicYN="N">Optimal growth</Keyword>
+            <Keyword MajorTopicYN="N">Thermophilic bacterium</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>04</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24909362</ArticleId>
+            <ArticleId IdType="pii">S1096-7176(14)00072-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ymben.2014.05.013</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

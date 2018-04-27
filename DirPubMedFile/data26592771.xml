@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26592771</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2008-823X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Iranian biomedical journal</Title>
+                <ISOAbbreviation>Iran. Biomed. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metabolomics-Based Study of Logarithmic and Stationary Phases of Promastigotes in Leishmania major by 1H NMR Spectroscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>77-83</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cutaneous leishmaniasis is one of the most important parasitic diseases in humans. In this disease, one of the responsible organisms is Leishmania major, which is transmitted by sandfly vector. There are specific differences in biochemical profiles and metabolite pathways in logarithmic and stationary phases of Leishmania parasites. In the present study, 1H NMR spectroscopy was used to examine the metabolites outliers in the logarithmic and stationary phases of promastigotes in L. major to enlighten more about the transmission mechanism in metacyclogenesis of L. major.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Promastigote was cultured, logarithmic and stationary phases were separated by the peanut agglutinin, and cell metabolites were extracted. 1H NMR spectroscopy was applied, and outliers were analyzed using principal component analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The most altered metabolites in stationary and logarithmic phases were limited to citraconic acid, isopropylmalic acid, L-leucine, ornithine, caprylic acid, capric acid, and acetic acid.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">1H NMR spectroscopy could play an important role in the characterization of metabolites in biochemical pathways during a metacyclogenesis process. These metabolites and their pathways can help in exploiting a transmission mechanism in metacyclogenesis, and outcoming data might be used in the metabolic network reconstruction of L. major modeling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Arjmand</LastName>
+                    <ForeName>Mohammad</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Biochemistry, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Madrakian</LastName>
+                    <ForeName>Azadeh</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Biochemistry, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Microbiology, Islamic Azad University, Pharmaceutical Sciences Branch, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khalili</LastName>
+                    <ForeName>Ghader</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Immunology, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najafi Dastnaee</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Immunology, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zamani</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Biochemistry, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akbari</LastName>
+                    <ForeName>Ziba</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Biochemistry, Pasteur Institute of Iran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Iran</Country>
+            <MedlineTA>Iran Biomed J</MedlineTA>
+            <NlmUniqueID>9814853</NlmUniqueID>
+            <ISSNLinking>1028-852X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Microbiol. 2001;55:453-83</RefSource>
+                <PMID Version="1">11544364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13453-8</RefSource>
+                <PMID Version="1">12351682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Iran J Parasitol. 2013 Jul;8(3):348-58</RefSource>
+                <PMID Version="1">24454426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2003 Nov;5(13):1231-40</RefSource>
+                <PMID Version="1">14623019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Negl Trop Dis. 2013;7(12):e2587</RefSource>
+                <PMID Version="1">24367711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br Med Bull. 2012;104:175-96</RefSource>
+                <PMID Version="1">23137768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 1981 Nov;4(1-2):117-27</RefSource>
+                <PMID Version="1">6798439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Parasitol. 2007 Apr;23(4):149-58</RefSource>
+                <PMID Version="1">17320480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Control Release. 2011 Jul 15;153(1):34-9</RefSource>
+                <PMID Version="1">21406205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Dermatol. 1996 Sep-Oct;14(5):425-31</RefSource>
+                <PMID Version="1">8889320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitology. 1989 Feb;98 ( Pt 1):7-15</RefSource>
+                <PMID Version="1">2717219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Korean J Parasitol. 2006 Dec;44(4):355-60</RefSource>
+                <PMID Version="1">17170577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Negl Trop Dis. 2011 Dec;5(12):e1451</RefSource>
+                <PMID Version="1">22206037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2000 May;267(9):2555-66</RefSource>
+                <PMID Version="1">10785375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 2008 Jul;119(3):422-9</RefSource>
+                <PMID Version="1">18486941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2007 Mar;152(1):35-46</RefSource>
+                <PMID Version="1">17188763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2008;4:177</RefSource>
+                <PMID Version="1">18364711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2004 Sep;5(9):763-9</RefSource>
+                <PMID Version="1">15340383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Parasitol. 2003 Sep 15;33(10):1027-34</RefSource>
+                <PMID Version="1">13129524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Genet Evol. 2009 Mar;9(2):290-7</RefSource>
+                <PMID Version="1">19100863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trop Biomed. 2011 Aug;28(2):411-7</RefSource>
+                <PMID Version="1">22041763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Protozool. 1990 Nov-Dec;37(6):505-10</RefSource>
+                <PMID Version="1">2128337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitology. 2002 May;124(Pt 5):495-507</RefSource>
+                <PMID Version="1">12049412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 2005 Jan;109(1):38-48</RefSource>
+                <PMID Version="1">15639138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2008 Aug;11(4):340-4</RefSource>
+                <PMID Version="1">18625337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2004 Aug;53(3):725-33</RefSource>
+                <PMID Version="1">15255887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mass Spectrom Rev. 2005 Sep-Oct;24(5):613-46</RefSource>
+                <PMID Version="1">15389842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 1995 Jan 26;142(2):89-97</RefSource>
+                <PMID Version="1">7770070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Toxicon. 2015 Feb;94:16-22</RefSource>
+                <PMID Version="1">25478805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Egypt Soc Parasitol. 1997 Dec;27(3):781-94</RefSource>
+                <PMID Version="1">9425822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1987 Nov;55(11):2802-6</RefSource>
+                <PMID Version="1">3666964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Mar;3(3):251-61</RefSource>
+                <PMID Version="1">15738951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 2005 Sep;46(9):2029-32</RefSource>
+                <PMID Version="1">16103133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 1969 Dec;26(3):329-35</RefSource>
+                <PMID Version="1">5401460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Res. 1999 Apr;85(4):300-6</RefSource>
+                <PMID Version="1">10099012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Oil Chem Soc. 1968 Jan;45(1):23-5</RefSource>
+                <PMID Version="1">5642081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2003 Oct 24;310(3):943-8</RefSource>
+                <PMID Version="1">14550295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitology. 2010 Aug;137(9):1291-302</RefSource>
+                <PMID Version="1">20109253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Today. 1993 Apr;9(4):118-22</RefSource>
+                <PMID Version="1">15463727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Trop. 1999 Jul 30;73(2):121-33</RefSource>
+                <PMID Version="1">10465052</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018320" MajorTopicYN="N">Leishmania major</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055432" MajorTopicYN="N">Metabolomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011522" MajorTopicYN="N">Protons</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4726887</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Leishmania major</Keyword>
+            <Keyword MajorTopicYN="N">Metabolomics</Keyword>
+            <Keyword MajorTopicYN="N">Principal component analysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26592771</ArticleId>
+            <ArticleId IdType="pii">Pii-IBJ-A-10-1312-1</ArticleId>
+            <ArticleId IdType="pmc">PMC4726887</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

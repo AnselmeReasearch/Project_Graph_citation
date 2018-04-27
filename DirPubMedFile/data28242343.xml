@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">28242343</PMID>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-0480</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>68</Volume>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biomedical informatics</Title>
+                <ISOAbbreviation>J Biomed Inform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biomedical applications of cell- and tissue-specific metabolic network models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1532-0464(17)30039-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jbi.2017.02.014</ELocationID>
+            <Abstract>
+                <AbstractText>The essential goal of biomedical research is to understand the underlying mechanism of disease development. Unfortunately, achieving this goal requires expensive and time-consuming efforts in medical biotechnology. This review focuses on how context-specific genome-scale metabolic network models may facilitate reaching this goal. Such models provide an in silico framework for computational simulation of cellular metabolism, predicting the outcome of experiments. Therefore, by using these models at the initial stages of experimental design, time and cost in biomedical researches may be reduced. Furthermore, with the availability of such models, not only important pathways involved in cell dysfunction may be better understood, but also drug targets predicted based on these models can be seen as novel targets for in vivo validation. The main point of this review is that metabolic modeling can predict drug targets and biomarkers without the need for kinetics data. We provide a comprehensive review of human metabolic models and their applications, in addition to the methods used for analyzing models. We discuss how these models have been used in analyzing metabolic capabilities of different cells and tissues, in identifying disease-related metabolic pathways and biomarkers, and in understanding the human-microbe interaction.</AbstractText>
+                <CopyrightInformation>Copyright © 2017 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fouladiha</LastName>
+                    <ForeName>Hamideh</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marashi</LastName>
+                    <ForeName>Sayed-Amir</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biotechnology, College of Science, University of Tehran, Tehran, Iran. Electronic address: marashi@ut.ac.ir.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biomed Inform</MedlineTA>
+            <NlmUniqueID>100970413</NlmUniqueID>
+            <ISSNLinking>1532-0464</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Context-specific metabolic models</Keyword>
+            <Keyword MajorTopicYN="N">Host-microbe interaction</Keyword>
+            <Keyword MajorTopicYN="N">Metabolic network reconstruction</Keyword>
+            <Keyword MajorTopicYN="N">Systems biology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">28242343</ArticleId>
+            <ArticleId IdType="pii">S1532-0464(17)30039-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jbi.2017.02.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

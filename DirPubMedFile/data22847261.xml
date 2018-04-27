@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22847261</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1572-9699</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>102</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antonie van Leeuwenhoek</Title>
+                <ISOAbbreviation>Antonie Van Leeuwenhoek</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Reconstruction of the Saccharopolyspora erythraea genome-scale model and its use for enhancing erythromycin production.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>493-502</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Genome-scale metabolic reconstructions are routinely used for the analysis and design of metabolic engineering strategies for production of primary metabolites. The use of such reconstructions for metabolic engineering of antibiotic production is not common due to the lack of simple design algorithms in the absence of a cellular growth objective function. Here, we present the metabolic network reconstruction for the erythromycin producer Saccharopolyspora erythraea NRRL23338. The model was manually curated for primary and secondary metabolism pathways and consists of 1,482 reactions (2,075 genes) and 1,646 metabolites. As part of the model validation, we explored the potential benefits of supplying amino acids and identified five amino acids &quot;compatible&quot; with erythromycin production, whereby if glucose is supplemented with this amino acid on a carbon mole basis, the in silico model predicts that high erythromycin yield is possible without lowering biomass yield. Increased erythromycin titre was confirmed for four of the five amino acids, namely valine, isoleucine, threonine and proline. In bioreactor experiments, supplementation with 2.5 % carbon mole of valine increased the growth rate by 20 % and simultaneously the erythromycin yield on biomass by 50 %. The model presented here can be used as a framework for the future integration of high-throughput biological data sets in S. erythraea and ultimately to realise strain designs capable of increasing erythromycin production closer to the theoretical yield.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Licona-Cassani</LastName>
+                    <ForeName>Cuauhtemoc</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Australian Institute for Bioengineering and Nanotechnology, The University of Queensland, St Lucia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marcellin</LastName>
+                    <ForeName>Esteban</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quek</LastName>
+                    <ForeName>Lake-Ee</ForeName>
+                    <Initials>LE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacob</LastName>
+                    <ForeName>Shana</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Lars K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Antonie Van Leeuwenhoek</MedlineTA>
+            <NlmUniqueID>0372625</NlmUniqueID>
+            <ISSNLinking>0003-6072</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>63937KV33D</RegistryNumber>
+                <NameOfSubstance UI="D004917">Erythromycin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004917" MajorTopicYN="N">Erythromycin</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="Y">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060847" MajorTopicYN="N">Metabolic Engineering</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053858" MajorTopicYN="N">Metabolic Networks and Pathways</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016930" MajorTopicYN="N">Saccharopolyspora</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22847261</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10482-012-9783-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
