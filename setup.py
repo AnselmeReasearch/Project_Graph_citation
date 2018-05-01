@@ -31,7 +31,7 @@ setup (
         'Programming Language :: Python :: 3.6',
         'Topic :: Scientific/Engineering :: Bio-Informatics',
      ],
-    install_requires = ["setuptools","argparse"],
+    install_requires = ["setuptools","pickle", "time", "sys", "os", "networkx", "xml"],
     package_data = {
         '': ['*.vcf', '*.gz', '*.tbi'],
         },
@@ -39,3 +39,5 @@ setup (
 
 
 )
+
+
