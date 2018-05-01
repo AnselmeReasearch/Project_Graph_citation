@@ -5,19 +5,19 @@
 from setuptools import setup
 #-----------------------------------------#
 
-with open ("README1.md", "r") as fileR :
+with open ("README.md", "r") as fileR :
     description_library  = fileR.read()
 
 
 setup (
-    name = "project_Stage_Hans",
+    name = "Project_Graph_Citation",
     version = "1.0",
-    description = "useful VCF tool",
+    description = "graph citation Pubmed tools",
     license='MIT',
     long_description = description_library,
-    url = "https://github.com/HansCeril/vcf_tools_converter",
-    author_email = "bioinfo@CHRU-LILLE.FR",
-    keywords='genetics genome Human variants Allele insertion computational',
+    url = "https://github.com/HansCeril/Project_Graph_citation",
+    author_email = "hans-ceril@hotmail.fr",
+    keywords='PubMed Graph Citation',
     classifiers = [
         'Intended Audience :: Developers',
         'Intended Audience :: Science/Research',
